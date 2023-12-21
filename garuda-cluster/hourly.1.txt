@@ -1116,3 +1116,7 @@ gnome-shell-extension-logo-menu
 
 # Issue 2951
 nvchad-git
+
+# Issue 2965
+icu69 # (dep code-features)
+code-features
