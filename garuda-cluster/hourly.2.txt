@@ -482,7 +482,7 @@ corepdf
 gis-weather
 gis-weather-git
 health
-image-roll:https://aur.archlinux.org/image-roll-git.git
+image-roll:https://aur.archlinux.org/image-roll-git.git # (interfere)
 libcprime # (dep corepdf corekeyboard coreimage corepad corepaint)
 relevation
 revelation

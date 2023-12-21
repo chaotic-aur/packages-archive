@@ -15,14 +15,16 @@ nss-hg
 wasi-sdk-git
 --
 firefox-wayland-hg
+--
 firefox-nightly
+--
 
 # obs-studio with cef browser
 libdatachannel # (dep obs-studio-git)
 qrcodegen-cmake:https://aur.archlinux.org/qrcodegen-cmake.git # (make obs-studio-git)
 --
 obs-studio-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (obs-studio-git obs-studio-stable)
-
+--
 
 ## Maintainers
 # Alexjp
@@ -89,10 +91,13 @@ wine-ge-custom
 # Issue 1038
 svt-av1-git # (dep ffmpeg-obs)
 cef-minimal-obs-bin # (dep obs-studio-tytan652)
-ffmpeg-obs # (dep obs-studio-tytan652)
 ftl-sdk # (dep obs-studio-tytan652)
+--
+ffmpeg-obs # (dep obs-studio-tytan652)
 vlc-luajit # (dep obs-studio-tytan652)
+--
 obs-studio-tytan652
+--
 
 # Issue 1133
 leagueoflegends-git
@@ -196,7 +201,7 @@ ola # (dep qlcplus)
 qlcplus
 
 # Issue 2635
-wine-wow64:https://aur.archlinux.org/wine-wow64-git.git
+wine-wow64:https://aur.archlinux.org/wine-wow64-git.git # (interfere)
 
 # Issue 2636
 element-desktop-git
@@ -224,7 +229,7 @@ kwin-scripts-truely-maximized
 material-symbols-git:https://aur.archlinux.org/material-symbols-git.git
 
 # Issue 2948
-wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git
+wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git # (interfere)
 
 ## OTHERS
 non-euclidean-git
