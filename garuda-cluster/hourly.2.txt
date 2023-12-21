@@ -879,3 +879,6 @@ ddnet
 # Issue 2947
 vencord-desktop
 vencord-desktop-git
+
+# Issue 2963
+vulkan-nouveau-git
