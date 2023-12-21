@@ -46,7 +46,6 @@ luxtorpeda-git
 minecraft-launcher
 minigalaxy
 nyrna
-openrgb
 openrgb-git
 openssl-1.0 # (dep epsxe)
 oversteer
