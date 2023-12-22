@@ -21,6 +21,7 @@ python-omemo-dr-git
 ryzen_smu-dkms-git
 ryzenadj-git
 ryzen-controller-bin
+scripthaus-git
 tidal-hifi-bin
 tor-router
 libva-nvidia-driver-git
