@@ -880,6 +880,9 @@ ddnet
 vencord-desktop
 vencord-desktop-git
 
+# Issue 2952
+compfy
+
 # Issue 2953
 insomnium
 
