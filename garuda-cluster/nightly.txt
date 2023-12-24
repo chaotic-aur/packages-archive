@@ -3,7 +3,7 @@ firedragon
 librewolf:https://aur.archlinux.org/librewolf.git
 thunderbird-appmenu
 
-# emulators
+# Emulators
 citra-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (citra-git citra-avx-git)
 decaf-emu-git
 nestopia-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
@@ -13,18 +13,12 @@ git-cinnabar
 nspr-hg
 nss-hg
 wasi-sdk-git
---
-firefox-wayland-hg
---
 firefox-nightly
---
 
 # obs-studio with cef browser
 libdatachannel # (dep obs-studio-git)
 qrcodegen-cmake:https://aur.archlinux.org/qrcodegen-cmake.git # (make obs-studio-git)
---
 obs-studio-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (obs-studio-git obs-studio-stable)
---
 
 ## Maintainers
 # Alexjp
@@ -97,7 +91,6 @@ ffmpeg-obs # (dep obs-studio-tytan652)
 vlc-luajit # (dep obs-studio-tytan652)
 --
 obs-studio-tytan652
---
 
 # Issue 1133
 leagueoflegends-git
