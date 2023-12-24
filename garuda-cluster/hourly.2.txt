@@ -49,7 +49,6 @@ dfl-utils # (dep greetd-qtgreet)
 dfl-wayqt # (dep greetd-qtgreet)
 greetd-gtkgreet-git
 greetd-qtgreet
-hyprland-nvidia-git
 wlr-randr-git
 wpaperd
 xdg-desktop-portal-hyprland-git
