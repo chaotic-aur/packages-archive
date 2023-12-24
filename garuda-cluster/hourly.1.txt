@@ -1120,3 +1120,6 @@ nvchad-git
 # Issue 2965
 icu69 # (dep code-features)
 code-features
+
+# Issue 2968
+ltex-ls-bin
