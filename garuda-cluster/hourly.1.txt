@@ -313,6 +313,9 @@ adbmanager
 # jpierce.coder on forum
 brave-beta-bin
 
+# houssem.kochat9 on forum
+resources
+
 # Via mail (9th June)
 notepadnext
 schildichat-desktop
