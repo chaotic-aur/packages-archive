@@ -371,7 +371,6 @@ onedrive-abraunegg
 pycharm-community-eap
 slack-term
 typora
-waterfox-g3-bin
 
 # Issue 335
 compiz
