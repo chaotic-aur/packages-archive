@@ -8,13 +8,6 @@ citra-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (citra-git
 decaf-emu-git
 nestopia-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
-# Firefox
-git-cinnabar
-nspr-hg
-nss-hg
-wasi-sdk-git
-firefox-nightly
-
 # obs-studio with cef browser
 libdatachannel # (dep obs-studio-git)
 qrcodegen-cmake:https://aur.archlinux.org/qrcodegen-cmake.git # (make obs-studio-git)
@@ -244,3 +237,10 @@ rebar3 # A sophisticated build-tool for Erlang projects that follows OTP princip
 # Arch doesn't upgrade to minor versions
 elixir-stable:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 elixir-ls
+
+# Firefox
+git-cinnabar
+nspr-hg
+nss-hg
+wasi-sdk-git
+firefox-nightly
