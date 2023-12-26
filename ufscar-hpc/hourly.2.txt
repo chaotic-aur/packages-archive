@@ -316,10 +316,6 @@ leftwm-theme-git
 # Issue 562
 lollypop-git
 
-# Issue 563
-audiotube-git
-futuresql-git # (dep audiotube-git)
-
 # Issue 564
 neovide-git
 
