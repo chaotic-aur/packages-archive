@@ -1,6 +1,4 @@
 ## Chaotic
-firefox-wayland-hg
-
 # Issue 655
 linux-xanmod-lts
 

@@ -16,7 +16,6 @@ python-sphinx-automodapi
 tweeny
 vim-colorschemes
 
-
 ## User requests
 # Issue 316
 scummvm-git
@@ -106,3 +105,13 @@ lib32-mesa-git:https://github.com/chaotic-aur/lib32-mesa-git.git
 # gcc (Issue 2016)
 gcc10:https://aur.archlinux.org/gcc10.git # gcc11-{fortran,libs}
 gcc11:https://aur.archlinux.org/gcc11.git # gcc11-{fortran,libs}
+
+--
+
+# Firefox
+git-cinnabar
+nspr-hg
+nss-hg
+wasi-sdk-git
+firefox-nightly
+firefox-wayland-hg

@@ -237,10 +237,3 @@ rebar3 # A sophisticated build-tool for Erlang projects that follows OTP princip
 # Arch doesn't upgrade to minor versions
 elixir-stable:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 elixir-ls
-
-# Firefox
-git-cinnabar
-nspr-hg
-nss-hg
-wasi-sdk-git
-firefox-nightly
