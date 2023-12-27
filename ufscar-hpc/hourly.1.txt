@@ -1469,7 +1469,7 @@ gimp-extras
 chatgpt-desktop-bin
 
 # Issue 2236
-floorp
+floorp-bin
 
 # Issue 2251
 micromamba
