@@ -214,8 +214,12 @@ kwin-scripts-truely-maximized
 # Issue 2893
 material-symbols-git:https://aur.archlinux.org/material-symbols-git.git
 
+# Issue 2911
+tuba:https://aur.archlinux.org/tuba-git.git # interfere
+
 # Issue 2948
 wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git # (interfere)
+
 
 ## OTHERS
 non-euclidean-git
