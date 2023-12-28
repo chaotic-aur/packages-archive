@@ -4,7 +4,7 @@ librewolf:https://aur.archlinux.org/librewolf.git
 thunderbird-appmenu
 
 # Emulators
-citra-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (citra-git citra-avx-git)
+citra-nightly-git # (citra-nightly-git citra-nightly-avx-git)
 decaf-emu-git
 nestopia-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
