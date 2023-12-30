@@ -385,7 +385,7 @@ gitify-bin
 redshift-minimal
 
 # Issue 653
-icons-in-terminal # (dep nnn-icons)
+icons-in-terminal-git # (dep nnn-icons)
 nnn-icons
 
 # Issue 654
