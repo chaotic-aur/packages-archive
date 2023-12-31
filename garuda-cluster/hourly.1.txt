@@ -437,7 +437,7 @@ sound-theme-smooth
 usbaudio-git
 waybar-module-pacman-updates-git
 xiaomitool-v2
-
+spotube-bin
 
 ## Technetium1
 acidrip
