@@ -1727,6 +1727,9 @@ ytdl-shim
 # Issue 2883
 winbox
 
+# Issue 2975
+nautilus-code-git
+
 # Electron
 electron17-bin
 electron18-bin
