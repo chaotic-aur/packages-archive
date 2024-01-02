@@ -1164,11 +1164,6 @@ wld-git # (dep swc-git velox-git)
 swc-git # (dep velox-git)
 velox-git
 
-# Issue 1456
-python-chess-git # (dep stockfish-git)
-stockfish-git
-stockfish
-
 # Issue 1464
 noisetorch
 noisetorch-git
