@@ -6,7 +6,7 @@ thunderbird-appmenu
 # Emulators
 citra-nightly-git # (citra-nightly-git citra-nightly-avx-git)
 decaf-emu-git
-nestopia-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
+nestopia-git:https://aur.archlinux.org/nestopia.git # interfere
 
 # obs-studio with cef browser
 libdatachannel # (dep obs-studio-git)
