@@ -119,7 +119,7 @@ python-pydes # (dep ytmdl)
 python-simber # (dep ytmdl)
 python-spotipy # (dep ytmdl)
 youtube-search-python # (dep ytmdl)
-ytmdl:https://github.com/chaotic-aur/pkgbuild-empty-project.git
+ytmdl
 
 # Issue 1676
 art-rawconverter:https://github.com/chaotic-aur/pkgbuild-empty-project.git
