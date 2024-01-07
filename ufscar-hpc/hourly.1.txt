@@ -1720,7 +1720,7 @@ plasma5-themes-macsonoma-git
 
 # Issue 2874
 youtube-dl-git
-ytdl-shim
+yt-dlp-drop-in
 
 # Issue 2883
 winbox
