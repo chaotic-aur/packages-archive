@@ -428,8 +428,8 @@ pulseaudio-control
 deadd-notification-center-git
 
 # Issue 356
+filebot
 java-p7zip-binding
-mullvad-vpn
 windscribe-cli
 
 # Issue 357
@@ -612,7 +612,6 @@ spotify-tray-git
 vala-panel-appmenu-registrar-git
 
 # Issue 471
-filebot
 feem
 
 # Issue 473
@@ -867,6 +866,7 @@ python-types-python-dateutil # (dep python-rst.linker git-cola)
 ngrok
 
 # Issue 1465
+mullvad-vpn
 mullvad-vpn-cli
 
 # Issue 1466
