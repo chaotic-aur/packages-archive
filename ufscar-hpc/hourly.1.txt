@@ -456,8 +456,6 @@ quixel-bridge
 # Issue 379
 ckb-next
 osu-lazer
-tuxedo-control-center-bin
-tuxedo-keyboard-dkms
 
 # Issue 380
 acestream-launcher
@@ -1729,6 +1727,11 @@ winbox
 
 # Issue 2975
 nautilus-code-git
+
+# Issues 2981
+tuxedo-control-center-bin
+tuxedo-drivers-dkms
+
 
 # Electron
 electron17-bin
