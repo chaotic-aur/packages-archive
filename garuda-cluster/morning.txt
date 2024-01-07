@@ -23,6 +23,12 @@ mysql
 # Issue 2006
 linux-xanmod
 
+# Issue 2242
+linux-xanmod-lts-v2:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
+linux-xanmod-lts-v3:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
+linux-xanmod-v2:https://aur.archlinux.org/linux-xanmod.git # interfere
+linux-xanmod-v3:https://aur.archlinux.org/linux-xanmod.git # interfere
+
 # Issue 2578
 beeper-latest-bin:https://aur.archlinux.org/beeper-latest-bin.git
 
