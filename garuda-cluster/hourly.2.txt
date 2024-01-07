@@ -712,6 +712,16 @@ celestia-addon-voyagers
 celestia-addon-xwing
 celestia
 
+# Issue 2387
+python-sphinx_mdinclude:https://aur.archlinux.org/python-sphinx_mdinclude.git # (make python-desktop-notifier)
+python-desktop-notifier # (dep maestral)
+python-sphinx-paramlinks # (make python-survey)
+python-wrapio # (dep python-survey)
+python-pyro5 # (dep maestral)
+python-survey # (dep maestral)
+maestral # (dep maestral-qt)
+maestral-qt # (opt maestral)
+
 # Issue 2444
 rustdesk-bin
 
