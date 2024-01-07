@@ -30,4 +30,5 @@ beeper-latest-bin:https://aur.archlinux.org/beeper-latest-bin.git
 linux-binder
 
 # Issue 2859
-mercury-browser-bin # (mercury-browser-avx-bin)
+mercury-browser-avx-bin:https://aur.archlinux.org/mercury-browser-bin.git # interfere
+mercury-browser-sse3-bin:https://aur.archlinux.org/mercury-browser-sse3-bin.git
