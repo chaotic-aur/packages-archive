@@ -793,9 +793,6 @@ anki
 # Issue 966
 qimgv-git
 
-# Issue 968
-via-bin
-
 # Issue 969
 fondo
 
