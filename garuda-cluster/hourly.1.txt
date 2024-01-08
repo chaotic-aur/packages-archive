@@ -314,6 +314,7 @@ brave-beta-bin
 
 # houssem.kochat9 on forum
 resources
+weather-gtk4
 
 # Via mail (9th June)
 notepadnext
