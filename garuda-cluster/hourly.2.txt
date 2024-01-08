@@ -51,7 +51,6 @@ greetd-gtkgreet-git
 greetd-qtgreet
 wlr-randr-git
 wpaperd
-xdg-desktop-portal-hyprland-git
 
 # i3
 azote
