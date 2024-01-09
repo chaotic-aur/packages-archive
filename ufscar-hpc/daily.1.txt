@@ -26,6 +26,9 @@ linux-mainline
 # Issue 394
 icecat
 
+# Issue 655
+linux-xanmod-lts
+
 # Issue 640
 rpcs3-git
 
@@ -77,8 +80,20 @@ linux-lqx
 # Issue 1784
 luckybackup
 
+# Issue 2006
+linux-xanmod
+
 # Issue 2175
 kodi-nexus-git
+
+# Issue 2242
+linux-xanmod-lts-v2:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
+--
+linux-xanmod-lts-v3:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
+--
+linux-xanmod-v2:https://aur.archlinux.org/linux-xanmod.git # interfere
+--
+linux-xanmod-v3:https://aur.archlinux.org/linux-xanmod.git # interfere
 
 # Issue 2278
 lapce-git

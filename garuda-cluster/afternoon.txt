@@ -1,7 +1,4 @@
 ## Chaotic
-# Issue 655
-linux-xanmod-lts
-
 # Issue 761
 odr-dabmod-git
 
