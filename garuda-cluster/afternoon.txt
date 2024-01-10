@@ -8,9 +8,6 @@ odr-dabmux-git
 # Issue 767
 caprice32-git
 
-# Issue 873
-linux-vfio-lts
-
 # Issue 964
 pcsx2-avx-git # (pcsx2-git, pcsx2-avx-git)
 

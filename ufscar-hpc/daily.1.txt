@@ -48,6 +48,9 @@ codelite-unstable
 # Issue 833
 lean4-git
 
+# Issue 873
+linux-vfio-lts
+
 # Issue 920
 aura
 aura-git
