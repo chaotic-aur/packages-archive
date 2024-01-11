@@ -112,6 +112,9 @@ hunspell-uk
 # Issue 1243
 chromium-wayland-vaapi
 
+# Issue 2987
+wayland-chromium
+
 --
 
 spirv-headers-git # (dep llvm-git) # Issue 2698
