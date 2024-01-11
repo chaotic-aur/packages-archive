@@ -904,3 +904,6 @@ breeze-enhanced-git # (dep kvantum-qt5-git)
 adapta-aurorae-theme-git # (dep kvantum-qt5-git)
 kvantum-qt5-git # (dep kvantum-qt6-git)
 kvantum-qt6-git
+
+# Issue 2979
+beaver-notes
