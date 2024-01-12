@@ -35,9 +35,6 @@ linux-clear
 # Issue 1330
 linux-tt
 
-# Issue 1522
-linux-nitrous
-
 # Issue 1662
 linux-xanmod
 
@@ -50,9 +47,6 @@ linux-drm-next-git
 
 # Issue 2119
 trayscale
-
-# Issue 2189
-linux-nitrous-fire
 
 # Issue 2397
 cosmic-epoch-git

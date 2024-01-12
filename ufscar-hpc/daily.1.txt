@@ -74,6 +74,9 @@ lyx
 # Issue 1404
 swiftshader-git
 
+# Issue 1522
+linux-nitrous
+
 # Issue 1632
 kodi-git:https://aur.archlinux.org/kodi-git.git
 
@@ -88,6 +91,9 @@ linux-xanmod
 
 # Issue 2175
 kodi-nexus-git
+
+# Issue 2189
+linux-nitrous-fire
 
 # Issue 2242
 linux-xanmod-lts-v2:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
