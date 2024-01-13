@@ -6,8 +6,8 @@ This is the right place to submit package requests, bug reports, or outdated pac
 
 #### Some packages we have already built
 
-- [Linux-tkg kernels](https://github.com/Frogging-Family/linux-tkg) (BMQ, CFS,LTO, PDS, TT + their generic_v3 variations)
-- Other popular kernel variations such as [Mainline](https://aur.archlinux.org/packages/linux-mainline)/, [Xanmod-{tt,rt,lts}](https://aur.archlinux.org/packages?O=0&SeB=nd&K=xanmod), [Vfio](https://aur.archlinux.org/packages/linux-vfio)/-[lts](https://aur.archlinux.org/packages/linux-vfio-lts), [Next-git](https://aur.archlinux.org/packages/linux-next-git), [Cachyos-BORE](https://aur.archlinux.org/packages/linux-cachyos-bore) or [TT](https://aur.archlinux.org/packages/linux-tt)
+- [Linux-tkg kernels](https://github.com/Frogging-Family/linux-tkg) (BMQ, CFS,LTO, PDS, TT, and generic_v3 variations)
+- Other kernel variations such as [Cachyos-BORE](https://aur.archlinux.org/packages/linux-cachyos-bore)/[TT](https://aur.archlinux.org/packages/linux-tt), [Clear](https://aur.archlinux.org/packages/linux-clear), [Next-git](https://aur.archlinux.org/packages/linux-next-git), [Nitrous](https://aur.archlinux.org/packages/linux-nitrous) [VFIO](https://aur.archlinux.org/packages/linux-vfio), [XanMod](https://aur.archlinux.org/packages/linux-xanmod).
 - A quite complete [KDE stack](https://invent.kde.org/explore/groups?sort=name_asc) in a [separate repo](https://forum.garudalinux.org/t/kde-6-repository-testing/31442). 
 - Most of the existing emulators & gaming utilities like [Yuzu](https://yuzu-emu.org/), [RPCS3](https://github.com/RPCS3/rpcs3), and {[Proton](https://github.com/GloriousEggroll/proton-ge-custom),[Wine](https://github.com/GloriousEggroll/wine-ge-custom)}-GE-Custom
 - A lot of browsers like [Firedragon](https://github.com/dr460nf1r3/firedragon-browser), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Firefox-wayland-hg](https://aur.archlinux.org/packages/firefox-wayland-hg), , and [Icecat](http://www.gnu.org/software/gnuzilla/)

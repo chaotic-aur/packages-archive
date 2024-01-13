@@ -32,9 +32,6 @@ linux-cachyos-bore # (pkgname is set to linux-bore via interfere, got dropped fr
 # Issue 1325
 linux-clear
 
-# Issue 1330
-linux-tt
-
 # Issue 1662
 linux-xanmod
 
