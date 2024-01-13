@@ -142,7 +142,6 @@ gstreamer0.10-base # (dep foxitreader)
 guiscrcpy
 python-pynput # (dep guiscrcpy streamdeck-ui-git)
 mailspring
-mellowplayer
 mendeleydesktop
 nordpy
 nordvpn-bin
