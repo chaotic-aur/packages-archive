@@ -60,7 +60,6 @@ reshade-shaders-git
 retroarch-autoconfig-udev-git
 retrolink-git
 sc-controller
-stacer
 steamtinkerlaunch
 stremio
 vkbasalt # (opt goverlay-git steamtinkerlaunch)
