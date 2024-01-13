@@ -164,19 +164,8 @@ zsync2-git
 
 # Other firmware
 8188eu-aircrack-dkms-git
-8188fu-dkms-git
-8188fu-kelebek333-dkms-git
-8192eu-dkms-git
-r8168-dkms
-realtek-firmware
-rtl8192cu-fixes-git
-rtl88x2bu-dkms-git
-rtl88x2ce-dkms-git
 rtl88xxau-aircrack-dkms-git
-rtw88-dkms-git
-rtw89-dkms-git
-wd719x-firmware
-
+r8168-dkms
 
 ## Chaotic
 # Issue 340
