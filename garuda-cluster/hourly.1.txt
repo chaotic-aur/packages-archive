@@ -332,7 +332,6 @@ arch-deployer-git
 babl-git # (dep gimp-git)
 brave-nightly-bin
 btop-git
-catch2-git # (dep waybar-hyprland-git)
 cfs-zen-tweaks
 chkrootkit
 clamav-unofficial-sigs
@@ -348,7 +347,6 @@ firejail-pacman-hook
 firetools-git
 fish-git
 flutter # (dep fluffychat)
-fmt9 # (dep waybar-hyprland-git)
 forkgram
 gegl-git # (dep gimp-git)
 gimp-git
@@ -389,14 +387,12 @@ riseup-vpn
 rufetch
 rusnapshot-git
 searx
-spdlog-git # (dep waybar-hyprland-git)
 sudo-git
 teams-for-linux-git
 telegram-desktop-userfonts
 traitor-git
 vscodium-insiders
 vscodium-insiders-marketplace
-waybar-hyprland-git
 waydroid-git
 whoogle
 whoogle-git

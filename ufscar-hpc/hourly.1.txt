@@ -87,7 +87,6 @@ bluespec-bdw-git
 ## Pedro
 #pipewire-dropin # (bad quality)
 #scrcpy-git (broken)
-#waybar-git (broken)
 asdf-vm
 autoconf-git
 b43-firmware # not really needed
@@ -118,6 +117,7 @@ ttf-font-awesome-4
 tuxclocker
 ums
 vapoursynth-git # (dep mpv-full-git)
+waybar-git
 wayfire-git
 waynergy-git
 waypipe-git
