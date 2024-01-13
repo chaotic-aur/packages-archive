@@ -1021,9 +1021,6 @@ libva-intel-driver-hybrid
 tone-bin
 m4b-tool-bin
 
-# Issue 1637
-intel-ucode-clear
-
 # Issue 1638
 nnn-nerd
 
