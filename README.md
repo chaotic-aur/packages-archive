@@ -7,11 +7,27 @@ This is the right place to submit package requests, bug reports, or outdated pac
 #### Some packages we have already built
 
 - [Linux-tkg kernels](https://github.com/Frogging-Family/linux-tkg) (BMQ, CFS,LTO, PDS, TT, and generic_v3 variations)
-- Other kernel variations such as [Cachyos-BORE](https://aur.archlinux.org/packages/linux-cachyos-bore)/[TT](https://aur.archlinux.org/packages/linux-tt), [Clear](https://aur.archlinux.org/packages/linux-clear), [Next-git](https://aur.archlinux.org/packages/linux-next-git), [Nitrous](https://aur.archlinux.org/packages/linux-nitrous) [VFIO](https://aur.archlinux.org/packages/linux-vfio), [XanMod](https://aur.archlinux.org/packages/linux-xanmod).
-- A quite complete [KDE stack](https://invent.kde.org/explore/groups?sort=name_asc) in a [separate repo](https://forum.garudalinux.org/t/kde-6-repository-testing/31442). 
-- Most of the existing emulators & gaming utilities like [Yuzu](https://yuzu-emu.org/), [RPCS3](https://github.com/RPCS3/rpcs3), and {[Proton](https://github.com/GloriousEggroll/proton-ge-custom),[Wine](https://github.com/GloriousEggroll/wine-ge-custom)}-GE-Custom
-- A lot of browsers like [Firedragon](https://github.com/dr460nf1r3/firedragon-browser), [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium), [Firefox-wayland-hg](https://aur.archlinux.org/packages/firefox-wayland-hg), , and [Icecat](http://www.gnu.org/software/gnuzilla/)
-- ... a lot more. Check out the [package lists](https://github.com/chaotic-aur/packages/find/main) to find out what exactly gets built and when! 🕵️‍♀️
+- Other kernel variations such as
+    [Cachyos-BORE](https://aur.archlinux.org/packages/linux-cachyos-bore)/[TT](https://aur.archlinux.org/packages/linux-tt),
+    [Clear](https://aur.archlinux.org/packages/linux-clear),
+    [Next-git](https://aur.archlinux.org/packages/linux-next-git),
+    [Nitrous](https://aur.archlinux.org/packages/linux-nitrous),
+    [VFIO](https://aur.archlinux.org/packages/linux-vfio),
+    and [XanMod](https://aur.archlinux.org/packages/linux-xanmod)
+- A quite complete [KDE stack](https://invent.kde.org/explore/groups?sort=name_asc) in a [separate repo](https://forum.garudalinux.org/t/kde-6-repository-testing/31442)
+- Emulators and gaming utilities like
+    [RPCS3](https://github.com/RPCS3/rpcs3),
+    [Yuzu](https://yuzu-emu.org/),
+    and {[Proton](https://github.com/GloriousEggroll/proton-ge-custom),[Wine](https://github.com/GloriousEggroll/wine-ge-custom)}-GE-Custom
+- A lot of browsers like
+    [Firedragon](https://github.com/dr460nf1r3/firedragon-browser),
+    [Firefox-wayland-hg](https://aur.archlinux.org/packages/firefox-wayland-hg),
+    [Floorp](https://floorp.app/),
+    [Icecat](http://www.gnu.org/software/gnuzilla/),
+    and [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)
+- ... a lot more ...
+
+Check out the [package lists](https://github.com/chaotic-aur/packages/find/main) to find out what exactly gets built and when! 🕵️‍♀️
 
 #### Modified packages
 
@@ -43,9 +59,9 @@ This is a list of packages that we will reject for good reasons:
 
 - **lib32-\***: The difficulty of maintaining 32-bit packages is increasing as their usefulness decreases.  They may be considered to keep existing packages working, like `wine-*`.  Otherwise, use 64-bit packages when available.
 
-- **gst-plugins-{ugly,bad}**: These need too frequent rebuilds which can't be dealt with as we don't control the packages pkgrel. Ultimately this would result in a bad user experience - dependency requests however are welcome!
+- **gst-plugins-{ugly,bad}**: These need too frequent rebuilds which can't be dealt with as we don't control the packages pkgrel. Ultimately this would result in a bad user experience.
 
-- **ffmpeg-{full,headless}**:  These need too frequent rebuilds which can't be dealt with as we don't control the packages pkgrel. Ultimately this would result in a bad user experience - dependency requests however are welcome!
+- **ffmpeg-{full,headless}**:  These need too frequent rebuilds which can't be dealt with as we don't control the packages pkgrel. Ultimately this would result in a bad user experience.
 
 - **mpv-amd, ffmpeg-amd**: This is just MPV/FFMPEG without CUDA and NVENC to achieve shorter build times without actual end-user benefit.
 
@@ -61,10 +77,10 @@ This is a list of packages that we will reject for good reasons:
 
 - **aseprite{-git}**: Redistribution is explicitly prohibited in its [FAQ](https://www.aseprite.org/faq/#can-i-redistribute-aseprite).
 
-- **multimc\***: Redistribution of custom binaries that include their API keys and trademarked assets is [explicitly prohibited](https://multimc.org/#Branding).
-
-- **tlauncher**: Legal gray area, as it potentially allows playing Minecraft in a reduced capacity without license.
-
 - **feishu**: Unauthorized redistribution of their applications is explicitly prohibited per [ToS](https://www.feishu.cn/en/terms).
 
+- **multimc\***: Redistribution of custom binaries that include their API keys and trademarked assets is [explicitly prohibited](https://multimc.org/#Branding).
+
 - **rider**: Redistribution disallowed per [ToS](https://www.jetbrains.com/legal/docs/toolbox/user).
+
+- **tlauncher**: Legal gray area, as it potentially allows playing Minecraft in a reduced capacity without license.
