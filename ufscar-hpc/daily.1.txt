@@ -21,7 +21,7 @@ vim-colorschemes
 scummvm-git
 
 # Issue 331
-linux-mainline
+linux-v3:https://gitlab.archlinux.org/archlinux/packaging/packages/linux.git
 
 # Issue 394
 icecat
