@@ -1331,9 +1331,6 @@ thorium-reader-git:https://aur.archlinux.org/thorium-reader.git # (interfere)
 # Issue 1928
 icaclient
 
-# Issue 1931
-r8152-dkms
-
 # Issue 1933
 syncthing-gtk
 
