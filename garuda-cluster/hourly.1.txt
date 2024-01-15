@@ -3,7 +3,6 @@
 #regen broken deps (lib32-libffi5)
 antimicrox
 cemu
-citra-canary-git
 cpp-httplib-compiled # (dep xemu-git)
 crossover
 duckstation-git
