@@ -81,7 +81,6 @@ nwg-panel
 nwg-wrapper
 python-dasbus # (dep nwg-panel)
 swaync
-wlsunset
 wob
 
 # Wayfire
