@@ -18,6 +18,7 @@ obs-studio-stable:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 ## Maintainers
 # Alexjp
 bcache-tools
+pyinfra
 qutebrowser-git
 roundedsbe-git
 sddm-git
@@ -240,7 +241,6 @@ wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git # interf
 non-euclidean-git
 kopia-bin
 kopia-ui-bin
-pyinfra:https://github.com/chaotic-aur/pkgbuild-pyinfra
 gittyup
 plasma5-applets-fokus
 discord-ptb
