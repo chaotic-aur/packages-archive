@@ -137,3 +137,5 @@ wasi-sdk-git
 firefox-nightly
 --
 firefox-wayland-hg
+--
+floorp:https://github.com/chaotic-aur/pkgbuild-empty-project.git
