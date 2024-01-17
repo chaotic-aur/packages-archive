@@ -139,7 +139,6 @@ nvidia-390xx-settings:https://aur.archlinux.org/nvidia-390xx-settings.git # (nvi
 nvidia-390xx-utils:https://aur.archlinux.org/nvidia-390xx-utils.git # (nvidia-390xx-utils opencl-nvidia-390xx nvidia-390xx-dkms)
 nvidia-470xx-settings:https://aur.archlinux.org/nvidia-470xx-settings.git # (nvidia-470xx-settings, libxnvctrl-470xx)
 nvidia-470xx-utils:https://aur.archlinux.org/nvidia-470xx-utils.git # (nvidia-470xx-utils, opencl-nvidia-470xx, nvidia-470xx-dkms)
-nvidia-zen:https://gitlab.com/garuda-linux/packages/pkgbuilds/nvidia-zen
 optimus-manager
 optimus-manager-git
 optimus-manager-qt
