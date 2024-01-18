@@ -44,6 +44,3 @@ linux-drm-next-git
 
 # Issue 2119
 trayscale
-
-# Issue 2397
-cosmic-epoch-git
