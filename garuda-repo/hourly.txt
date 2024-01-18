@@ -1,14 +1,1 @@
-garuda-settings-manager-git
-garuda-settings-manager-kcm-git
-garuda-settings-manager-notifier-git
 
-# Input method support
-manjaro-asian-input-support:https://aur.archlinux.org/manjaro-asian-input-support.git # (fcitx-input-support fcitx5-input-support ibus-input-support)
-
-# MHWD
-mhwd-amdgpu
-mhwd-ati
-mhwd-garuda-git
-mhwd-nvidia
-mhwd-nvidia-390xx
-mhwd-nvidia-470xx
