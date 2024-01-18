@@ -91,7 +91,6 @@ asdf-vm
 autoconf-git
 b43-firmware # not really needed
 chaotic-neofetch-git:https://github.com/chaotic-aur/chaotic-neofetch-git.git
-depot-tools-git # servo-git dep
 discord-canary-electron-bin
 gotop
 hsphfpd-git

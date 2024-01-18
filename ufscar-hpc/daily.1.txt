@@ -2,7 +2,6 @@
 # Pedro
 #darling-git (broken)
 llvm-tkg-git:https://github.com/Frogging-Family/llvm-git.git
-servo-git
 
 # Nico
 ungoogled-chromium:https://github.com/ungoogled-software/ungoogled-chromium-archlinux.git
