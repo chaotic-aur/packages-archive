@@ -331,7 +331,6 @@ pyradio-git
 qownnotes
 strawberry-full-git
 strawberry-git
-systray-x-git
 taglib-extras # (dep cantata-git)
 
 # Issue 324
