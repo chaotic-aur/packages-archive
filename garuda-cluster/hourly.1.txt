@@ -524,10 +524,6 @@ cobang
 # Issue 1979
 decoder
 
-# Issue 1983
-corrosion-git # (dep pikasso-git)
-pikasso-git
-
 # Issue 1990
 mold-git
 
