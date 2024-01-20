@@ -144,6 +144,9 @@ libeb # (dep goldendict-git goldendict-webengine-pr-git)
 goldendict-git
 goldendict-webengine-pr-git
 
+# Issue 1706
+vdhcoapp-git # (vdhcoapp vdhcoapp-git)
+
 # Issue 1720
 alphaplot
 alphaplot-git
