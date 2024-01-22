@@ -74,9 +74,6 @@ emacs-git
 # Issue 666
 bluemail:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
-# Issue 841
-wine-wl-git
-
 # Issue 985
 wine-ge-custom
 
