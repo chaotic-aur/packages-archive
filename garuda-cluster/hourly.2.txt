@@ -75,7 +75,6 @@ nwg-dock
 nwg-drawer
 nwg-icon-picker
 nwg-launchers
-nwg-look
 nwg-menu
 nwg-panel
 nwg-wrapper

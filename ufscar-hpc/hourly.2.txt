@@ -1646,9 +1646,6 @@ tblock-gui
 # Issue 2533
 grimblast-git
 
-# Issue 2535
-nwg-look-bin
-
 # Issue 2541
 cava
 
