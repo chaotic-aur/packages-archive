@@ -860,8 +860,8 @@ moon
 ddnet
 
 # Issue 2947
-vencord-desktop
-vencord-desktop-git
+vesktop
+vesktop-git
 
 # Issue 2952
 compfy
