@@ -3,6 +3,7 @@ amdctl
 android-studio-canary
 darling-bin
 epson-inkjet-printer-escpr2
+gamepad-tool-bin
 google-chrome-beta
 hotspot
 kddockwidgets # (dep hotspot)
@@ -13,6 +14,8 @@ rustc-demangle
 insomnia
 iotop-c
 libreswan
+libva-nvidia-driver-git
+nautilus-open-any-terminal
 oh-my-posh-bin
 openswan
 postman-bin
@@ -23,9 +26,10 @@ ryzen_smu-dkms-git
 ryzenadj-git
 ryzen-controller-bin
 scripthaus-git
+systemd-bootchart
 tidal-hifi-bin
 tor-router
-libva-nvidia-driver-git
+universal-android-debloater-bin
 visual-studio-code-insiders-bin:https://aur.archlinux.org/visual-studio-code-insiders-bin.git
 waveterm
 wowup-cf-bin
