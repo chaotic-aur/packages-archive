@@ -336,8 +336,7 @@ remmina-git
 # Issue 581
 python-rustworkx # (python-qiskit)
 python-tweedledum # (python-qiskit)
-muparserx # (python-qiskit)
-python-qiskit-ibmq-provider # (python-qiskit)
+muparserx # (python-qiskit-aer)
 python-qiskit-aer # (python-qiskit)
 python-qiskit
 
