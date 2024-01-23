@@ -11,6 +11,7 @@ nvlax-git
 signal-desktop-beta
 rustc-demangle
 insomnia
+iotop-c
 libreswan
 oh-my-posh-bin
 openswan
