@@ -758,7 +758,6 @@ urlview # (dep telegram-tg-git)
 telegram-tg-git
 
 # Issue 2711
-qt6pas # (dep lazarus-beta)
 lazarus-beta:https://aur.archlinux.org/lazarus-beta.git # (lazarus-beta lazarus-beta-gtk3 lazarus-beta-qt6)
 
 # Issue 2712
