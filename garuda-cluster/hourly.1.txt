@@ -404,7 +404,6 @@ zenmonitor3-git
 # Spotdl
 python-bandcamp-api # (dep python-spotdl)
 python-demjson3 # (dep python-spotdl)
-python-pytube # (dep python-spotdl)
 python-spotdl
 
 ## Pedro
