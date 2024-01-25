@@ -20,7 +20,7 @@ vim-colorschemes
 scummvm-git
 
 # Issue 331
-linux-mainline
+linux-mainline:https://aur.archlinux.org/linux-mainline.git
 --
 linux-mainline-v3:https://aur.archlinux.org/linux-mainline.git # interfere
 
