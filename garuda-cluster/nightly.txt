@@ -107,7 +107,7 @@ stockfish:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 lightlyshaders-git
 
 # Issue 1536
-thunderbird-beta
+thunderbird-beta:https://aur.archlinux.org/thunderbird-beta.git
 
 # Issue 1559
 avaloniailspy-git
