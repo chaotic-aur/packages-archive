@@ -1575,9 +1575,6 @@ fairy-stockfish-git
 # Issue 2341
 epdfview-git
 
-# Issue 2347
-wmenu
-
 # Issue 2365
 waterfox-bin
 
