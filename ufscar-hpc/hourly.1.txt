@@ -48,6 +48,7 @@ qucs
 radare2-git
 realvnc-vnc-viewer
 reaver-wps-fork-t6x-git
+hostapd-wpe
 rqlite
 sdrpp-git
 sway-launcher-desktop
