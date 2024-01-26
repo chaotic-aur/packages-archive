@@ -757,9 +757,6 @@ python-telegram # (dep telegram-tg-git)
 urlview # (dep telegram-tg-git)
 telegram-tg-git
 
-# Issue 2711
-lazarus-beta:https://aur.archlinux.org/lazarus-beta.git # (lazarus-beta lazarus-beta-gtk3 lazarus-beta-qt6)
-
 # Issue 2712
 nudelta
 
