@@ -1451,6 +1451,8 @@ vosk-api:https://aur.archlinux.org/vosk-api.git # (optdep simple64)
 simple64
 
 # Issue 1981
+python-backoff # (dep python-posthog)
+python-posthog # (dep frog-ocr)
 pyzbar # (dep frog-ocr)
 frog-ocr
 
