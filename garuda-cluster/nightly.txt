@@ -42,6 +42,7 @@ otf-stix
 otf-xcharter
 ttf-literata-git:https://aur.archlinux.org/ttf-literata-git.git # (ttf-literata-git ttf-literata-opticals-git ttf-literata-variable-git)
 ttf-luxi
+vo-aacenc
 xdvdfs
 xwayland-run-git # (makedep firefox-wayland-hg)
 
