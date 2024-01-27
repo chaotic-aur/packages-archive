@@ -883,8 +883,8 @@ flightcore
 abaddon-git
 
 # Issue 2531
-sing-geoip # (dep nekoray)
-sing-geosite # (dep nekoray)
+sing-geoip-db:https://aur.archlinux.org/sing-geoip.git # (dep nekoray)
+sing-geosite-db:https://aur.archlinux.org/sing-geosite.git # (dep nekoray)
 nekoray
 
 # Issue 2538
