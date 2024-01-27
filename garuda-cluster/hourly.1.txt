@@ -580,7 +580,7 @@ libretro-mupen64plus-next-git
 mesen2-git
 
 # Issue 2064
-qbittorrent-git
+qbittorrent-git # (qbittorrent-git qbittorrent-nox-git)
 
 # Issue 2079
 zfs-utils-git
