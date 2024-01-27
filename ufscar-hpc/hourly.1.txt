@@ -41,9 +41,9 @@ libfprint-git
 swaylock-fprintd-git
 libsdrplay
 ncurses5-compat-libs # (dep scilab-bin)
-adms-git # (dep qucsator qucs-qt5-git qucs)
+adms-git # (dep qucsator qucs-qt5-git)
 qucsator-git # (dep qucs-qt5-git)
-qucs
+qucs-s
 #broken qucs-qt5-git
 radare2-git
 realvnc-vnc-viewer
