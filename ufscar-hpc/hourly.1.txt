@@ -527,11 +527,6 @@ tflint
 # Issue 426
 tlp-git
 
-# Issue 428
-gnome-shell-extension-pop-shell
-pop-launcher-git # (dep gnome-shell-extension-pop-shell)
-pop-shell-shortcuts-git # (dep gnome-shell-extension-pop-shell)
-
 # Issue 433
 ddcui-git
 ddcutil-git
@@ -1398,6 +1393,11 @@ xsudo-git
 
 # Issue 2138
 profile-sync-daemon-brave
+
+# Issue 2146
+gnome-shell-extension-pop-shell
+pop-launcher-git # (dep gnome-shell-extension-pop-shell)
+pop-shell-shortcuts-git # (dep gnome-shell-extension-pop-shell)
 
 # Issue 2160
 joplin-beta-appimage
