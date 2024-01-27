@@ -1109,3 +1109,6 @@ code-features
 
 # Issue 2968
 ltex-ls-bin
+
+# Issue 2998
+mbpfan-git
