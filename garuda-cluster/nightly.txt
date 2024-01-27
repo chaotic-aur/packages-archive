@@ -198,7 +198,7 @@ ola # (dep qlcplus)
 qlcplus
 
 # Issue 2635
-#wine-wow64-git
+wine-wow64-git
 wine-wow64:https://aur.archlinux.org/wine-wow64-git.git # interfere
 
 # Issue 2636
@@ -233,7 +233,7 @@ material-symbols-git:https://aur.archlinux.org/material-symbols-git.git
 tuba:https://aur.archlinux.org/tuba-git.git # interfere
 
 # Issue 2948
-#wine-staging-wow64-git
+wine-staging-wow64-git
 wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git # interfere
 
 
