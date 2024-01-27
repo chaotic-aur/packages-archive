@@ -808,6 +808,9 @@ rofi-lbonn-wayland-git
 # Issue 2816
 librepcb
 
+# Issue 2822
+pixelorama-bin
+
 # Issue 2824
 scala:https://aur.archlinux.org/scala.git
 
