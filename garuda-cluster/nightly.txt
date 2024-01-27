@@ -40,9 +40,9 @@ mp3guessenc-beta
 otf-cooper-hewitt
 otf-stix
 otf-xcharter
+podofo-0.9 # (dep geany-plugin-preview-git)
 ttf-literata-git:https://aur.archlinux.org/ttf-literata-git.git # (ttf-literata-git ttf-literata-opticals-git ttf-literata-variable-git)
 ttf-luxi
-vo-aacenc
 xdvdfs
 xwayland-run-git # (makedep firefox-wayland-hg)
 
