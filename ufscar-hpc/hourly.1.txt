@@ -9,7 +9,7 @@ tk-itk   # I don't have any use for this, but since we have its old version...
 airspy-git
 airspyhf-git
 soapysdr-git
-soapysdrplay-git
+soapysdrplay3-git
 android-emulator
 android-sdk
 android-studio
