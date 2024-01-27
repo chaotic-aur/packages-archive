@@ -135,7 +135,7 @@ git-cinnabar
 nspr-hg
 nss-hg
 wasi-sdk-git
-firefox-nightly
+firefox-nightly:https://aur.archlinux.org/firefox-hg.git # interfere
 --
 firefox-wayland-hg
 --
