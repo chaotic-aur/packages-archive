@@ -700,10 +700,9 @@ biglybt
 gigolo
 iso-flag-png # (dep mintlocale)
 mintlocale
-ttf-symbola
 xfce4-docklike-plugin
-xplayer
 xplayer-plparser # (xplayer)
+xplayer
 
 # Issue 595
 plex-media-server
