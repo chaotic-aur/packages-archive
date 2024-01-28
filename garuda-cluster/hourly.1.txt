@@ -362,7 +362,6 @@ kvantum-git
 libart-lgpl # (dep gimp-git)
 libgbinder
 libglibutil
-libjuice # (dep libdatachannel)
 libscrypt
 networkmanager-iwd
 nextcloud-client-git
