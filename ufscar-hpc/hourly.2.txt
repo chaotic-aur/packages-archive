@@ -984,9 +984,6 @@ gtksourceview-git
 # Issue 1087
 graphite-cursor-theme-git
 
-# Issue 1098
-rpi-imager
-
 # Issue 1101
 sayonara-player-git
 
