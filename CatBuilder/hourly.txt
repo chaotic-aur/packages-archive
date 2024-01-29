@@ -12,7 +12,6 @@ nvlax-git
 signal-desktop-beta
 rustc-demangle
 insomnia
-iotop-c
 libreswan
 libva-nvidia-driver-git
 nautilus-open-any-terminal
