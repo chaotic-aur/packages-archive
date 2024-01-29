@@ -1111,3 +1111,6 @@ ltex-ls-bin
 
 # Issue 2998
 mbpfan-git
+
+# Issue 3005
+packwiz-git
