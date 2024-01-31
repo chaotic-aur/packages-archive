@@ -10,7 +10,6 @@ This is the right place to submit package requests, bug reports, or outdated pac
 - Other kernel variations such as
     [Cachyos-BORE](https://aur.archlinux.org/packages/linux-cachyos-bore)/[TT](https://aur.archlinux.org/packages/linux-tt),
     [Clear](https://aur.archlinux.org/packages/linux-clear),
-    [Next-git](https://aur.archlinux.org/packages/linux-next-git),
     [Nitrous](https://aur.archlinux.org/packages/linux-nitrous),
     [VFIO](https://aur.archlinux.org/packages/linux-vfio),
     and [XanMod](https://aur.archlinux.org/packages/linux-xanmod)

@@ -11,9 +11,6 @@ linux-amd-znver3
 nicotine-plus-git
 firefox-esr:https://aur.archlinux.org/firefox-esr.git
 
-# Issue 318
-linux-next-git
-
 # Issue 698
 yuzu-git # (yuzu-git yuzu-avx-git)
 
