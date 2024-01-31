@@ -678,7 +678,6 @@ kdocker
 xfce-theme-manager
 
 # Issue 877
-python-configshell-fb # (dep targetcli-fb)
 python-rtslib-fb # (dep targetcli-fb)
 targetcli-fb
 
