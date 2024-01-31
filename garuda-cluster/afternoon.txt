@@ -20,20 +20,8 @@ awesome-git
 # Issue 1186
 i3lock-fancy-git
 
-# Issue 1189
-linux-xanmod-rt
-
 # Issue 1193
 stylepak-git
-
-# Issue 1307
-linux-cachyos-bore # (pkgname is set to linux-bore via interfere, got dropped from AUR due to same PKGBUILD)
-
-# Issue 1325
-linux-clear
-
-# Issue 1662
-linux-xanmod
 
 # Issue 2119
 trayscale

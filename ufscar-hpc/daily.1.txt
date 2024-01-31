@@ -15,7 +15,16 @@ python-sphinx-automodapi
 tweeny
 vim-colorschemes
 
+
 ## User requests
+# (forum) Austin
+linux-amd
+
+# (forum) FGD
+linux-amd-znver2
+--
+linux-amd-znver3
+
 # Issue 316
 scummvm-git
 
@@ -65,9 +74,21 @@ musikcube
 # Issue 949
 kicad-git
 
+# Issue 1189
+linux-xanmod-rt
+
 # Issue 1197
 clasp-cl-git
 seqan # (dep clasp-cl-git)
+
+# Issue 1243
+chromium-wayland-vaapi
+
+# Issue 1307
+linux-cachyos-bore # (pkgname is set to linux-bore via interfere, got dropped from AUR due to same PKGBUILD)
+
+# Issue 1325
+linux-clear
 
 # Issue 1398
 lyx
@@ -83,6 +104,9 @@ kodi-git:https://aur.archlinux.org/kodi-git.git
 
 # Issue 1652
 linux-lqx
+
+# Issue 1662
+linux-xanmod
 
 # Issue 1784
 luckybackup
@@ -110,11 +134,6 @@ swift-bin
 
 # Issue 2955
 hunspell-uk
-
---
-
-# Issue 1243
-chromium-wayland-vaapi
 
 # Issue 2987
 wayland-chromium

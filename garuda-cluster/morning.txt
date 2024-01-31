@@ -1,12 +1,3 @@
-## Garuda
-# Austin on forum
-linux-amd
-
-# FGD on forum
-linux-amd-znver2
-linux-amd-znver3
-
-
 ## Chaotic
 nicotine-plus-git
 firefox-esr:https://aur.archlinux.org/firefox-esr.git
