@@ -921,9 +921,6 @@ xdg-autostart
 # Issue 1509
 absolutely-proprietary
 
-# Issue 1513
-ktlint
-
 # Issue 1515
 lokinet
 
