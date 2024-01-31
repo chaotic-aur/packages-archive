@@ -35,9 +35,5 @@ linux-clear
 # Issue 1662
 linux-xanmod
 
-# Issue 1921
-linux-drm-tip-git
-linux-drm-next-git
-
 # Issue 2119
 trayscale
