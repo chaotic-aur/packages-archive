@@ -1114,3 +1114,6 @@ mbpfan-git
 
 # Issue 3005
 packwiz-git
+
+# Issue 3012
+tagutil
