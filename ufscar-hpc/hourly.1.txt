@@ -671,6 +671,7 @@ bluej
 
 # Issue 502
 libvterm-0.1 # (dep neovim-git)
+tree-sitter-git # (dep neovim-git)
 neovim-git
 
 # Issue 538
