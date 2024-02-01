@@ -884,3 +884,6 @@ lib32-vulkan-nouveau-git # dep for some games in wine
 
 # Issue 2979
 beaver-notes
+
+# Issue 3011
+scc
