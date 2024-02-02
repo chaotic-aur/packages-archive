@@ -458,6 +458,7 @@ soundcloud-dl-git
 speedtest++
 sshs
 torrent-file-editor-qt5-git
+xnviewmp
 youtube-music-git
 
 # sparrow-wifi-git (Technetium1)
