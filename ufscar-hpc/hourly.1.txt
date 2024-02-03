@@ -1700,6 +1700,9 @@ nautilus-code-git
 tuxedo-control-center-bin
 tuxedo-drivers-dkms
 
+# Issue 2999
+krathalans-apparmor-profiles-git
+
 # Issue 3001
 anime-games-launcher-bin
 
