@@ -117,6 +117,9 @@ linux-xanmod
 # Issue 2175
 kodi-nexus-git
 
+# Issue 2236
+floorp
+
 # Issue 2242
 linux-xanmod-lts-clang-v2:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
 --
@@ -157,5 +160,3 @@ wasi-sdk-git
 firefox-nightly:https://aur.archlinux.org/firefox-hg.git # interfere
 --
 firefox-wayland-hg
---
-floorp

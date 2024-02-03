@@ -1444,9 +1444,6 @@ gimp-extras
 # Issue 2234
 chatgpt-desktop-bin
 
-# Issue 2236
-floorp-bin
-
 # Issue 2251
 micromamba
 termcolor # (dep micromamba)
