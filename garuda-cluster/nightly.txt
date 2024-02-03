@@ -51,18 +51,6 @@ xwayland-run-git # (makedep firefox-wayland-hg)
 authy:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Issue 311
-lib32-gd # (dep wine-stable)
-lib32-http-parser # (dep lib32-libgit2)
-lib32-libde265 # (dep wine-stable)
-lib32-libgit2 # (dep lib32-rav1e)
-lib32-libgphoto2 # (dep wine-stable)
-lib32-libheif # (dep wine-stable)
-lib32-libnuma # (dep lib32-gd)
-lib32-libraqm # (dep wine-stable)
-lib32-libxpm # (dep wine-stable)
-lib32-rav1e # (dep lib32-libheif)
-lib32-svt-av1 # (dep lib32-libheif)
-lib32-x265 # (dep wine-stable)
 wine-stable
 
 # Issue 395
