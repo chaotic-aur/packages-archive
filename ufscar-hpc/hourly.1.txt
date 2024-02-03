@@ -527,10 +527,6 @@ tflint
 # Issue 426
 tlp-git
 
-# Issue 433
-ddcui-git
-ddcutil-git
-
 # Issue 436
 keymapper-git
 
