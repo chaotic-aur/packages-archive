@@ -22,7 +22,6 @@ linux-amd
 
 # (forum) FGD
 linux-amd-znver2
---
 linux-amd-znver3
 
 # Issue 316
@@ -30,7 +29,6 @@ scummvm-git
 
 # Issue 331
 linux-mainline:https://aur.archlinux.org/linux-mainline.git
---
 linux-mainline-v3:https://aur.archlinux.org/linux-mainline.git # interfere
 
 # Issue 394
@@ -111,9 +109,6 @@ linux-xanmod
 # Issue 1784
 luckybackup
 
-# Issue 2006
-linux-xanmod
-
 # Issue 2175
 kodi-nexus-git
 
@@ -122,11 +117,8 @@ floorp
 
 # Issue 2242
 linux-xanmod-lts-clang-v2:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
---
 linux-xanmod-lts-clang-v3:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
---
 linux-xanmod-clang-v2:https://aur.archlinux.org/linux-xanmod.git # interfere
---
 linux-xanmod-clang-v3:https://aur.archlinux.org/linux-xanmod.git # interfere
 
 # Issue 2278
