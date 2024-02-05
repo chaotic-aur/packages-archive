@@ -33,6 +33,7 @@ discimagecreator-git
 geany-plugin-preview-git
 geeqie-git
 iat
+intelxed
 lossywav-git
 maxcso-git
 mp3guessenc-beta
