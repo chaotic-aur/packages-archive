@@ -1484,9 +1484,6 @@ mutter-dynamic-buffering
 # Issue 2049
 7-zip-full
 
-# Issue 2050
-bluez-utils-compat # (dep sparrow-wifi-git)
-
 # Issue 2058
 boringtun
 
