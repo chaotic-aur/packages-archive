@@ -88,6 +88,7 @@ sddm-theme-astronaut
 termius:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Issue 1456
+polyglot-winboard-git # (optdep stockfish stockfish-git)
 python-chess-git # (dep stockfish-git)
 stockfish-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 stockfish:https://github.com/chaotic-aur/pkgbuild-empty-project.git
