@@ -763,9 +763,6 @@ telegram-tg-git
 # Issue 2712
 nudelta
 
-# Issue 2714
-rtx
-
 # Issue 2718
 python-sabyenc3 # (dep sabnzbd)
 python-sabctools # (dep sabnzbd)
