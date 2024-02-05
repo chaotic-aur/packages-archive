@@ -1558,7 +1558,6 @@ ucon64
 asus-n551-hda-fix
 
 # Issue 2307
-polyglot-winboard-git # (optdep fairy-stockfish fairy-stockfish-git stockfish-git)
 fairy-stockfish
 fairy-stockfish-git
 
