@@ -1559,7 +1559,7 @@ asus-n551-hda-fix
 
 # Issue 2307
 fairy-stockfish
-fairy-stockfish-git
+fairy-stockfish-git:https://aur.archlinux.org/fairy-stockfish.git # interfere
 
 # Issue 2341
 epdfview-git
