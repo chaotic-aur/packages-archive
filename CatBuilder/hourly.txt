@@ -2,6 +2,7 @@ alvr
 amdctl
 android-studio-canary
 darling-bin
+decibels
 epson-inkjet-printer-escpr2
 gamepad-tool-bin
 google-chrome-beta
