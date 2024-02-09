@@ -453,8 +453,6 @@ quixel-bridge
 
 # Issue 379
 ckb-next
-dotnet-core-6.0-bin:https://aur.archlinux.org/dotnet-core-6.0-bin.git # (dep osu-lazer) (aspnet-runtime-6.0-bin dotnet-runtime-6.0-bin dotnet-sdk-6.0-bin dotnet-targeting-pack-6.0-bin aspnet-targeting-pack-6.0-bin)
-osu-lazer
 
 # Issue 380
 acestream-launcher
