@@ -275,6 +275,7 @@ python-pgi # (dep tartube)
 tartube
 todoist-nativefier
 tuc
+ugit
 upscayl-bin
 viddy
 wahay-bin
