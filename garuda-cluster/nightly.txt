@@ -227,6 +227,9 @@ tuba:https://aur.archlinux.org/tuba-git.git # interfere
 wine-staging-wow64-git
 wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git # interfere
 
+# Issue 3019
+virtualbox-kvm
+
 
 ## OTHERS
 non-euclidean-git
