@@ -195,10 +195,6 @@ wine-wow64:https://aur.archlinux.org/wine-wow64-git.git # interfere
 # Issue 2636
 element-desktop-git
 
-# Issue 2747
-thorium-browser-bin
-thorium-browser-sse3-bin
-
 # Issue 2748
 motivewave:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
