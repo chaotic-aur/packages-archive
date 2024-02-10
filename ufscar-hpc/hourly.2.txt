@@ -707,9 +707,6 @@ sardi-icons
 # Issue 894
 brisk-menu
 
-# Issue 896
-libreddit-git
-
 # Issue 899
 fabric-installer
 
