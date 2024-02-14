@@ -1555,7 +1555,8 @@ ucon64
 asus-n551-hda-fix
 
 # Issue 2307
-fairy-stockfish
+python-pysimplegui # (dep python-pyffish)
+fairy-stockfish # fairy-stockfish, python-pyffish
 fairy-stockfish-git:https://aur.archlinux.org/fairy-stockfish.git # interfere
 
 # Issue 2341
