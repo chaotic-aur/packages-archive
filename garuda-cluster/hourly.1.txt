@@ -376,6 +376,7 @@ python-gbinder
 python-simplediff
 qbittorrent-enhanced-git
 qemu-git
+qt-installer-framework # (make riseup-vpn)
 qtwebflix-git
 quickemu
 quickemu-git
