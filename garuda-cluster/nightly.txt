@@ -1,7 +1,6 @@
 ## Garuda
 firedragon
 librewolf:https://aur.archlinux.org/librewolf.git
-thunderbird-appmenu
 
 # Emulators
 citra-canary-git:https://aur.archlinux.org/citra-nightly-git.git # interfere
