@@ -109,9 +109,6 @@ linux-xanmod
 # Issue 1784
 luckybackup
 
-# Issue 2175
-kodi-nexus-git
-
 # Issue 2236
 floorp
 
