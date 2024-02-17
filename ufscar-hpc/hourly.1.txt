@@ -33,6 +33,8 @@ fldigi
 fldigi-git
 wsjtx
 js8call
+python-yattag # (dep chirp-next)
+chirp-next
 hal-git
 hashcash
 ht-editor
