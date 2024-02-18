@@ -416,6 +416,7 @@ gnome-icon-theme # (dep gnome-shell-extension-vitals-git)
 gnome-icon-theme-symbolic # (dep gnome-icon-theme la-capitaine-icon-theme gnome-shell-extension-vitals-git)
 libcgroup
 lockdown-ms
+nwg-dock-hyprland
 pacseek
 plasma5-applets-audio-device-switcher
 plasma5-applets-plasma-pstate
