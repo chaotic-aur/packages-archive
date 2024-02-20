@@ -309,6 +309,7 @@ adbmanager
 brave-beta-bin
 
 # houssem.kochat9 on forum
+ebou
 resources
 
 # Via mail (9th June)
