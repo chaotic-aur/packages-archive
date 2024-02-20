@@ -19,6 +19,7 @@ plasma5-applets-window-title
 plasma5-themes-sweet-kde-git # (dep plasma5-themes-sweet-full-git)
 plasma5-themes-sweet-full-git
 plasma5-wallpapers-blurredwallpaper
+plasma6-applets-window-title
 resvg
 sweet-folders-icons-git # (plasma5-themes-sweet-full-git)
 
