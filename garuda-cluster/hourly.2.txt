@@ -895,3 +895,6 @@ scc
 
 # Issue 3021
 redlib
+
+# Issue 3027
+termusic
