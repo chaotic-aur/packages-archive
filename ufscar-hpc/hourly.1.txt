@@ -1250,9 +1250,6 @@ processing
 sweet-gtk-theme
 sweet-gtk-theme-dark
 
-# Issue 1881
-movie-monad
-
 # Issue 1883
 cabbage-bin
 
