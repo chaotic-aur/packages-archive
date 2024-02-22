@@ -26,7 +26,6 @@ ryzen_smu-dkms-git
 ryzenadj-git
 ryzen-controller-bin
 scripthaus-git
-signal-desktop-beta-bin
 systemd-bootchart
 tidal-hifi-bin
 tor-router
