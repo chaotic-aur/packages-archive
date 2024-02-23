@@ -183,7 +183,6 @@ mediawriter
 mmsd-git
 modprobed-db
 multibootusb
-nautilus-pdf-tools-git:https://aur.archlinux.org/nautilus-pdf-tools-git.git # {nautilus,nemo,caja}-pdf-tools-git
 neard
 networkmanager-dmenu-git
 ofono
