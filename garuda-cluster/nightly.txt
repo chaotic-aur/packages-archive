@@ -60,6 +60,9 @@ emacs-pgtk-native-comp-git
 # Issue 462
 emacs-git
 
+# Issue 558
+ryujinx:https://aur.archlinux.org/ryujinx.git
+
 # Issue 666
 bluemail:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
