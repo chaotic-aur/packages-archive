@@ -1184,9 +1184,6 @@ yt-dlg-git
 # Issue 1539
 swaystatus-git
 
-# Issue 1540
-reactgame
-
 # Issue 1541
 zulucrypt
 
