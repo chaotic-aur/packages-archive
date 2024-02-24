@@ -602,9 +602,6 @@ python-nbxmpp-git # (dep gajim-git)
 spotify-tray-git
 vala-panel-appmenu-registrar-git
 
-# Issue 471
-feem
-
 # Issue 473
 apostrophe
 aic94xx-firmware
