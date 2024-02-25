@@ -29,13 +29,14 @@ annotator-git
 ccd2cue
 commissioner-font:https://aur.archlinux.org/commissioner-font.git
 discimagecreator-git
+dolphin-tabopts:https://aur.archlinux.org/dolphin-tabopts.git
 geany-plugin-preview-git
 geeqie-git
 iat
-mbuild # (make intelxed)
 intelxed
 lossywav-git
 maxcso-git
+mbuild # (make intelxed)
 mp3guessenc-beta
 otf-cooper-hewitt
 otf-stix

@@ -762,9 +762,6 @@ python-casttube # (dep python-pychromecast)
 python-pychromecast # (dep catt)
 catt
 
-# Iusse 2294
-dolphin-tabopts
-
 # Issue 2295
 xorgxrdp
 xorgxrdp-glamor
