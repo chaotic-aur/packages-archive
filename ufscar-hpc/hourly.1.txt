@@ -168,7 +168,6 @@ lib32-libcue
 lib32-libdc1394
 lib32-libdca
 lib32-libdvdnav
-lib32-libexif
 lib32-libfdk-aac
 lib32-libgme
 lib32-libkate

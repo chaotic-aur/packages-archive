@@ -10,7 +10,8 @@ eka2l1-git
 emulationstation
 genymotion
 kega-fusion
-lib32-nss-mdns # (dep crossover)
+lib32-libexif # (opt crossover)
+lib32-nss-mdns # (opt crossover)
 m64py
 mednaffe
 pcsxr
@@ -95,7 +96,7 @@ virtualbox-ext-oracle
 wine-installer
 wineasio
 wps-office
-wps-office-all-dicts-win-languages # (optdep wps-office wps-office-cn)
+wps-office-all-dicts-win-languages # (opt wps-office wps-office-cn)
 wps-office-cn
 wps-office-fonts
 wps-office-mime
@@ -324,7 +325,7 @@ alhp-mirrorlist
 alpm_octopi_utils-git
 ananicy-cpp
 ananicy-cpp-git
-ananicy-rules-git # (optdep ananicy-cpp-git) (dep ananicy-cpp)
+ananicy-rules-git # (opt ananicy-cpp-git) (dep ananicy-cpp)
 arch-deployer-git
 babl-git # (dep gimp-git)
 brave-nightly-bin
@@ -721,7 +722,7 @@ snapper-support
 
 # Issue 2243
 libgksu # (dep gksu)
-gksu # (optdep zenmap-git)
+gksu # (opt zenmap-git)
 zenmap-git
 
 # Issue 2246
