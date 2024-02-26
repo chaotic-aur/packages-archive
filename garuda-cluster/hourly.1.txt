@@ -904,11 +904,8 @@ gtklock-powerbar-module
 # Issue 2547
 gtklock-userinfo-module
 
-# Issue 2558
-eww-wayland
-
 # Issue 2559
-eww-x11:https://aur.archlinux.org/eww.git
+eww
 
 # Issue 2562
 mpvpaper
