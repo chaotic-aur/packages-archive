@@ -387,8 +387,6 @@ clion
 expressvpn
 glslang-git # (dep waifu2x-ncnn-vulkan-git)
 intellij-idea-ultimate-edition
-lib32-fltk # (dep)
-lib32-zbar
 ncnn-git # (dep waifu2x-ncnn-vulkan-git)
 nodejs-nativefier
 pycharm-professional
