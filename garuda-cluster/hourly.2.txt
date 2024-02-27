@@ -904,3 +904,6 @@ lib32-nvidia-utils-beta # (lib32-nvidia-utils-beta, lib32-opencl-nvidia-beta)
 nvidia-utils-beta # (nvidia-utils-beta, nvidia-settings-beta, opencl-nvidia-beta)
 --
 nvidia-beta-dkms
+
+# Issue 3043
+lite-xl
