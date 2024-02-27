@@ -1011,7 +1011,7 @@ mpdscribble
 # Issue 2757
 doas-sudo-shim
 
-#Issue 2765
+# Issue 2765
 libresprite-git
 
 # Issue 2766

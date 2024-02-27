@@ -555,7 +555,7 @@ kotatogram-desktop
 ibus-mozc
 mozc-ut
 
-# Isse 454
+# Issue 454
 woeusb
 
 # Issue 457
@@ -1678,7 +1678,7 @@ winbox
 # Issue 2975
 nautilus-code-git
 
-# Issues 2981
+# Issue 2981
 tuxedo-control-center-bin
 tuxedo-drivers-dkms
 
