@@ -32,7 +32,7 @@ linux-mainline:https://aur.archlinux.org/linux-mainline.git
 linux-mainline-v3:https://aur.archlinux.org/linux-mainline.git # interfere
 
 # Issue 394
-icecat:https://aur.archlinux.org/icecat-browser.git
+icecat
 
 # Issue 655
 linux-xanmod-lts
