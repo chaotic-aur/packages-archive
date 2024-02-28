@@ -896,6 +896,9 @@ scc
 # Issue 3021
 redlib
 
+# Issue 3026
+angryoxide
+
 # Issue 3027
 termusic
 
