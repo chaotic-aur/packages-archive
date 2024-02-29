@@ -108,8 +108,6 @@ shadowsocks-rust-git
 smenu
 tetrio-desktop
 vim-language-server
-vivaldi-snapshot
-vivaldi-snapshot-ffmpeg-codecs
 zef
 
 # SolarAquarion
