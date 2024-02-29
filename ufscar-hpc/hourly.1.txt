@@ -133,15 +133,6 @@ zfs-utils
 imgui # (dep cemu-git)
 tinyobjloader
 
-# lib32-gst-plugins-ugly (Pedro)
-lib32-a52dec
-lib32-l-smash
-lib32-libcdio
-lib32-libdvdcss
-lib32-libdvdread
-lib32-libmpeg2
-lib32-x264
-
 # lib32-gst-plugins-bad (Pedro)
 lib32-aom
 lib32-bluez-libs
