@@ -133,54 +133,6 @@ zfs-utils
 imgui # (dep cemu-git)
 tinyobjloader
 
-# lib32-gst-plugins-bad (Pedro)
-lib32-aom
-lib32-bluez-libs
-lib32-chromaprint
-lib32-dav1d
-lib32-faac
-lib32-faad2
-lib32-libass
-lib32-vmaf:https://aur.archlinux.org/lib32-vmaf.git # (dep lib32-ffmpeg)
-lib32-gsm # (dep lib32-ffmpeg)
-lib32-srt # (dep lib32-ffmpeg)
-lib32-jbigkit # (dep lib32-ffmpeg lib32-openjpeg2)
-lib32-openjpeg2 # (dep lib32-ffmpeg)
-lib32-opencore-amr # (dep lib32-ffmpeg)
-lib32-xvidcore # (dep lib32-ffmpeg)
-lib32-libbluray # (dep lib32-ffmpeg)
-lib32-ffmpeg
-lib32-fftw
-lib32-glslang
-lib32-gssdp
-lib32-lame
-lib32-libbs2b
-lib32-libcue
-lib32-libdc1394
-lib32-libdca
-lib32-libdvdnav
-lib32-libfdk-aac
-lib32-libgme
-lib32-libkate
-lib32-liblrdf
-lib32-libmpcdec
-lib32-libreplaygain
-lib32-libsrtp
-lib32-lilv
-lib32-lv2
-lib32-mjpegtools
-lib32-neon
-lib32-raptor
-lib32-rtmpdump
-lib32-sbc
-lib32-serd
-lib32-shaderc
-lib32-sord
-lib32-sratom
-lib32-webrtc-audio-processing
-lib32-wildmidi
-lib32-zvbi
-
 
 ## Solomon
 # Weather (Solomon)
