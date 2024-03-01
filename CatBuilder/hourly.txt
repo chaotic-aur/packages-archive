@@ -6,6 +6,7 @@ decibels
 epson-inkjet-printer-escpr2
 gamepad-tool-bin
 google-chrome-beta
+google-chrome-dev
 hotspot
 kddockwidgets # (dep hotspot)
 logseq-desktop-bin
