@@ -518,9 +518,6 @@ gerrit
 # Issue 754
 pure-ftpd
 
-# Issue 755
-microsoft-edge-beta-bin
-
 # Issue 757
 vmware-workstation
 vmware-keymaps # (dep vmware-workstation)
