@@ -595,7 +595,6 @@ vala-panel-appmenu-registrar-git
 
 # Issue 473
 apostrophe
-aic94xx-firmware
 makemkv
 farbfeld
 
@@ -691,11 +690,11 @@ xplayer
 plex-media-server
 
 # Issue 596
+aic94xx-firmware # (dep mkinitcpio-firmware)
 ast-firmware # (dep mkinitcpio-firmware)
+upd72020x-fw # (dep mkinitcpio-firmware)
+wd719x-firmware # (dep mkinitcpio-firmware)
 mkinitcpio-firmware
-
-# Issue 597
-upd72020x-fw
 
 # Issue 598
 grub-silent
