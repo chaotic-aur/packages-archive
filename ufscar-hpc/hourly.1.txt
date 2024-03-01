@@ -171,7 +171,6 @@ ttfautohint
 
 ## Technetium1
 arp-scan-git
-agregore-browser-bin
 bootiso
 brother-hl2280dw
 c-lolcat
