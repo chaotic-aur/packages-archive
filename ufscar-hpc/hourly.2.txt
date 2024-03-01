@@ -521,9 +521,6 @@ pure-ftpd
 # Issue 755
 microsoft-edge-beta-bin
 
-# Issue 756
-microsoft-edge-dev-bin
-
 # Issue 757
 vmware-workstation
 vmware-keymaps # (dep vmware-workstation)
