@@ -793,9 +793,6 @@ premid
 # Issue 973
 helvum-git
 
-# Issue 974
-google-chrome-dev
-
 # Issue 975
 xbanish
 
