@@ -75,7 +75,6 @@ xpadneo-dkms
 # Setup assistant
 bitwig-studio
 brave-bin
-dissenter-browser-bin
 freedownloadmanager
 freeoffice
 gitkraken
