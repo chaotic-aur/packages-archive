@@ -103,12 +103,14 @@ mugshot
 ## Further needed applications
 # Garuda base (AUR)
 7-zip
+args # (make zsync2-git)
 auto-cpufreq
 bluetooth-autoconnect
 btrfs-assistant
 clipit
 clipman
 connman-gtk
+cpr # (make zsync2-git)
 dashbinsh
 downgrade
 dracut-hook-uefi
