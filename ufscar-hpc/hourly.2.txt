@@ -736,9 +736,6 @@ dasel
 # Issue 917
 polychromatic
 
-# Issue 922
-chromium-snapshot-bin
-
 # Issue 924
 act
 
