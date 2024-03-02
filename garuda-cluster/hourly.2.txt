@@ -713,9 +713,6 @@ latencyflex-git
 # Issue 2629
 protonmail-bridge-nogui
 
-# Issue 2637
-keyd
-
 # Issue 2638
 artemis3
 pyinstaller # (dep artemis3)
