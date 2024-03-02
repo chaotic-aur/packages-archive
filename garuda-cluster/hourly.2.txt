@@ -375,7 +375,6 @@ shadowsocks-gtk-rs
 tenacity-git
 
 # Issue 1549
-dwarfs-git
 dwarfs
 
 # Issue 1590
