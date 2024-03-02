@@ -811,6 +811,7 @@ libcmrt # (dep intel-hybrid-codec-driver-git)
 intel-hybrid-codec-driver-git
 
 # Issue 1432
+gxml # (dep planify)
 planify
 
 # Issue 1435
