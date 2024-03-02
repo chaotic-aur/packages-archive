@@ -288,7 +288,7 @@ xpra-html5-git
 
 ## Users requests
 
-veloren-git
+#veloren-git
 
 # Austin on forum
 autojump
