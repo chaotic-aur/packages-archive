@@ -109,6 +109,7 @@ oneko
 pipewire-common-git:https://aur.archlinux.org/pipewire-common-git.git # (gst-plugin-pipewire-common-git pipewire-common-*-git)
 podman-compose-git
 pw-viz
+python-hwdata # (make tuxclocker)
 r8125-dkms
 repoctl
 slack-electron
