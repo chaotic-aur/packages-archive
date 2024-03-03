@@ -896,9 +896,6 @@ pop-bin
 # Issue 1046
 snapper-gui-git
 
-# Issue 1048
-nvidia-utils-nvlax
-
 # Issue 1049
 gmenu
 
