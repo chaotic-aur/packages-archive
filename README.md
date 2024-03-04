@@ -14,10 +14,7 @@ This is the right place to submit package requests, bug reports, or outdated pac
     [VFIO](https://aur.archlinux.org/packages/linux-vfio),
     and [XanMod](https://aur.archlinux.org/packages/linux-xanmod)
 - A quite complete [KDE stack](https://invent.kde.org/explore/groups?sort=name_asc) in a [separate repo](https://forum.garudalinux.org/t/kde-6-repository-testing/31442)
-- Emulators and gaming utilities like
-    [RPCS3](https://github.com/RPCS3/rpcs3),
-    [Yuzu](https://yuzu-emu.org/),
-    and {[Proton](https://github.com/GloriousEggroll/proton-ge-custom),[Wine](https://github.com/GloriousEggroll/wine-ge-custom)}-GE-Custom
+- Emulators and gaming utilities
 - A lot of browsers like
     [Firedragon](https://github.com/dr460nf1r3/firedragon-browser),
     [Firefox-wayland-hg](https://aur.archlinux.org/packages/firefox-wayland-hg),

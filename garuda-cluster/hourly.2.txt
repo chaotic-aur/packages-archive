@@ -167,13 +167,6 @@ rtl88xxau-aircrack-dkms-git
 r8168-dkms
 
 ## Chaotic
-# Issue 340
-conan # (dep yuzu-mainline-git)
-python-node-semver # (dep conan)
-python-patch-ng # (dep conan)
-python-pluginbase # (dep conan)
-yuzu-mainline-git
-
 # Issue 377
 edid-decode-git
 
@@ -275,14 +268,6 @@ android-ndk
 
 # Issue 1380
 cockroachdb-bin
-
-# Issue 1381
-cpp-httplib # (dep yuzu-early-access)
-cpp-jwt # (dep yuzu-early-access)
-dynarmic # (dep yuzu-early-access)
-vulkan-memory-allocator # (dep yuzu-early-access)
-xbyak # (dep yuzu-early-access)
-yuzu-early-access
 
 # Issue 1384
 heimdall-grimler-git
