@@ -888,8 +888,5 @@ nvidia-utils-beta # (nvidia-utils-beta, nvidia-settings-beta, opencl-nvidia-beta
 --
 nvidia-beta-dkms
 
-# Issue 3043
-lite-xl
-
 # Issue 3046
 wallust-git
