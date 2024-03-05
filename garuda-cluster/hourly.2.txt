@@ -9,20 +9,20 @@ xviewer-plugins
 beautyline
 firedragon-extension-plasma-integration
 jamesdsp
-kwin-scripts-forceblur
-plasma5-applets-betterinlineclock-git
-plasma5-applets-eventcalendar
-plasma5-applets-netspeed
-plasma5-applets-window-appmenu
-plasma5-applets-window-title
+kwin-scripts-forceblur # TO REMOVE ON KDE 6
+plasma5-applets-betterinlineclock-git # TO REMOVE ON KDE 6
+plasma5-applets-eventcalendar # TO REMOVE ON KDE 6
+plasma5-applets-netspeed # TO REMOVE ON KDE 6
+plasma5-applets-window-appmenu # TO REMOVE ON KDE 6
+plasma5-applets-window-title # TO REMOVE ON KDE 6
 plasma5-themes-sweet-kde-git # (dep plasma5-themes-sweet-full-git)
 plasma5-themes-sweet-full-git
-plasma5-wallpapers-blurredwallpaper
-plasma6-applets-window-title
+plasma5-wallpapers-blurredwallpaper # TO REMOVE ON KDE 6
 plasma6-applets-window-buttons
+plasma6-applets-window-title
+plasma6-wallpapers-blurredwallpaper
 resvg
 sweet-folders-icons-git # (plasma5-themes-sweet-full-git)
-
 
 # Dr460nized-gaming
 kde-service-menu-reimage
