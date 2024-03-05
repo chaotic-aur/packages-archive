@@ -1,6 +1,7 @@
 ## Garuda
 firedragon
 librewolf:https://aur.archlinux.org/librewolf.git
+skypeforlinux-bin:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Emulators
 decaf-emu-git
