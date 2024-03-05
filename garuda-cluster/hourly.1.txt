@@ -778,6 +778,7 @@ polkit-consolekit # (dep consolekit)
 consolekit
 
 # Issue 2315
+librashader # (dep ares-emu-git)
 ares-emu
 ares-emu-git
 
