@@ -45,6 +45,8 @@ ttf-luxi
 xdvdfs
 xwayland-run-git # (make firefox-wayland-hg)
 
+# Nico
+telegram-desktop-kdefix-userfonts-altscroll
 
 ## Chaotic
 # Issue 286
