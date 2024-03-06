@@ -211,6 +211,10 @@ breitbandmessung
 # puspamadak
 foobillard++
 
+# veitw on forum
+hyprlock-git
+hypridle-git
+
 
 ## Chaotic AUR
 # Issue 320
