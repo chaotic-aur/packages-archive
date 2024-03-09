@@ -97,14 +97,12 @@ mugshot
 ## Further needed applications
 # Garuda base (AUR)
 7-zip
-args # (make zsync2-git)
 auto-cpufreq
 bluetooth-autoconnect
 btrfs-assistant
 clipit
 clipman
 connman-gtk
-cpr # (make zsync2-git)
 dashbinsh
 downgrade
 dracut-hook-uefi
@@ -115,7 +113,6 @@ firefox-extension-localcdn
 firefox-extension-plasma-integration-bin
 fish-autopair
 flameshot-git
-garuda-downloader-git
 hw-probe
 imagewriter
 lib32-nvidia-390xx-utils:https://aur.archlinux.org/lib32-nvidia-390xx-utils.git # (lib32-nvidia-390xx-utils, lib32-opencl-nvidia-390xx)
@@ -154,7 +151,6 @@ systemd-oomd-defaults
 timeshift-autosnap
 update-grub
 uresourced
-zsync2-git
 
 # Other firmware
 8188eu-aircrack-dkms-git
