@@ -324,18 +324,13 @@ ananicy-cpp-git
 ananicy-rules-git # (opt ananicy-cpp-git) (dep ananicy-cpp)
 arch-deployer-git
 babl-git # (dep gimp-git)
-brave-nightly-bin
-btop-git
 cfs-zen-tweaks
 chkrootkit
 clamav-unofficial-sigs
 coreutils-git
 coreutils-hybrid-git
 crowdsec
-czkawka-git
 electronmail-bin
-fastfetch-git
-fastgame-git
 firejail-git
 firejail-pacman-hook
 firetools-git
@@ -348,11 +343,9 @@ git-git
 guayadeque-git
 harmonoid-bin
 huniq-git
-hyprland-git
 input-leap-git
 ipman
 jamesdsp-git
-kotatogram-desktop-git
 kvantum-git
 libart-lgpl # (dep gimp-git)
 libgbinder
@@ -371,27 +364,19 @@ plasma6-wallpapers-wallpaper-engine-git
 python-codegen
 python-gbinder
 python-simplediff
-qbittorrent-enhanced-git
 qemu-git
 qt-installer-framework # (make riseup-vpn)
-qtwebflix-git
 quickemu
-quickemu-git
 riseup-vpn
 rufetch
 rusnapshot-git
 searx
 sudo-git
-teams-for-linux-git
 telegram-desktop-userfonts
-traitor-git
-vscodium-insiders
-vscodium-insiders-marketplace
 waydroid-git
 whoogle
 whoogle-git
 woeusb-ng
-xdg-ninja-git
 xorg-server-git:https://aur.archlinux.org/xorg-server-git.git
 xorgproto-git # (make xorg-server-git)
 zenmonitor3-git
