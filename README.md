@@ -6,14 +6,14 @@ This is the right place to submit package requests, bug reports, or outdated pac
 
 #### Some packages we have already built
 
-- [Linux-tkg kernels](https://github.com/Frogging-Family/linux-tkg) (BMQ, CFS,LTO, PDS, TT, and generic_v3 variations)
+- [Linux-tkg kernels](https://github.com/Frogging-Family/linux-tkg) (BMQ, CFS, LTO, PDS, TT, EEVDF, and generic_v3 variations)
 - Other kernel variations such as
     [Cachyos-BORE](https://aur.archlinux.org/packages/linux-cachyos-bore)/[TT](https://aur.archlinux.org/packages/linux-tt),
     [Clear](https://aur.archlinux.org/packages/linux-clear),
     [Nitrous](https://aur.archlinux.org/packages/linux-nitrous),
     [VFIO](https://aur.archlinux.org/packages/linux-vfio),
     and [XanMod](https://aur.archlinux.org/packages/linux-xanmod)
-- A quite complete [KDE stack](https://invent.kde.org/explore/groups?sort=name_asc) in a [separate repo](https://forum.garudalinux.org/t/kde-6-repository-testing/31442)
+- A complete [KDE stack](https://invent.kde.org/explore/groups?sort=name_asc) in a [separate repo](https://forum.garudalinux.org/t/kde-6-repository-testing/31442)
 - Emulators and gaming utilities
 - A lot of browsers like
     [Firedragon](https://github.com/dr460nf1r3/firedragon-browser),
@@ -45,7 +45,6 @@ To address such issues:
 - `chaotic-keyring`: Public keys to verify the Chaotic-AUR package signatures.
 - `chaotic-mirrorlist`: List of servers mirroring Chaotic-AUR packages.
 - `chaotic-interfere`: Marker indicating manually applied interferes.  This package is *not* intended to be installed.
-- `chaotic-kf5-dummy`: Workaround to allow packages with outdated KF5-related depends to continue to function.  Eventually this, and related packages that haven't been updated, will be dropped.  Planned for when KF6 becomes the upstream default.
 
 #### Banished and rejected packages 📑
 
@@ -79,4 +78,4 @@ This is a list of packages that we will reject for good reasons:
 
 - **rider**: Redistribution disallowed per [ToS](https://www.jetbrains.com/legal/docs/toolbox/user).
 
-- **tlauncher**: Legal gray area, as it potentially allows playing Minecraft in a reduced capacity without license.
+- **tlauncher**: Legal gray area, as it potentially allows playing Minecraft in a reduced capacity without a license.
