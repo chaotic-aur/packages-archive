@@ -367,7 +367,6 @@ octopi-git
 onedrivegui-git
 pacman-git
 paru-git:https://github.com/chaotic-aur/pkgbuild-paru-git.git
-plasma5-wallpapers-wallpaper-engine
 python-codegen
 python-gbinder
 python-simplediff
@@ -415,8 +414,6 @@ libcgroup
 lockdown-ms
 nwg-dock-hyprland
 pacseek
-plasma5-applets-audio-device-switcher
-plasma5-applets-plasma-pstate
 python-pid # (dep refind-btrfs)
 python-transitions # (dep refind-btrfs)
 qpdfview
