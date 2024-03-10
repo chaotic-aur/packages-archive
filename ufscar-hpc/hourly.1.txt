@@ -146,7 +146,6 @@ lib32-libde265
 lib32-libfdk-aac
 lib32-libgme
 lib32-libkate
-lib32-libmodplug
 lib32-libsrtp
 lib32-neon
 lib32-rtmpdump
