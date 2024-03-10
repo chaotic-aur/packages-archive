@@ -236,7 +236,6 @@ non-euclidean-git
 kopia-bin
 kopia-ui-bin
 gittyup
-plasma5-applets-fokus
 discord-ptb
 
 # Programming Hubmaking package section
