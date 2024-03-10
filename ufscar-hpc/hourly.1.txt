@@ -1564,7 +1564,7 @@ whisper-git
 jumpapp
 
 # Issue 2607
-zapret-git:https://aur.archlinux.org/zapret-git.git
+zapret-git:https://aur.archlinux.org/zapret-git.git # (zapret-common-git zapret-docs-git zapret-nfqws-git zapret-tpws-git)
 
 # Issue 2610
 htop-vim
