@@ -100,8 +100,7 @@ wps-office-cn
 wps-office-fonts
 wps-office-mime
 wps-office-mime-cn
-yozo-office:https://aur.archlinux.org/yozo-office.git # (yozo-office-templates)
-yozo-office-fonts
+yozo-office:https://aur.archlinux.org/yozo-office.git # (yozo-office-fonts yozo-office-templates)
 zoom
 
 # Garuda network assistant
