@@ -376,7 +376,7 @@ waydroid-git
 whoogle
 whoogle-git
 woeusb-ng
-xorg-server-git:https://aur.archlinux.org/xorg-server-git.git
+xorg-server-git:https://aur.archlinux.org/xorg-server-git.git # (xorg-server-common-git xorg-server-devel-git xorg-server-xephyr-git xorg-server-xnest-git xorg-server-xvfb-git)
 xorgproto-git # (make xorg-server-git)
 zenmonitor3-git
 
