@@ -720,9 +720,6 @@ mint-l-theme
 # Issue 2672
 libvirt-xen
 
-# Issue 2674
-polkit-dumb-agent-git
-
 # Issue 2675
 notes
 
