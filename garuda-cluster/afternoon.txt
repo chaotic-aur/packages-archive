@@ -25,3 +25,7 @@ stylepak-git
 
 # Issue 2119
 trayscale
+
+# Issue 3051
+suyu-dev-git
+suyu-dev-qt6-git
