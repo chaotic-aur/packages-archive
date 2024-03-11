@@ -878,3 +878,6 @@ nvidia-beta-dkms
 
 # Issue 3046
 wallust-git
+
+# Issue 3056
+zed-editor
