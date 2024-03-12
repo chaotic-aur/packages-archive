@@ -1,6 +1,7 @@
 alvr
 amdctl
 android-studio-canary
+arrpc
 darling-bin
 decibels
 epson-inkjet-printer-escpr2
