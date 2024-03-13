@@ -10,6 +10,7 @@ beautyline
 firedragon-extension-plasma-integration
 jamesdsp
 kf6-servicemenus-rootactions
+kwin-effects-forceblur
 plasma5-themes-sweet-kde-git # (dep plasma5-themes-sweet-full-git)
 plasma5-themes-sweet-full-git
 plasma6-applets-window-buttons
