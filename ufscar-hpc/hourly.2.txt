@@ -26,6 +26,9 @@ csxcad-git   # (dep openems-git)
 openems-git
 qcsxcad-git  # (dep appcsxcad-git)
 appcsxcad-git
+python-hdf5storage  # (dep python-openems-git)
+python-csxcad-git   # (dep python-openems-git)
+python-openems-git
 
 browsh
 uefitool-git
