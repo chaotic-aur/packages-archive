@@ -21,6 +21,11 @@ trustedqsl
 qlog-git
 goocanvas2  # (dep gpredict)
 gpredict
+fparser-git  # (dep csxcad-git)
+csxcad-git   # (dep openems-git)
+openems-git
+qcsxcad-git  # (dep appcsxcad-git)
+appcsxcad-git
 
 browsh
 uefitool-git
