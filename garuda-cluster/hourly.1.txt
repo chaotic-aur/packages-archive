@@ -185,8 +185,6 @@ networkmanager-dmenu-git
 ofono
 phonesim
 python-ttkbootstrap # (dep fotokilof)
-qomui
-qomui-git
 soundwire
 tlpui
 webapp-manager-git
