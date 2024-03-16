@@ -558,9 +558,6 @@ mozc-ut
 # Issue 454
 woeusb
 
-# Issue 457
-webkit2gtk-unstable
-
 # Issue 459
 emote
 python-manimpango # (dep emote)
