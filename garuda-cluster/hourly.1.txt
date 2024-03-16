@@ -320,7 +320,6 @@ ananicy-cpp
 ananicy-cpp-git
 ananicy-rules-git # (opt ananicy-cpp-git) (dep ananicy-cpp)
 arch-deployer-git
-babl-git # (dep gimp-git)
 cfs-zen-tweaks
 chkrootkit
 clamav-unofficial-sigs
@@ -334,8 +333,6 @@ firetools-git
 fish-git
 flutter # (dep fluffychat)
 forkgram
-gegl-git # (dep gimp-git)
-gimp-git
 git-git
 guayadeque-git
 harmonoid-bin
