@@ -882,3 +882,7 @@ wallust-git
 
 # Issue 3056
 zed-editor
+
+# Issue 3068
+qt5ct-kde
+qt6ct-kde
