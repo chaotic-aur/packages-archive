@@ -79,9 +79,6 @@ linux-xanmod-rt
 clasp-cl-git
 seqan # (dep clasp-cl-git)
 
-# Issue 1243
-chromium-wayland-vaapi
-
 # Issue 1307
 linux-cachyos-bore # (pkgname is set to linux-bore via interfere, got dropped from AUR due to same PKGBUILD)
 
