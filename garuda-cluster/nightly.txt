@@ -46,6 +46,7 @@ xdvdfs
 xwayland-run-git # (make firefox-wayland-hg)
 
 # Nico
+qoi-git:https://aur.archlinux.org/qoi-git.git # (dep gimp-git) (qoi-headers-git qoiconv-git qoibench-git)
 babl-git # (dep gimp-git)
 gegl-git # (dep gimp-git)
 gimp-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
