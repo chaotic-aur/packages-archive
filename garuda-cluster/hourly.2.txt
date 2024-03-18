@@ -59,7 +59,6 @@ python-xpybutil # (dep flashfocus-git)
 skippy-xd-git
 
 # LXQT-Kwin
-lxqt-kwin-desktop-git
 nm-tray
 
 # MATE
