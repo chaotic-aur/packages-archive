@@ -37,14 +37,16 @@ kwin-scripts-krohnkite-git
 # Nothing as of now
 
 # Hyprland
-dfl-ipc # (dep dfl-applications)
 dfl-applications # (dep greetd-qtgreet)
+dfl-ipc # (dep dfl-applications)
 dfl-login1 # (dep greetd-qtgreet)
 dfl-utils # (dep greetd-qtgreet)
 dfl-wayqt # (dep greetd-qtgreet)
 greetd-gtkgreet-git
 greetd-qtgreet
+hyprcursor-git
 hyprland-git
+hyprlang-git
 wlr-randr-git
 wpaperd
 
