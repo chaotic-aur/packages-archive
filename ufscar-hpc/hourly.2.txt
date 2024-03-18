@@ -211,7 +211,7 @@ radeon-profile-daemon-git
 appflowy-bin
 
 # FGD on forum
-plasma5-applets-weather-widget-2
+plasma-applets-weather-widget-2
 
 # SGS on forum
 breitbandmessung
