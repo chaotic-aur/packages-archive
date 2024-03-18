@@ -418,17 +418,6 @@ resp-app
 # Issue 1669
 joshuto-git
 
-# Issue 1682
-fancontrol-gui # (dep fancontrol-kcm)
-fancontrol-gui-git # (dep fancontrol-kcm-git)
-fancontrol-kcm
-fancontrol-kcm-git
-kcm-colorful-git
-kcm-grub2-git
-kcm-polkit-kde-git
-kcm-uefi
-systemd-kcm
-
 # Issue 1691
 glaxnimate
 glaxnimate-git
