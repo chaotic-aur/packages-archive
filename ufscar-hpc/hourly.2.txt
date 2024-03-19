@@ -1171,9 +1171,6 @@ xnconvert
 # Issue 1567
 synology-drive
 
-# Issue 1569
-plasma5-applets-virtual-desktop-bar-git
-
 # Issue 1571
 zramswap
 
