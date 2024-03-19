@@ -258,6 +258,7 @@ parsec-bin
 pdf-xchange
 pdfquirk
 pdfsam
+qbittorrent-enhanced-git
 remoteplaywhatever-bin
 replay-sorcery-git
 revolt-desktop-git
