@@ -875,3 +875,6 @@ zed-editor
 # Issue 3068
 qt5ct-kde
 qt6ct-kde
+
+#3079
+ttf-readex-pro
