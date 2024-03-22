@@ -876,5 +876,8 @@ zed-editor
 qt5ct-kde
 qt6ct-kde
 
-#3079
+# Issue 3075
+coolercontrol
+
+# Issue 3079
 ttf-readex-pro
