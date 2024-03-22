@@ -352,9 +352,6 @@ pod2man # (dep auracle-git)
 trizen-git
 xfce4-panel-compiz
 
-# Issue 325
-azure-cli
-
 # Issue 326
 powershell
 
