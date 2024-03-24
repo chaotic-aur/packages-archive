@@ -1483,10 +1483,6 @@ sol-client
 # Issue 2142
 superbfetch-git
 
-# Issue 2157
-javahelp2 # (dep lightzone)
-lightzone
-
 # Issue 2177
 i2p
 
