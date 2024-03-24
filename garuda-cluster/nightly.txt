@@ -236,6 +236,9 @@ wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git # interf
 # Issue 3019
 virtualbox-kvm
 
+# Issue 3082
+dolphin-emu-primehack-git
+
 
 ## OTHERS
 non-euclidean-git
