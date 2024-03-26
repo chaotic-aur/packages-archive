@@ -343,7 +343,6 @@ crow-translate-git
 emerald-gtk3
 fsearch-git
 megasync-git
-meteo-gtk
 pa-applet-git
 pacmanlogviewer-git
 palemoon-gtk3-bin
