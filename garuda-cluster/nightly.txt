@@ -28,6 +28,7 @@ ccd2cue
 commissioner-font:https://aur.archlinux.org/commissioner-font.git
 discimagecreator-git
 dolphin-tabopts:https://aur.archlinux.org/dolphin-tabopts.git
+fanficfare-git
 geany-plugin-preview-git
 geeqie-git
 iat
