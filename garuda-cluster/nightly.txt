@@ -56,9 +56,6 @@ telegram-desktop-kdefix-userfonts-altscroll
 
 
 ## Chaotic
-# Issue 286
-authy:https://github.com/chaotic-aur/pkgbuild-empty-project.git
-
 # Issue 311
 wine-stable
 
