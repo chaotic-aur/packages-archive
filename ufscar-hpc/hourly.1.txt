@@ -829,10 +829,6 @@ python-types-python-dateutil # (dep python-rst.linker git-cola)
 # Issue 1455
 ngrok
 
-# Issue 1465
-mullvad-vpn
-mullvad-vpn-cli
-
 # Issue 1466
 qt5-styleplugins:https://aur.archlinux.org/qt5-styleplugins.git
 ttf-meslo-nerd-font-powerlevel10k

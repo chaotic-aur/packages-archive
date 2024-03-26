@@ -444,6 +444,10 @@ sparrow-wifi-git
 
 
 ## Issues
+# Issue 1465
+mullvad-vpn
+mullvad-vpn-cli
+
 # Issue 1584
 yt-dlp-git
 
