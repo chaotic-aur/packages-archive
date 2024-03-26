@@ -722,9 +722,6 @@ dasel
 # Issue 917
 polychromatic
 
-# Issue 924
-act
-
 # Issue 930
 surfn-icons-git
 
