@@ -331,7 +331,6 @@ firejail-git
 firejail-pacman-hook
 firetools-git
 fish-git
-flutter # (dep fluffychat)
 forkgram
 git-git
 guayadeque-git
@@ -1077,3 +1076,7 @@ packwiz-git
 
 # Issue 3012
 tagutil
+
+# Issue 3088
+flutter # (dep for a lot of other apps like fluffychat)
+flutter-artifacts-google-bin:https://aur.archlinux.org/flutter-artifacts-google-bin.git # spawns a lot of other flutter-engine-*
