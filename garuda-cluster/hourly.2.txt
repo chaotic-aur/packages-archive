@@ -227,7 +227,7 @@ steam-boilr-gui
 marktext-bin
 
 # Issue 1350
-hardinfo-git
+hardinfo2-git
 
 # Issue 1351
 realvnc-vnc-server
