@@ -1392,7 +1392,7 @@ linux-steam-integration
 ultimate-doom-builder-git
 
 # Issue 1953
-hardinfo
+hardinfo2
 
 # Issue 1959
 obs-vaapi
