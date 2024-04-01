@@ -346,7 +346,6 @@ megasync-git
 pa-applet-git
 pacmanlogviewer-git
 palemoon-gtk3-bin
-pamac-classic
 pod2man # (dep auracle-git)
 trizen-git
 xfce4-panel-compiz
