@@ -878,3 +878,7 @@ coolercontrol
 
 # Issue 3079
 ttf-readex-pro
+
+# Issue 3090
+blobdrop-git
+ripdrag
