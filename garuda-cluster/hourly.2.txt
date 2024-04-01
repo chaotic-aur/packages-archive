@@ -20,12 +20,6 @@ sweet-folders-icons-git # (plasma5-themes-sweet-full-git)
 
 # Dr460nized-gaming
 kde-service-menu-reimage
-kde-servicemenus-komparemenu
-kde-servicemenus-officeconverter
-kde-servicemenus-pdf-encrypt-decrypt
-kde-servicemenus-rootactions
-kde-servicemenus-sendtodesktop
-kde-servicemenus-setaswallpaper
 kf5-servicemenus-encfs
 kf5-servicemenus-pdf
 kwin-effects-burn-my-windows-git
