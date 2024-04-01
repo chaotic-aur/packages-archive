@@ -374,10 +374,13 @@ xorg-server-git:https://aur.archlinux.org/xorg-server-git.git # (xorg-server-com
 xorgproto-git # (make xorg-server-git)
 zenmonitor3-git
 
-# Spotdl
-python-bandcamp-api # (dep python-spotdl)
-python-demjson3 # (dep python-spotdl)
-python-spotdl
+# spotdl
+python-bandcamp-api # (dep spotdl)
+python-demjson3 # (dep spotdl)
+python-jaconv # (dep python-pykakasi)
+python-pykakasi # (dep spotdl)
+python-syncedlyrics # (dep spotdl)
+spotdl
 
 ## Pedro
 dxvk-git:https://aur.archlinux.org/dxvk-git.git
@@ -421,9 +424,9 @@ mullvad-vpn-beta
 pacvis-git
 paho-mqtt-c # (dep powerpanel)
 powerpanel
-python-dacite # (dep soundcloud-dl-git)
+python-dacite # (dep soundcloud-dl-git spotdl)
 python-pathvalidate # (dep soundcloud-dl-git)
-python-soundcloud-v2 # (dep soundcloud-dl-git)
+python-soundcloud-v2 # (dep soundcloud-dl-git spotdl)
 q-dns-git
 qrcp-git
 snkrx-drmfree-git

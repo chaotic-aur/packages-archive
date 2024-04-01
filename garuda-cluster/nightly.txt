@@ -116,7 +116,7 @@ python-ffmpeg-python # (dep ytmdl spleeter-git)
 python-itunespy # (dep ytmdl)
 python-pydes # (dep ytmdl)
 python-simber # (dep ytmdl)
-python-spotipy # (dep ytmdl)
+python-spotipy # (dep ytmdl spotdl)
 youtube-search-python # (dep ytmdl)
 ytmdl
 

@@ -1524,13 +1524,6 @@ waterfox-bin
 # Issue 2379
 python-fangfrisch
 
-# Issue 2380
-python-jaconv
-python-pykakasi # (dep python-spotdl)
-
-# Issue 2381
-python-syncedlyrics # (dep python-spotdl)
-
 # Issue 2393
 gdm-settings
 
