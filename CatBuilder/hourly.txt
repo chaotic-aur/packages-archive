@@ -9,7 +9,7 @@ gamepad-tool-bin
 google-chrome-beta
 google-chrome-dev
 hotspot
-kddockwidgets # (dep hotspot)
+kddockwidgets-qt6 # (dep hotspot)
 logseq-desktop-bin
 nvlax-git
 signal-desktop-beta
