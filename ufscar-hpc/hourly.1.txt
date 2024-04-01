@@ -1680,6 +1680,8 @@ anime-games-launcher-bin
 # Issue 3057
 betterbird-bin
 
+# Issue 3076
+tokyonight-gtk-theme-git
 
 # Electron
 electron17-bin
