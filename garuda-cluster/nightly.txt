@@ -52,7 +52,6 @@ qoi-git:https://aur.archlinux.org/qoi-git.git # (dep gimp-git) (qoi-headers-git 
 babl-git # (dep gimp-git)
 gegl-git # (dep gimp-git)
 gimp-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
-telegram-desktop-kdefix-userfonts-altscroll
 
 
 ## Chaotic
