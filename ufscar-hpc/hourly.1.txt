@@ -314,6 +314,9 @@ yubico-authenticator-bin
 nghttp2 # (dep wget2)
 wget2
 
+# Issues 287
+lightly-git:https://aur.archlinux.org/lightly-git.git # (lightly-kf5-git lightly-kf6-git)
+
 # Issue 303
 # budgie-desktop-git # PKGBUILDs needs some fixes
 
@@ -325,8 +328,6 @@ cantata-git
 eqonomize-git
 hlsdl
 identity
-lightly-git
-lightly-qt
 nheko-git
 pyradio-git
 qownnotes
