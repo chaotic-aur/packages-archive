@@ -649,9 +649,6 @@ nats-server-bin
 # Issue 866
 dte
 
-# Issue 870
-cpod-appimage
-
 # Issue 875
 kdocker
 
