@@ -882,6 +882,10 @@ coolercontrol
 # Issue 3079
 ttf-readex-pro
 
+# Issue 3089
+python-iniparse-git # (dep crudini)
+crudini
+
 # Issue 3090
 blobdrop-git
 ripdrag
