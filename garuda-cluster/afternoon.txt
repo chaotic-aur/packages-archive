@@ -27,5 +27,5 @@ stylepak-git
 trayscale
 
 # Issue 3051 
-#suyu-dev-git - Gitlab offline due to DCMA
-#suyu-dev-qt6-git
+suyu-dev-git
+suyu-dev-qt6-git
