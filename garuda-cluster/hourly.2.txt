@@ -889,3 +889,6 @@ crudini
 # Issue 3090
 blobdrop-git
 ripdrag
+
+# Issue 3099
+r-quick-share
