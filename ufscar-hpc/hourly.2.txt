@@ -1631,3 +1631,6 @@ swapspace
 
 # Issue 2944
 gnome-encfs-manager-bin
+
+# Issue 3100
+spicetify-marketplace-bin
