@@ -1684,6 +1684,9 @@ betterbird-bin
 # Issue 3076
 tokyonight-gtk-theme-git
 
+# Issue 3077
+python-materialyoucolor-git
+
 # Electron
 electron17-bin
 electron18-bin
