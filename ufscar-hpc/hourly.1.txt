@@ -1687,6 +1687,9 @@ tokyonight-gtk-theme-git
 # Issue 3077
 python-materialyoucolor-git
 
+# Issue 3101
+fbterm
+
 # Electron
 electron17-bin
 electron18-bin
