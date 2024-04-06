@@ -822,9 +822,6 @@ php73:https://aur.archlinux.org/php73.git
 # Issue 2401
 2bwm-git
 
-# Issue 2403
-cargo-sweep
-
 # Issue 2407
 simplescreenrecorder
 
