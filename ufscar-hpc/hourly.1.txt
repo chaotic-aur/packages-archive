@@ -89,7 +89,6 @@ bluespec-bdw-git
 
 
 ## Pedro
-#pipewire-dropin # (bad quality)
 #scrcpy-git (broken)
 asdf-vm
 autoconf-git

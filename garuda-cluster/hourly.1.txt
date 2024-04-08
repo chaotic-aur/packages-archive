@@ -1,6 +1,5 @@
 ## NEEDED FOR GARUDA
 # Emulators
-#regen broken deps (lib32-libffi5)
 antimicrox
 cemu
 cpp-httplib-compiled # (dep xemu-git)

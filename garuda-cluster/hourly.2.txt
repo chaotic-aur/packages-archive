@@ -885,7 +885,7 @@ crudini
 
 # Issue 3090
 blobdrop-git
-ripdrag
+ripdrag-git
 
 # Issue 3094
 typst-lsp
