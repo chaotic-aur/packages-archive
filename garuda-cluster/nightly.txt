@@ -5,6 +5,7 @@ skypeforlinux-bin:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Emulators
 decaf-emu-git
+duckstation-git:https://aur.archlinux.org/duckstation.git # interfere
 nestopia-git
 
 # obs-studio with cef browser
