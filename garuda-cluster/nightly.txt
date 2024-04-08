@@ -5,7 +5,7 @@ skypeforlinux-bin:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Emulators
 decaf-emu-git
-nestopia-git:https://aur.archlinux.org/nestopia.git # interfere
+nestopia-git
 
 # obs-studio with cef browser
 qrcodegen-cmake:https://aur.archlinux.org/qrcodegen-cmake.git # (make obs-studio-git)
