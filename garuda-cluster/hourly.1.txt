@@ -4,7 +4,6 @@ antimicrox
 cemu
 cpp-httplib-compiled # (dep xemu-git)
 crossover
-duckstation-git
 eka2l1-git
 emulationstation
 genymotion
