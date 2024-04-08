@@ -892,3 +892,6 @@ typst-lsp
 
 # Issue 3099
 r-quick-share
+
+# Issue 3106
+phonon-qt6-mpv
