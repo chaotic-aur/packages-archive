@@ -83,7 +83,7 @@ zenpower3-dkms
 #amdvlk-tkg:https://github.com/Frogging-Family/amdvlk-opt.git (broken)
 faudio-tkg-git:https://github.com/Frogging-Family/faudio-git.git
 gallium-nine-git
-gamescope-git:https://github.com/Frogging-Family/gamescope-git.git
+gamescope-git
 goverlay-git
 mangohud-git
 material-kwin-decoration-git:https://aur.archlinux.org/material-kwin-decoration-git.git
