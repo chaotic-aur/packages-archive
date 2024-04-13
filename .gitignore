@@ -1,10 +1,11 @@
 *
+!*/
 
 !.github
 !.gitignore
 !README.md
 
-!CatBuilder/*.txt
-!garuda-cluster/*.txt
-!garuda-repo/*.txt
-!ufscar-hpc/*.txt
+!/CatBuilder/*.txt
+!/garuda-cluster/*.txt
+!/garuda-repo/*.txt
+!/ufscar-hpc/*.txt
