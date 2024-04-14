@@ -767,6 +767,12 @@ scala:https://aur.archlinux.org/scala.git
 # Issue 2826
 obs-streamfx-unstable
 
+# Issue 2840
+libmongocrypt # (make mongodb)
+mongodb-tools # (optdep mongodb)
+mongosh # (optdep mongodb)
+mongodb
+
 # Issue 2848
 crab-hole
 
