@@ -460,10 +460,6 @@ generic-monitor-plugin-git:https://aur.archlinux.org/generic-monitor-plugin-git.
 # Issue 1707
 warp
 
-# Issue 1715
-abricotine
-abricotine-git
-
 # Issue 1719
 akira
 akira-git
