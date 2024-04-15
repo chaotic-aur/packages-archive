@@ -880,9 +880,6 @@ crudini
 blobdrop-git
 ripdrag-git
 
-# Issue 3094
-typst-lsp
-
 # Issue 3099
 r-quick-share
 
