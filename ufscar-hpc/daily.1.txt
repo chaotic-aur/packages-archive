@@ -118,6 +118,12 @@ linux-xanmod-clang-v3:https://aur.archlinux.org/linux-xanmod.git # interfere
 # Issue 2278
 lapce-git
 
+# Issue 2840
+libmongocrypt # (make mongodb)
+mongodb-tools # (optdep mongodb)
+mongosh # (optdep mongodb)
+mongodb
+
 # Issue 2855
 swift-bin
 
