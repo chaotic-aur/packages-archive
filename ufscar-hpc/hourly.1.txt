@@ -1668,6 +1668,9 @@ nautilus-code-git
 tuxedo-control-center-bin
 tuxedo-drivers-dkms
 
+# Issue 2986
+opentofu
+
 # Issue 2999
 krathalans-apparmor-profiles-git
 
