@@ -1318,7 +1318,7 @@ safeeyes-git
 
 # Issue 1830
 subtitlecomposer
-subtitlecomposer-git:https://aur.archlinux.org/subtitlecomposer-nopocketsphinx-git.git
+subtitlecomposer-qt6-git:https://aur.archlinux.org/subtitlecomposer-nopocketsphinx-git.git
 
 # Issue 1833
 python-isounidecode # (dep tauon-music-box)
