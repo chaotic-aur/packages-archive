@@ -4,6 +4,7 @@ librewolf:https://aur.archlinux.org/librewolf.git
 skypeforlinux-bin:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Emulators
+cemu-git
 decaf-emu-git
 duckstation-git:https://aur.archlinux.org/duckstation.git # interfere
 nestopia-git
