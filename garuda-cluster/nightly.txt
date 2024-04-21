@@ -9,6 +9,7 @@ duckstation-git:https://aur.archlinux.org/duckstation.git # interfere
 nestopia-git
 
 # obs-studio with cef browser
+ffnvcodec-headers-12-1 # (make obs-studio-git)
 qrcodegen-cmake:https://aur.archlinux.org/qrcodegen-cmake.git # (make obs-studio-git)
 obs-studio-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 obs-studio-stable:https://github.com/chaotic-aur/pkgbuild-empty-project.git
