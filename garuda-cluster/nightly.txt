@@ -68,6 +68,7 @@ emacs-pgtk-native-comp-git
 emacs-git
 
 # Issue 558
+dotnet-core-bin # (make ryujinx)
 ryujinx:https://aur.archlinux.org/ryujinx.git
 
 # Issue 666
