@@ -780,9 +780,6 @@ efibooteditor
 # Issue 2902
 easy-installer
 
-# Issue 2907
-localsend-bin
-
 # Issue 2908
 mission-center
 

@@ -230,6 +230,9 @@ kwin-scripts-truely-maximized
 # Issue 2893
 material-symbols-git:https://aur.archlinux.org/material-symbols-git.git
 
+# Issue 2907
+localsend-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
+
 # Issue 2948
 wine-staging-wow64-git
 wine-staging-wow64:https://aur.archlinux.org/wine-staging-wow64-git.git # interfere
