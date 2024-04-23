@@ -105,9 +105,6 @@ python-chess-git # (dep stockfish-git)
 stockfish-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 stockfish:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
-# Issue 1521
-lightlyshaders-git
-
 # Issue 1536
 thunderbird-beta:https://aur.archlinux.org/thunderbird-beta.git
 
