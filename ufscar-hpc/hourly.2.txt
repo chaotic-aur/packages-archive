@@ -1071,10 +1071,13 @@ nomachine
 yandex-disk
 
 # Issue 1267
-c++utilities # (dep syncthingtray)
+c++utilities # (dep syncthingtray syncthingtray-qt6)
 qtforkawesome # (dep syncthingtray)
 qtutilities # (dep syncthingtray)
 syncthingtray
+qtforkawesome-qt6 # (dep syncthingtray-qt6)
+qtutilities-qt6 # (dep syncthingtray-qt6)
+syncthingtray-qt6
 
 # Issue 1269
 libuvc # (dep webcamoid)
