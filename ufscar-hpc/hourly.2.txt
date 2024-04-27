@@ -494,6 +494,7 @@ popcorntime
 solanum
 
 # Issue 735
+python-restructuredtext_lint # (dep python-x-wr-timezone)
 python-x-wr-timezone # (dep python-caldav)
 python-recurring-ical-events # (dep python-caldav)
 python-caldav # (dep gtg)
