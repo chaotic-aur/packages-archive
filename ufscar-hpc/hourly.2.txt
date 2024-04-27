@@ -344,10 +344,9 @@ freerdp-git
 remmina-git
 
 # Issue 581
-python-rustworkx # (python-qiskit)
-python-tweedledum # (python-qiskit)
-muparserx # (python-qiskit-aer)
-python-qiskit-aer # (python-qiskit)
+python-rustworkx # (dep python-qiskit)
+muparserx # (dep python-qiskit-aer)
+python-qiskit-aer # (opt python-qiskit)
 python-qiskit
 
 # Issue 584
