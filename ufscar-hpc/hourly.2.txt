@@ -238,12 +238,7 @@ chatterino2-git
 
 # Issue 497
 mu-editor
-pigpio # (dep mu-editor)
-python-colorzero # (dep mu-editor)
-python-gpiozero # (dep mu-editor)
-python-guizero # (dep mu-editor)
-python-nudatus # (dep mu-editor)
-python-pgzero # (dep mu-editor)
+python-pgzero # (opt thonny)
 thonny
 thonny-git
 
