@@ -1685,6 +1685,9 @@ python-materialyoucolor-git
 # Issue 3101
 fbterm
 
+# Issue 3120
+umu-launcher
+
 # Electron
 electron17-bin
 electron18-bin
