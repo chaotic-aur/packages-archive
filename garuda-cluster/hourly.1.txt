@@ -9,7 +9,6 @@ genymotion
 kega-fusion
 lib32-libexif # (opt crossover)
 lib32-nss-mdns # (opt crossover)
-m64py
 mednaffe
 pcsxr
 pegasus-frontend-git
