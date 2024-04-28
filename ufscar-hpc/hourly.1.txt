@@ -766,9 +766,6 @@ gnome-shell-extension-dash-to-panel-git
 dee # (dep libunity webwatcher-git)
 libunity # (dep webwatcher-git)
 
-# Issue 1341
-rofi-lbonn-wayland
-
 # Issue 1342
 otf-manjari
 ttf-malayalam-font-anjalioldlipi
