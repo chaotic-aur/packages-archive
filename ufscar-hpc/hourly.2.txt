@@ -953,8 +953,8 @@ sayonara-player-git
 pcloudcc-git
 
 # Issue 1107
-libpamac-nosnap
-pamac-nosnap
+libpamac-flatpak
+pamac-flatpak
 
 # Issue 1110
 dosbox-x
