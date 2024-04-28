@@ -41,6 +41,7 @@ greetd-qtgreet
 hyprcursor-git
 hyprland-git
 hyprlang-git
+hyprwayland-scanner-git
 wlr-randr-git
 wpaperd
 
