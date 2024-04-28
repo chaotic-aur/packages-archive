@@ -46,7 +46,6 @@ openrgb-git
 openssl-1.0 # (dep epsxe)
 oversteer
 play.it
-proton-caller
 protontricks-git
 python-cinemagoer # (dep hypnotix)
 python-injector # (dep gwe)
