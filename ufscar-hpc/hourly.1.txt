@@ -1688,6 +1688,9 @@ fbterm
 # Issue 3120
 umu-launcher
 
+# Issue 3134
+opensiddur-hebrew-fonts
+
 # Electron
 electron17-bin
 electron18-bin
