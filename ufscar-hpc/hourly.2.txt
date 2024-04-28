@@ -446,7 +446,7 @@ melonds-git
 tutanota-desktop
 
 # Issue 704
-python-httpx-socks
+python-httpx-socks # (dep searx-git)
 searx-git
 
 # Issue 711
