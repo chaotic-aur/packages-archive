@@ -970,9 +970,6 @@ bazarr
 # Issue 2735
 xfs_undelete-git
 
-# Issue 2736
-mtkclient-git
-
 # Issue 2746
 poppler-qt-lcd
 
