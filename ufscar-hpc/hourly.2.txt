@@ -428,6 +428,8 @@ dtv-scan-tables-git # (optdep linuxtv-dvb-apps)
 linuxtv-dvb-apps
 
 # Issue 691
+python-pulsectl # (dep python-pulsectl-asyncio)
+python-pulsectl-asyncio # (dep discover-overlay)
 discover-overlay
 
 # Issue 692
