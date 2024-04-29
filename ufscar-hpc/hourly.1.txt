@@ -392,9 +392,6 @@ waifu2x-ncnn-vulkan-git
 winetricks-git
 xxd-standalone
 
-# Issue 339
-esy # (dep)
-
 # Issue 342
 renamemytvseries-bin
 
