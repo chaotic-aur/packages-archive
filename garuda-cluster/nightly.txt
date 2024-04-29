@@ -62,9 +62,6 @@ scx-scheds-git # for linux-cachyos
 # Issue 311
 wine-stable
 
-# Issue 395
-emacs-pgtk-native-comp-git
-
 # Issue 558
 dotnet-core-bin # (make ryujinx)
 ryujinx:https://aur.archlinux.org/ryujinx.git
