@@ -85,11 +85,6 @@ obs-studio-tytan652
 # Issue 1108
 kdenlive-stabledeps-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
-# Issue 1133
-leagueoflegends-git
-lib32-unixodbc # (dep leagueoflegends-git)
-wine-lol
-
 # Issue 1168
 sddm-theme-astronaut
 
