@@ -235,7 +235,6 @@ c-lolcat
 catia-git
 cpu-x-git
 cpupower-gui
-dangerzone
 discord-chat-exporter-cli
 extundelete
 f3
