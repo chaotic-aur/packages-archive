@@ -125,6 +125,7 @@ mongosh # (optdep mongodb)
 mongodb
 
 # Issue 2855
+python39 # (dep swift-bin)
 swift-bin
 
 # Issue 2955

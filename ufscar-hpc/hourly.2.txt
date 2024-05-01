@@ -201,7 +201,6 @@ wireplumber-git
 xf86-input-libinput-git
 
 # Technetium1
-python39
 python310
 
 
