@@ -130,8 +130,7 @@ google-earth-pro
 google-meet-nativefier
 gstreamer0.10 # (dep foxitreader)
 gstreamer0.10-base # (dep foxitreader)
-guiscrcpy
-python-pynput # (dep guiscrcpy streamdeck-ui-git)
+python-pynput # (dep streamdeck-ui-git)
 mailspring
 mendeleydesktop
 nordpy
