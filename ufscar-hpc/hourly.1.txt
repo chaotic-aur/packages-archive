@@ -388,7 +388,6 @@ pycharm-professional
 trackma-git
 waifu2x-ncnn-vulkan-git
 winetricks-git
-xxd-standalone
 
 # Issue 342
 renamemytvseries-bin
