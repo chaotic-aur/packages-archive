@@ -360,7 +360,6 @@ rufetch
 rusnapshot-git
 searx
 sudo-git
-telegram-desktop-userfonts
 waydroid-git
 whoogle
 whoogle-git
