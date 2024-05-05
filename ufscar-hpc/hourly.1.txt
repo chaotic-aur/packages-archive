@@ -1685,6 +1685,9 @@ umu-launcher
 # Issue 3134
 opensiddur-hebrew-fonts
 
+# Issue 3145
+snapcast
+
 # Electron
 electron17-bin
 electron18-bin
