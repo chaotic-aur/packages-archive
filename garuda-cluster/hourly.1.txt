@@ -271,6 +271,7 @@ connman-git
 tabby-bin
 
 # UltraBlack on forum
+polyclipping # (dep fritzing)
 fritzing
 valent-git
 
