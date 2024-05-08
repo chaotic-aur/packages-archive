@@ -439,7 +439,6 @@ vala-panel
 vala-panel-git
 vala-panel-applets-gpl-git:https://aur.archlinux.org/vala-panel-applets-gpl-git.git
 vala-panel-appmenu-jayatana-git
-vala-panel-appmenu-registrar
 
 # Issue 1707
 warp
