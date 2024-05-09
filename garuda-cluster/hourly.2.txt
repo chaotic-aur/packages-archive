@@ -733,6 +733,8 @@ fuse3-p7zip-git
 rofi-lbonn-wayland-git
 
 # Issue 2816
+fontobene-qt:https://aur.archlinux.org/fontobene-qt.git
+polyclipping
 librepcb
 
 # Issue 2822
