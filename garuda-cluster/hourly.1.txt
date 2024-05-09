@@ -273,6 +273,7 @@ tabby-bin
 # UltraBlack on forum
 polyclipping # (dep fritzing)
 fritzing
+proxmox-backup-client
 valent-git
 
 # gaelic on forum
