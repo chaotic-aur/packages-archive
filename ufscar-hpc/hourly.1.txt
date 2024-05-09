@@ -1,11 +1,14 @@
 ## Maintainers
 ## Paulo
 bluespec-git
---       # need this barrier for other bluespec packages below
 itcl3    # (dep bluespec-bdw-git)
 tk-itk3  # (dep bluespec-bdw-git)
-gtkwave-tcl  # (optdep bluespec-bdw-git)
+gtkwave-gtk3-tcl  # (optdep bluespec-bdw-git)
 tk-itk   # I don't have any use for this, but since we have its old version...
+--       # need this barrier for other bluespec packages below
+bluespec-contrib-git
+--
+bluespec-bdw-git
 airspy-git
 airspyhf-git
 soapysdr-git
@@ -84,9 +87,6 @@ dumpasn1
 dieharder
 jbig2enc-git
 correios-git
-bluespec-contrib-git
-bluespec-bdw-git
-
 
 ## Pedro
 #scrcpy-git (broken)
