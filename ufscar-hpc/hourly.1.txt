@@ -24,6 +24,8 @@ fxload
 xschem
 digital
 netlistsvg-git
+iverilog-git
+verilator-git
 tzsp2pcap-git
 guile1.8 # (dep texmacs)
 gr-limesdr-git
