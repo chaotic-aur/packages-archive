@@ -1459,6 +1459,7 @@ gnome-shell-extension-tiling-assistant-git
 extension-manager
 
 # Issue 2124
+scenefx
 swayfx
 
 # Issue 2128
