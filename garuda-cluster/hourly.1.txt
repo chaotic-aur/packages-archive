@@ -859,6 +859,7 @@ hyprpaper-git
 geticons-git
 
 # Issue 2545
+gtk-session-lock # (dep gtklock)
 gtklock # (dep gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module)
 gtklock-playerctl-module
 
