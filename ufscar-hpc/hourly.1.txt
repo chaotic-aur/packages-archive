@@ -312,6 +312,9 @@ zenpower-dkms
 # Nils on forum
 yubico-authenticator-bin
 
+# Orko on forum
+xpipe
+
 # Issue 285
 nghttp2 # (dep wget2)
 wget2
