@@ -1631,5 +1631,9 @@ swapspace
 # Issue 2944
 gnome-encfs-manager-bin
 
+# Issue 2989
+gamescope-session-git
+gamescope-session-steam-git
+
 # Issue 3100
 spicetify-marketplace-bin
