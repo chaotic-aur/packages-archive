@@ -1124,6 +1124,7 @@ noisetorch-git
 spice-guest-tools-windows
 
 # Issue 1500
+python-pyasyncore # (dep playonlinux)
 phoenicis-playonlinux
 playonlinux
 
