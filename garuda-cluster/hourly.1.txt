@@ -517,6 +517,8 @@ python-git
 make-git
 
 # Issue 2023
+libultrahdr-git # (dep imagemagick-full-git)
+autotrace # (dep imagemagick-full-git)
 dmalloc # (dep imagemagick-full-git)
 flif # (dep imagemagick-full-git)
 libfpx # (dep imagemagick-full-git)
