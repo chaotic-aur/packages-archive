@@ -1507,6 +1507,7 @@ ucon64
 asus-n551-hda-fix
 
 # Issue 2307
+python-pytest-runner # dep (python-pysimplegui)
 python-pysimplegui # (dep python-pyffish)
 fairy-stockfish # fairy-stockfish, python-pyffish
 fairy-stockfish-git:https://aur.archlinux.org/fairy-stockfish.git # interfere
