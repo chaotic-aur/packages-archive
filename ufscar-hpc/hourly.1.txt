@@ -654,6 +654,7 @@ archlinux-java-run
 bluej
 
 # Issue 502
+tree-sitter-git
 libvterm-0.1 # (dep neovim-git)
 neovim-git
 
