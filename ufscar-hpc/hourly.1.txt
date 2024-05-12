@@ -593,7 +593,6 @@ spotify-tray-git
 vala-panel-appmenu-registrar-git
 
 # Issue 473
-apostrophe
 makemkv
 farbfeld
 
