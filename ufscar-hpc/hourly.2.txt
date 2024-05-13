@@ -1372,7 +1372,7 @@ gradience # (dep gradience-plugins)
 
 # Issue 1942
 python-yapsy # (dep gradience gradience-git)
-python-mock # (dep python-cssutils)
+python-mock # (dep python-cssutils mtkclient-git)
 python-cssutils # (dep gradience-git)
 python-libsass # (dep gradience-git)
 gradience-git

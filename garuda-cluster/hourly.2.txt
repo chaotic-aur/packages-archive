@@ -711,6 +711,10 @@ gnome-shell-extension-material-shell
 # Issue 2729
 ame
 
+# Issue 2736
+python-fusepy # (dep mtkclient-git)
+mtkclient-git
+
 # Issue 2774
 neovim-gtk
 
