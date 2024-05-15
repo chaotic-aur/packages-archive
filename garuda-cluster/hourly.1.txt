@@ -1066,3 +1066,4 @@ tagutil
 
 # Issue 3088
 flutter-bin
+fvm-git
