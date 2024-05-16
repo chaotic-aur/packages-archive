@@ -1697,6 +1697,9 @@ brillo
 # Issue 3154
 gtkhash-thunar
 
+# Issue 3156
+unifetch
+
 # Electron
 electron17-bin
 electron18-bin
