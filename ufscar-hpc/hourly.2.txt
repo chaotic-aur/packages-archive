@@ -1632,7 +1632,7 @@ lact
 swapspace
 
 # Issue 2944
-gnome-encfs-manager-bin
+gnome-encfs-manager-bzr
 
 # Issue 2989
 gamescope-session-git
