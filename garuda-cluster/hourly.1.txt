@@ -1067,3 +1067,9 @@ tagutil
 # Issue 3088
 flutter-bin
 fvm-git
+
+# Issue 3135
+python-pytomlpp # (dep searxng-git)
+python-httpx-socks # (dep searxng-git)
+python-fasttext-predict-git # (dep searxng-git)
+searxng-git
