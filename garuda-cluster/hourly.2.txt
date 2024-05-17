@@ -876,3 +876,6 @@ phonon-qt6-mpv
 # Issue 3119
 luau # (dep qsv)
 qsv
+
+# Issue 3023
+mise
