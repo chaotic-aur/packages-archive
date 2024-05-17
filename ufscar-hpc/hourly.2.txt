@@ -1640,3 +1640,10 @@ gamescope-session-steam-git
 
 # Issue 3100
 spicetify-marketplace-bin
+
+# Issue 3140
+librelp # (dep rsyslog)
+libestr # (dep rsyslog)
+liblogging # (dep rsyslog)
+libfastjson # (dep rsyslog)
+rsyslog
