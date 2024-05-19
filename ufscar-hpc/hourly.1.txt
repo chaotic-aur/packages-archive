@@ -1691,6 +1691,9 @@ opensiddur-hebrew-fonts
 # Issue 3145
 snapcast
 
+# Issue 3146
+lf-git
+
 # Issue 3147
 brillo
 
