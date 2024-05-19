@@ -484,9 +484,6 @@ python-gtts
 # Issue 730
 git-fixup-git
 
-# Issue 733
-popcorntime
-
 # Issue 734
 solanum
 
@@ -1647,3 +1644,6 @@ libestr # (dep rsyslog)
 liblogging # (dep rsyslog)
 libfastjson # (dep rsyslog)
 rsyslog
+
+# Issue 3142
+popcorntime-bin
