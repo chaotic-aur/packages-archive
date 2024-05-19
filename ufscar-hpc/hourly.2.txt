@@ -815,7 +815,7 @@ storcli
 
 # Issue 1001
 adcli # (dep realmd)
-oddjob # (dep python-ipaclient freeipa)
+oddjob-selinux # (dep python-ipaclient freeipa)
 authselect # (dep freeipa-client freeipa)
 autofs # (dep freeipa-client freeipa)
 certmonger # (dep freeipa-client freeipa)
