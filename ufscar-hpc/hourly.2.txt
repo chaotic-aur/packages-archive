@@ -1301,9 +1301,6 @@ pebbles-git
 # Issue 1804
 photoqt
 
-# Issue 1809
-qnapi-git
-
 # Issue 1810
 qoob-git
 
