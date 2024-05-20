@@ -373,7 +373,7 @@ typora
 # Issue 335
 compiz
 crow-translate
-#megasync
+megasync
 trizen
 
 # Issue 337
