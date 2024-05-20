@@ -142,6 +142,7 @@ olivia-git
 plex-media-player
 popsicle
 pulseeffects-legacy
+qt-sudo # (dep octopi)
 qt5-webkit # (dep olivia-git remarkable smtube)
 qtscrcpy
 shortwave
