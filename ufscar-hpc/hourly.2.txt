@@ -242,9 +242,6 @@ python-pgzero # (opt thonny)
 thonny
 thonny-git
 
-# Issue 510
-vorta
-
 # Issue 511
 swaylock-effects
 
