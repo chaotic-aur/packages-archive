@@ -313,9 +313,6 @@ deluge-git
 # Issue 1439
 ta-lib
 
-# Issue 1441
-strawberry-qt5
-
 # Issue 1452
 vlang-git
 
