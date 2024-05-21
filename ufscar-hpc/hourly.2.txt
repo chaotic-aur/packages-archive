@@ -23,8 +23,8 @@ qlog-git
 goocanvas2  # (dep gpredict)
 gpredict
 fparser-git  # (dep csxcad-git)
-csxcad-git   # (dep openems-git)
-openems-git
+csxcad-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (dep openems-git)
+openems-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 qcsxcad-git  # (dep appcsxcad-git)
 appcsxcad-git
 python-hdf5storage  # (dep python-openems-git)
