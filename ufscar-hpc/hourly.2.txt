@@ -405,11 +405,6 @@ lmms-git
 # Issue 680
 mips64-elf-binutils
 
-# Issue 683
-protonvpn-gui
-python-proton-client # (dep protonvpn-gui)
-python-protonvpn-nm-lib # (dep protonvpn-gui)
-
 # Issue 684
 openboard
 
@@ -844,9 +839,6 @@ python-steam # (dep protonup-qt)
 
 # Issue 1021
 fzf-tab-bin-git
-
-# Issue 1022
-protonvpn-cli
 
 # Issue 1024
 plymouth-theme-aregression
