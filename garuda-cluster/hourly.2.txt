@@ -345,7 +345,7 @@ flyctl-bin
 
 # Issue 1592
 media-downloader
-media-downloader-git:https://github.com/chaotic-aur/pkgbuild-media-downloader-git
+media-downloader-git
 
 # Issue 1593
 mousai
