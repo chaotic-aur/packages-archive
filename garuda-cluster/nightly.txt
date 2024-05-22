@@ -133,8 +133,7 @@ python-openexr # (art-rawconverter-imageio)
 python-tifffile # (dep art-rawconverter-imageio)
 
 # Issue 1686
-libeb # (dep goldendict-git goldendict-webengine-pr-git)
-goldendict-git
+libeb # (dep goldendict-webengine-pr-git)
 goldendict-webengine-pr-git
 
 # Issue 1706
