@@ -45,7 +45,8 @@ rpcs3-git
 #emacs-ng-git
 
 # Issue 729
-linux-vfio:https://aur.archlinux.org/linux-vfio.git # (linux-vfio linux-vfio-v3)
+linux-vfio
+linux-vfio-v3:https://aur.archlinux.org/linux-vfio.git
 
 # Issue 774
 freecad-git
