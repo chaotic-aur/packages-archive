@@ -667,10 +667,6 @@ vopono
 # Issue 2213
 geph4-client
 
-# Issue 2221
-wkhtmltopdf
-remarkable
-
 # Issue 2224
 agg-2.6-git
 
