@@ -443,8 +443,9 @@ gedit-plugin-markdown_preview
 contour-git
 
 # Issue 713
-paq8o # (opt peazip-qt5)
-zpaq # (dep peazip-qt5)
+paq8o # (opt peazip-gtk2 peazip-qt5)
+zpaq # (opt peazip-gtk2 peazip-qt5)
+peazip-gtk2
 peazip-qt5
 
 # Issue 716
