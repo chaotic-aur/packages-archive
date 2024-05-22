@@ -138,7 +138,6 @@ nordvpn-bin
 octopi
 octopi-notifier-frameworks
 octopi-notifier-qt5
-olivia-git
 plex-media-player
 popsicle
 pulseeffects-legacy
