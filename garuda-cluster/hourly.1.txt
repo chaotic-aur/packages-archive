@@ -395,7 +395,6 @@ pacseek
 python-pid # (dep refind-btrfs)
 python-transitions # (dep refind-btrfs)
 qpdfview
-qytdl
 refind-btrfs
 sound-theme-smooth
 usbaudio-git
