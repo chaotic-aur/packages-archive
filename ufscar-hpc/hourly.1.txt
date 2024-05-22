@@ -123,6 +123,7 @@ waybar-git
 wayfire-git
 waynergy-git
 waypipe-git
+wf-config-git # (dep wayfire-git)
 yaup-git
 zimg-git # (dep vapoursynth-git)
 zfs-dkms
