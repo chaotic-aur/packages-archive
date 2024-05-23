@@ -118,14 +118,13 @@ ttf-borg-sans-mono
 ttf-font-awesome-4
 tuxclocker
 ums
-vapoursynth-git # (dep mpv-full-git)
+vapoursynth-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (dep mpv-full-git)
 waybar-git
 wayfire-git
 waynergy-git
 waypipe-git
 wf-config-git # (dep wayfire-git)
 yaup-git
-zimg-git # (dep vapoursynth-git)
 zfs-dkms
 zfs-utils
 
