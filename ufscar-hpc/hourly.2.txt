@@ -80,20 +80,12 @@ yambar-git
 zenpower-dkms-git
 zenpower3-dkms
 
-# FroggingFamily
-#amdvlk-tkg:https://github.com/Frogging-Family/amdvlk-opt.git (broken)
-faudio-tkg-git:https://github.com/Frogging-Family/faudio-git.git
+# Gaming
 gallium-nine-git
 gamescope-git
 goverlay-git
 mangohud-git
 material-kwin-decoration-git:https://aur.archlinux.org/material-kwin-decoration-git.git
-neofrog-git:https://github.com/Frogging-Family/neofrog-git.git
-spirv-tools-tkg-git:https://github.com/Frogging-Family/spirv-tools-git.git
-vkd3d-proton-tkg-git:https://github.com/Frogging-Family/vkd3d-git.git
-vkd3d-tkg-git:https://github.com/Frogging-Family/vkd3d-git.git
-vulkan-headers-tkg-git:https://github.com/Frogging-Family/vulkan-headers-git.git
-vulkan-icd-loader-git:https://github.com/Frogging-Family/vulkan-icd-loader-git.git
 
 # RustemB
 aarch64-linux-musl
