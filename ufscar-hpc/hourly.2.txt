@@ -131,7 +131,6 @@ ayatana-indicator-power
 ayatana-indicator-session
 ayatana-indicator-sound
 
-libclc-git # (dep mesa-git)
 libselinux # (dep glib2-selinux)
 libsepol # (dep glib2-selinux)
 
