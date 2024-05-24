@@ -1301,7 +1301,7 @@ safeeyes
 safeeyes-git
 
 # Issue 1830
-subtitlecomposer-qt6
+subtitlecomposer
 subtitlecomposer-qt6-git
 
 # Issue 1833
