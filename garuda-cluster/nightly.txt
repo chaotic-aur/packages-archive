@@ -64,7 +64,7 @@ scx-scheds-git # for linux-cachyos
 wine-stable
 
 # Issue 558
-dotnet-core-bin # (make ryujinx)
+dotnet-sdk-bin:https://aur.archlinux.org/dotnet-core-bin.git # (make ryujinx)
 ryujinx:https://aur.archlinux.org/ryujinx.git
 
 # Issue 666
