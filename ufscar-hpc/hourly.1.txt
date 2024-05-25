@@ -1670,6 +1670,9 @@ krathalans-apparmor-profiles-git
 # Issue 3001
 anime-games-launcher-bin
 
+# Issue 3036
+zerotier-gui-git
+
 # Issue 3042
 python-musicpd # (dep mpd-sima)
 mpd-sima
