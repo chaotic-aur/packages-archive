@@ -1657,6 +1657,9 @@ winbox
 # Issue 2971
 zapzap
 
+# Issue 2974
+r2modman-bin
+
 # Issue 2975
 nautilus-code-git
 
