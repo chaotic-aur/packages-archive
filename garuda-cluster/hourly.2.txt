@@ -819,6 +819,9 @@ lib32-vulkan-nouveau-git # dep for some games in wine
 # Issue 2979
 beaver-notes
 
+# Issue 2988
+openresty
+
 # Issue 2997
 delfin
 
