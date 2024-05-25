@@ -40,6 +40,7 @@ js8call
 python-yattag # (dep chirp-next)
 chirp-next
 hal-git
+svlangserver
 hashcash
 ht-editor
 i3status-rust-git
