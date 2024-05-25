@@ -1726,6 +1726,9 @@ gtkhash-thunar
 # Issue 3156
 unifetch
 
+# Issue 3170
+goofcord-bin
+
 # Electron
 electron17-bin
 electron18-bin
