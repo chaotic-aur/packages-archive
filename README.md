@@ -67,11 +67,13 @@ This is a list of packages that we will reject for good reasons:
 
 - **python2**: Has been EOL for a couple of years, and was [removed from Arch repositories](https://archlinux.org/news/removing-python2-from-the-repositories/). Requests for packages that depend on it in any way will be rejected (see [#1958](https://github.com/chaotic-aur/packages/issues/1958)).
 
-- **linux-ck**: Two reasons, first our `linux-tkg-*` already includes those bits of optimizations, second there is [repo-ck](https://wiki.archlinux.org/title/Unofficial_user_repositories#repo-ck) with official pre-built binaries for it.
+- **linux-ck**: Other kernels contain the same optimizations, and official pre-built binaries are available from [repo-ck](https://wiki.archlinux.org/title/Unofficial_user_repositories#repo-ck).
 
 - Dependencies without any dependents: Such packages are useless by themselves.  Maintaining them wastes effort that is better spent elsewhere.
 
 #### Banned due to licensing issues 🛑
+
+- **AMDGPU PRO** Drivers.  Redistribution of both software and documentation is prohibited.
 
 - **aseprite{-git}**: Redistribution is explicitly prohibited in its [FAQ](https://www.aseprite.org/faq/#can-i-redistribute-aseprite).
 
