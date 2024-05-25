@@ -1617,6 +1617,9 @@ netbird-ui
 # Issue 3063
 gdm-nox
 
+# Issue 3085
+spotify-player
+
 # Issue 3100
 spicetify-marketplace-bin
 
