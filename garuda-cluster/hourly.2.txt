@@ -828,6 +828,9 @@ scc
 # Issue 3021
 redlib
 
+# Issue 3022
+yazi-git
+
 # Issue 3026
 angryoxide
 
