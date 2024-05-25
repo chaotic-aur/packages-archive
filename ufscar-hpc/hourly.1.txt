@@ -1654,6 +1654,9 @@ yt-dlp-drop-in
 # Issue 2883
 winbox
 
+# Issue 2971
+zapzap
+
 # Issue 2975
 nautilus-code-git
 
