@@ -840,6 +840,9 @@ nvidia-utils-beta # (nvidia-utils-beta, nvidia-settings-beta, opencl-nvidia-beta
 --
 nvidia-beta-dkms
 
+# Issue 3045
+bolt-launcher
+
 # Issue 3046
 wallust-git
 
