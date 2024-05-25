@@ -928,7 +928,8 @@ gst-plugin-gtk4
 clipboard-sync
 
 # Issue 2613
-aurutils
+aurutils # (dep aurutils)
+aurum
 
 # Issue 2614
 ani-cli
