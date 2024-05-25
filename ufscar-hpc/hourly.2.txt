@@ -1607,6 +1607,10 @@ gamescope-session-steam-git
 # Issue 3060
 ironbar-git
 
+# Issue 3062
+netbird
+netbird-ui
+
 # Issue 3063
 gdm-nox
 
