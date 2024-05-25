@@ -303,7 +303,6 @@ rtl88x2bu-cilynx-dkms-git
 
 # FGD on forum
 amdgpu-fan
-dolphin-megasync-bin
 fish-systemd-git
 it87-dkms-git
 zenpower-dkms
@@ -347,7 +346,6 @@ compiz-git
 crow-translate-git
 emerald-gtk3
 fsearch-git
-megasync-git
 pa-applet-git
 pacmanlogviewer-git
 palemoon-gtk3-bin
@@ -374,7 +372,6 @@ typora
 # Issue 335
 compiz
 crow-translate
-megasync
 trizen
 
 # Issue 337
@@ -1315,9 +1312,6 @@ plex-media-server-plexpass
 
 # Issue 2063
 hd
-
-# Issue 2065
-megasync-bin # (dep dolphin-megasync-bin)
 
 # Issue 2089
 brother-mfc-l2710dw
