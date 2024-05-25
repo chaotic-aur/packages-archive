@@ -1587,6 +1587,9 @@ vundle-git
 # Issue 2786
 activitywatch-bin
 
+# Issue 2799
+opentabletdriver
+
 # Issue 2817
 man-pages-ja
 
