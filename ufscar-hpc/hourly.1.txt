@@ -1676,6 +1676,10 @@ krathalans-apparmor-profiles-git
 # Issue 3001
 anime-games-launcher-bin
 
+# Issue 3016
+glew-2.1
+sonyheadphonesclient-bin
+
 # Issue 3031
 lemonade-git
 
