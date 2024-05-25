@@ -1604,6 +1604,9 @@ gnome-encfs-manager-bzr
 gamescope-session-git
 gamescope-session-steam-git
 
+# Issue 3063
+gdm-nox
+
 # Issue 3100
 spicetify-marketplace-bin
 
