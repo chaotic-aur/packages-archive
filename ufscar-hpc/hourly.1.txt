@@ -1607,6 +1607,7 @@ telegraph
 
 # Issue 2828
 ddcci-driver-linux-dkms
+ddcci-driver-linux-dkms-git
 
 # Issue 2830
 lightdm-theme-neon
