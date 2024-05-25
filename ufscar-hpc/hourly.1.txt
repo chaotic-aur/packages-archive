@@ -1611,6 +1611,9 @@ scilab-bin
 # Issue 2825
 telegraph
 
+# Issue 2828
+ddcci-driver-linux-dkms
+
 # Issue 2830
 lightdm-theme-neon
 
