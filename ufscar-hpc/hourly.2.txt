@@ -511,7 +511,7 @@ pure-ftpd
 
 # Issue 757
 vmware-workstation
-vmware-keymaps # (dep vmware-workstation)
+vmware-keymaps # (dep vmware-workstation vmware-horizon-client)
 
 # Issue 758
 onedriver
@@ -1562,6 +1562,9 @@ xwiimote
 
 # Issue 2717
 jellyseerr
+
+# Issue 2719
+vmware-horizon-client:https://aur.archlinux.org/vmware-horizon-client.git
 
 # Issue 2761
 qadwaitadecorations-git:https://aur.archlinux.org/qadwaitadecorations-git.git # (qadwaitadecorations-qt6-git)
