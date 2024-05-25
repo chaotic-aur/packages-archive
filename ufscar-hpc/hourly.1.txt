@@ -1654,9 +1654,6 @@ yt-dlp-drop-in
 # Issue 2883
 winbox
 
-# Issue 2912
-samba-support
-
 # Issue 2971
 zapzap
 
