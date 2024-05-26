@@ -430,12 +430,9 @@ libadwaita-without-adwaita-git
 # Issue 1704
 skeuos-gtk
 
-# Issue 1705
-appmenu-glib-translator-git # (dep vala-panel-git)
+# Issue 1705 (related 1944)
 vala-panel
-vala-panel-git
-vala-panel-applets-gpl-git:https://aur.archlinux.org/vala-panel-applets-gpl-git.git
-vala-panel-appmenu-jayatana-git
+vala-panel-appmenu:https://aur.archlinux.org/vala-panel-appmenu.git # (vala-panel-appmenu vala-panel-appmenu-common vala-panel-appmenu-registrar vala-panel-appmenu-mate vala-panel-appmenu-xfce vala-panel-appmenu-valapanel vala-panel-appmenu-budgie)
 
 # Issue 1707
 warp
@@ -621,6 +618,15 @@ celestia-addon-vaders_tie_fighter
 celestia-addon-voyagers
 celestia-addon-xwing
 celestia
+
+# Issue 1944 (related 1705)
+appmenu-glib-translator-git # (dep vala-panel-git)
+vala-panel-git
+vala-panel-appmenu-xfce-git:https://aur.archlinux.org/vala-panel-appmenu-xfce-git.git # (vala-panel-appmenu-common-git vala-panel-appmenu-mate-git vala-panel-appmenu-xfce-git vala-panel-appmenu-valapanel-git vala-panel-appmenu-budgie-git)
+
+vala-panel-applets-gpl-git:https://aur.archlinux.org/vala-panel-applets-gpl-git.git
+vala-panel-appmenu-jayatana-git
+vala-panel-appmenu-registrar-git
 
 # Issue 2387
 python-sphinx_mdinclude:https://aur.archlinux.org/python-sphinx_mdinclude.git # (make python-desktop-notifier)

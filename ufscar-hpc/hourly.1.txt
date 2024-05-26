@@ -586,7 +586,6 @@ gajim-git
 lbry-desktop-bin
 python-nbxmpp-git # (dep gajim-git)
 spotify-tray-git
-vala-panel-appmenu-registrar-git
 
 # Issue 473
 makemkv
