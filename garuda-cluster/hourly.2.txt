@@ -716,6 +716,7 @@ ame
 
 # Issue 2736
 python-fusepy # (dep mtkclient-git)
+python-mock # (dep mtkclient-git)
 mtkclient-git
 
 # Issue 2774
