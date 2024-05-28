@@ -121,16 +121,6 @@ glibc-eac:https://gitlab.archlinux.org/archlinux/packaging/packages/glibc.git
 # Issue 1676
 art-rawconverter:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 art-rawconverter-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (art-rawconverter-git art-rawconverter-avx-git)
-art-rawconverter-imageio # (optdep art-rawconverter)
-brunsli # (dep python-imagecodecs)
-charls # (dep python-imagecodecs)
-lcms2-ff # (optdep art-rawconverter)
-lerc # (dep python-imagecodecs)
-lzfse # (dep python-imagecodecs)
-python-imagecodecs # (optdep python-tifffile)
-python-imread # (dep python-imagecodecs)
-python-openexr # (art-rawconverter-imageio)
-python-tifffile # (dep art-rawconverter-imageio)
 
 # Issue 1686
 libeb # (dep goldendict-webengine-pr-git)
