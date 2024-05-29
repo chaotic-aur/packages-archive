@@ -1723,6 +1723,9 @@ unifetch
 # Issue 3170
 goofcord-bin
 
+# Issue 3174
+tor-browser-bin
+
 # Electron
 electron17-bin
 electron18-bin
