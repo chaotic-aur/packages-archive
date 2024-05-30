@@ -381,13 +381,10 @@ eclipse-java
 # Issue 338
 clion
 expressvpn
-glslang-git # (dep waifu2x-ncnn-vulkan-git)
 intellij-idea-ultimate-edition
-ncnn-git # (dep waifu2x-ncnn-vulkan-git)
 nodejs-nativefier
 pycharm-professional
 trackma-git
-waifu2x-ncnn-vulkan-git
 winetricks-git
 
 # Issue 342
