@@ -57,6 +57,7 @@ realvnc-vnc-viewer
 reaver-wps-fork-t6x-git
 hostapd-wpe
 rqlite
+rstudio-desktop
 sdrpp-git
 sway-launcher-desktop
 systemd-boot-pacman-hook
