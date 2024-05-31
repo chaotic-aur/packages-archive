@@ -612,7 +612,6 @@ mcmojave-cursors-git
 whitesur-icon-theme-git
 
 # Issue 483
-python-bibtexparser # (dep setzer-git)
 setzer-git
 
 # Issue 484
