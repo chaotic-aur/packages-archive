@@ -93,6 +93,7 @@ linux-nitrous
 
 # Issue 1632
 kodi-git:https://aur.archlinux.org/kodi-git.git
+kodi-stable-git:https://aur.archlinux.org/kodi-stable-git.git
 
 # Issue 1652
 linux-lqx
