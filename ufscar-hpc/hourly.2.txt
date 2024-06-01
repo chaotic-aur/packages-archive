@@ -1562,6 +1562,9 @@ jellyseerr
 # Issue 2719
 vmware-horizon-client:https://aur.archlinux.org/vmware-horizon-client.git
 
+# Issue 2723
+modrinth-app-git
+
 # Issue 2761
 qadwaitadecorations-git:https://aur.archlinux.org/qadwaitadecorations-git.git # (qadwaitadecorations-qt6-git)
 qadwaitadecorations:https://aur.archlinux.org/qadwaitadecorations.git # (qadwaitadecorations-qt5 qadwaitadecorations-qt6)
