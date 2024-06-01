@@ -1,6 +1,5 @@
 ## NEEDED FOR GARUDA
 # Emulators
-antimicrox
 cpp-httplib-compiled # (dep xemu-git)
 crossover
 eka2l1-git
