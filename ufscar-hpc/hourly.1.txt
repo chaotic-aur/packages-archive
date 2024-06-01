@@ -1551,7 +1551,7 @@ tty-clock
 fcitx5-mozc-ut
 
 # Issue 2683
-shell-color-scripts
+shell-color-scripts-git
 
 # Issue 2684
 gamejolt-client-bin
