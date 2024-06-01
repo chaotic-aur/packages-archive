@@ -889,3 +889,7 @@ qsv
 
 # Issue 3023
 mise
+
+# Issue 3177
+clash-geoip # (dep mihomo)
+mihomo
