@@ -178,6 +178,7 @@ dolphin-emu-git:https://aur.archlinux.org/dolphin-emu-debugfast-git.git # (dolph
 celeste
 
 # Issue 2392
+protobuf-21 # (dep ola)
 ola # (opt qlcplus)
 qlcplus
 
