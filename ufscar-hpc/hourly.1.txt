@@ -773,7 +773,7 @@ ttf-malayalam-fonts-meta
 libplacebo-git # (dep mpv-full-git)
 
 # Issue 1365
-notparadoxlauncher-bin
+notparadoxlauncher
 
 # Issue 1370
 akvcam-dkms
