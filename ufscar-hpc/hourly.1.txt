@@ -262,7 +262,7 @@ pdf-xchange
 pdfquirk
 pdfsam
 qbittorrent-enhanced-git
-remoteplaywhatever-bin
+remoteplaywhatever
 replay-sorcery-git
 revolt-desktop-git
 shutter-encoder-bin
