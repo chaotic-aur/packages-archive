@@ -1114,9 +1114,6 @@ juno-theme-git
 # Issue 1782
 krop
 
-# Issue 1795
-notejot
-
 # Issue 1798
 oxygen-cursors-extra
 
