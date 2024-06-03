@@ -297,9 +297,6 @@ wxformbuilder
 # Issue 1425
 responsively
 
-# Issue 1427
-colorway
-
 # Issue 1428
 nvidia-open-beta
 nvidia-open-git
