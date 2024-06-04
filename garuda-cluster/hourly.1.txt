@@ -717,7 +717,7 @@ jellyfin-media-player
 biome
 
 # Issue 2293
-python-casttube # (dep python-pychromecast)
+python-casttube # (dep python-pychromecast sublime-music-git)
 python-pychromecast # (dep catt)
 catt
 
@@ -1061,6 +1061,10 @@ advcpmv
 # Issue 3088
 flutter-bin
 fvm-git
+
+# Issue 3117
+python-dataclasses-json # (dep sublime-music-git)
+sublime-music-git
 
 # Issue 3135
 python-pytomlpp # (dep searxng-git)

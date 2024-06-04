@@ -1474,7 +1474,7 @@ epy-ereader-git
 python-climage # (dep baca-ereader-git)
 python-kdtree # (dep python-climage)
 python-markdownify # (dep baca-ereader-git)
-python-thefuzz # (optdep baca-ereader-git) (provides python-fuzzywuzzy)
+python-thefuzz # (dep sublime-music-git) (optdep baca-ereader-git) (provides python-fuzzywuzzy)
 
 # Issue 2528
 ttf-material-design-icons-extended
