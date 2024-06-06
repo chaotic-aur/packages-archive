@@ -1071,3 +1071,6 @@ python-pytomlpp # (dep searxng-git)
 python-httpx-socks # (dep searxng-git)
 python-fasttext-predict-git # (dep searxng-git)
 searxng-git
+
+# Issue 3181
+reboot-arch-btw
