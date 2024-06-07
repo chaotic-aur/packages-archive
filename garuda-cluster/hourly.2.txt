@@ -890,3 +890,6 @@ mise
 # Issue 3177
 clash-geoip # (dep mihomo)
 mihomo
+
+# Issue 3182
+phonon-qt6-gstreamer-git
