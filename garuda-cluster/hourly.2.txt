@@ -641,9 +641,6 @@ rustdesk-bin
 # Issue 2624
 latencyflex-git
 
-# Issue 2629
-protonmail-bridge-nogui
-
 # Issue 2638
 artemis3
 pyinstaller # (dep artemis3)
