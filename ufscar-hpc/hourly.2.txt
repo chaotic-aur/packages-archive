@@ -1033,9 +1033,6 @@ xmrig-donateless
 # Issue 1259
 nomachine
 
-# Issue 1262
-yandex-disk
-
 # Issue 1267
 c++utilities # (dep syncthingtray syncthingtray-qt6)
 qtforkawesome # (dep syncthingtray)
