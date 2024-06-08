@@ -887,6 +887,9 @@ qsv
 # Issue 3023
 mise
 
+# Issue 3141
+zrepl-git
+
 # Issue 3177
 clash-geoip # (dep mihomo)
 mihomo
