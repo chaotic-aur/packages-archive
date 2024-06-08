@@ -1205,9 +1205,6 @@ processing
 sweet-gtk-theme
 sweet-gtk-theme-dark
 
-# Issue 1883
-cabbage-bin
-
 # Issue 1885
 simplenote-electron-bin
 
