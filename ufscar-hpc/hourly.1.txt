@@ -1068,9 +1068,6 @@ ttf-pacifico
 # Issue 1736
 blockout2
 
-# Issue 1740
-csound-blue
-
 # Issue 1743
 plasma5-themes-chromeos-git
 
