@@ -170,6 +170,11 @@ neovim-nightly-bin:https://aur.archlinux.org/neovim-nightly-bin.git
 # Issue 2273
 vita3k-git
 
+# Issue 2315
+librashader # (dep ares-emu-avx-git)
+ares-emu:https://aur.archlinux.org/ares-emu-avx-git.git
+ares-emu-avx-git # (ares-emu-avx-git ares-emu-git)
+
 # Issue 2325
 cubeb # (dep dolphin-emu-git)
 dolphin-emu-git:https://aur.archlinux.org/dolphin-emu-debugfast-git.git # (dolphin-emu-git dolphin-emu-avx-git)
