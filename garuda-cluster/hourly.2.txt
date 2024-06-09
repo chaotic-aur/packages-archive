@@ -887,6 +887,13 @@ mise
 # Issue 3141
 zrepl-git
 
+# Issue 3155
+libplist-git # (dep libimobiledevice-glue-git)
+libimobiledevice-glue-git # (dep libusbmuxd-git)
+libusbmuxd-git # (dep libimobiledevice-git)
+libimobiledevice-git
+usbmuxd-git
+
 # Issue 3177
 clash-geoip # (dep mihomo)
 mihomo
