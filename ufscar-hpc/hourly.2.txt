@@ -24,11 +24,11 @@ goocanvas2  # (dep gpredict)
 gpredict
 fparser-git  # (dep csxcad-git)
 csxcad-git # (dep openems-git) (csxcad-git python-csxcad-git)
-openems-git
+openems-git # (openems-git python-openems-git)
 qcsxcad-git  # (dep appcsxcad-git)
 appcsxcad-git
 python-hdf5storage  # (dep python-openems-git)
-python-openems-git
+
 browsh
 uefitool-git
 
