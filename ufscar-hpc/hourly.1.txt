@@ -376,7 +376,7 @@ crow-translate
 trizen
 
 # Issue 337
-eclipse-java
+eclipse-java-bin
 
 # Issue 338
 clion
