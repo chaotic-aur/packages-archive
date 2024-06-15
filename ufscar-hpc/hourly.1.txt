@@ -308,6 +308,9 @@ fish-systemd-git
 it87-dkms-git
 zenpower-dkms
 
+# Nemesis on forum
+dymo-cups-drivers
+
 # Nils on forum
 yubico-authenticator-bin
 
