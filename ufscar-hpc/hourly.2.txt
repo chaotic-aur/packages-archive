@@ -1148,7 +1148,7 @@ zotero-bin
 
 # Issue 1585
 system76-acpi-dkms # (dep system76-power)
-system76-dkms # (dep system76-power)
+system76-dkms-git # (dep system76-power)
 system76-io-dkms # (dep system76-power)
 system76-power # (dep pop-launcher)
 
