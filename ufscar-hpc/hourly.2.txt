@@ -1275,7 +1275,6 @@ safeeyes-git
 
 # Issue 1830
 subtitlecomposer
-subtitlecomposer-qt6-git
 
 # Issue 1833
 python-isounidecode # (dep tauon-music-box)
