@@ -1716,6 +1716,9 @@ tor-browser-bin
 # Issue 3178
 nemo-engrampa
 
+# Issue 3197
+fastcompmgr-git
+
 # Electron
 electron17-bin
 electron18-bin
