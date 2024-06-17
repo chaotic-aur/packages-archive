@@ -1616,3 +1616,6 @@ popcorntime-bin
 
 # Issue 3176
 nixpacks
+
+# Issue 3198
+gqrx
