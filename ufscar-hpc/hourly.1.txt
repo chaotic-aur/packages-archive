@@ -1383,9 +1383,6 @@ termcolor # (dep micromamba)
 # Issue 2283
 binance
 
-# Issue 2285
-#beekeeper-studio
-
 # Issue 2288
 xcursor-breeze
 
