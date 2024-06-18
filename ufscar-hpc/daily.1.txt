@@ -108,10 +108,8 @@ luckybackup
 floorp
 
 # Issue 2242
-linux-xanmod-lts-clang-v2:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
-linux-xanmod-lts-clang-v3:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
-linux-xanmod-clang-v2:https://aur.archlinux.org/linux-xanmod.git # interfere
-linux-xanmod-clang-v3:https://aur.archlinux.org/linux-xanmod.git # interfere
+linux-xanmod-lts-v3:https://aur.archlinux.org/linux-xanmod-lts.git # interfere
+linux-xanmod-v3:https://aur.archlinux.org/linux-xanmod.git # interfere
 
 # Issue 2278
 lapce-git
