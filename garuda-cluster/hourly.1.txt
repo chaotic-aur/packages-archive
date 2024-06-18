@@ -174,6 +174,7 @@ neard
 networkmanager-dmenu-git
 ofono
 phonesim
+python-ewmh # (dep caffeine)
 python-ttkbootstrap # (dep fotokilof)
 soundwire
 tlpui
