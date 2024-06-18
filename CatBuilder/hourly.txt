@@ -17,7 +17,6 @@ rustc-demangle
 insomnia
 libreswan
 libva-nvidia-driver-git
-mutter-performance-beta
 nautilus-open-any-terminal
 oh-my-posh-bin
 openswan
