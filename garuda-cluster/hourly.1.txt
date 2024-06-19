@@ -351,7 +351,6 @@ paru-git:https://github.com/chaotic-aur/pkgbuild-paru-git.git
 plasma6-wallpapers-wallpaper-engine-git 
 python-codegen
 python-gbinder
-python-langdetect # (dep searx searx-git)
 python-simplediff
 qemu-git
 qt-installer-framework # (make riseup-vpn)
@@ -359,7 +358,6 @@ quickemu
 riseup-vpn
 rufetch
 rusnapshot-git
-searx
 sudo-git
 waydroid-git
 whoogle
