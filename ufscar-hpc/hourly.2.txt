@@ -14,6 +14,7 @@ prjxray-git:https://aur.archlinux.org/prjxray-git.git # (prjxray-tools-git pytho
 python-fasm-git  # (dep prjxray-git)
 python-pyjson5 # (dep prjxray-git)
 python-textx  # (dep prjxray-git)
+nextpnr-xilinx-git
 yosys-git
 
 # Ham radio stuff
