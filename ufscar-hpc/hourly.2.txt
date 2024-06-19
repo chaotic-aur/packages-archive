@@ -418,10 +418,6 @@ melonds-git
 # Issue 702
 tutanota-desktop
 
-# Issue 704
-python-httpx-socks # (dep searx-git)
-searx-git
-
 # Issue 711
 gedit-plugin-markdown_preview
 
