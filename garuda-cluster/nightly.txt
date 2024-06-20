@@ -120,7 +120,6 @@ glibc-eac:https://gitlab.archlinux.org/archlinux/packaging/packages/glibc.git
 
 # Issue 1676
 art-rawconverter:https://github.com/chaotic-aur/pkgbuild-empty-project.git
-art-rawconverter-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (art-rawconverter-git art-rawconverter-avx-git)
 
 # Issue 1686
 libeb # (dep goldendict-webengine-pr-git)
