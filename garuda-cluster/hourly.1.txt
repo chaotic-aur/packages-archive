@@ -534,8 +534,6 @@ prismlauncher-git
 
 # Issue 2037
 prismlauncher
-prismlauncher-qt5
-prismlauncher-qt5-git
 
 # Issue 2045
 ipfs-desktop
