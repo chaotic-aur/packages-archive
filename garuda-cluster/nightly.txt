@@ -129,10 +129,6 @@ goldendict-webengine-pr-git
 vdhcoapp
 vdhcoapp-git
 
-# Issue 1720
-alphaplot
-alphaplot-git
-
 # Issue 1722
 amule-git
 
