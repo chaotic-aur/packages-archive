@@ -814,7 +814,6 @@ tomb-git
 
 # Issue 1454
 python-jaraco.versioning # (dep python-jaraco.vcs)
-python-types-python-dateutil # (check python-jaraco.vcs)
 python-jaraco.vcs # (dep python-rst.linker)
 python-rst.linker # (make git-cola)
 git-cola
