@@ -817,9 +817,6 @@ python-gevent-eventemitter # (dep python-steam)
 python-inputs # (dep protonup-qt)
 python-steam # (dep protonup-qt)
 
-# Issue 1021
-fzf-tab-bin-git
-
 # Issue 1024
 plymouth-theme-aregression
 
