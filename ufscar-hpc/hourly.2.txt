@@ -115,7 +115,6 @@ cmake-extras-git
 contractor-git
 elementary-icon-theme-git
 gala-git
-#glib2-selinux
 gtk-theme-elementary-git
 kitty-git
 
