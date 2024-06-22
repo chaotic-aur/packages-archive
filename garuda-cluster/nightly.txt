@@ -45,6 +45,8 @@ otf-stix
 otf-xcharter
 python-cloudscraper # (dep fanficfare-git)
 ttf-comic-neue
+ttf-courier-prime
+ttf-gelasio
 ttf-literata-git:https://aur.archlinux.org/ttf-literata-git.git # (ttf-literata-git ttf-literata-opticals-git ttf-literata-variable-git)
 ttf-luxi
 xdvdfs
