@@ -863,7 +863,7 @@ nerd-fonts-inter
 virtualbox-unattended-templates
 
 # Issue 2567
-nerd-fonts-noto-sans-mono-extended
+nerd-fonts-noto-sans-mono
 
 # Issue 2570
 rofi-greenclip
