@@ -790,9 +790,6 @@ php73:https://aur.archlinux.org/php73.git
 # Issue 2401
 2bwm-git
 
-# Issue 2407
-simplescreenrecorder
-
 # Issue 2410
 gnome-x11-gesture-daemon # (dep gnome-gesture-improvements)
 gnome-gesture-improvements
