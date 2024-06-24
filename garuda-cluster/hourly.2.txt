@@ -12,6 +12,8 @@ jamesdsp
 kf6-servicemenus-rootactions
 kwin-effects-forceblur
 kwin-scripts-krohnkite-git
+plasma5-themes-sweet-kde-git # (dep plasma5-themes-sweet-full-git)
+plasma5-themes-sweet-full-git # ! Do not remove, even though plasma5-prefixed ! We still need it.
 plasma6-applets-window-title
 plasma6-wallpapers-blurredwallpaper
 resvg
