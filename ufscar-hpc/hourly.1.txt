@@ -475,7 +475,6 @@ sdx # (dep xampp)
 tclkit # (dep xampp)
 
 # Issue 392
-olive
 sct
 
 # Issue 394
