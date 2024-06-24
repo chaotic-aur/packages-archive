@@ -349,9 +349,6 @@ libreoffice-extension-languagetool
 # Issue 630
 quickdocs
 
-# Issue 635
-olive-git
-
 # Issue 636
 pikaur-git
 
