@@ -898,9 +898,6 @@ deltachat-desktop-git
 # Issue 2597
 figlet-fonts
 
-# Issue 2598
-swww # (dep waypaper-git)
-
 # Issue 2600
 bootstrap
 
