@@ -652,9 +652,6 @@ meowsql
 flycast
 flycast-git
 
-# Issue 2198
-jpeg-recompress-git
-
 # Issue 2212
 vopono
 
