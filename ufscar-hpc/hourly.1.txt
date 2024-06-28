@@ -663,6 +663,7 @@ motrix-bin
 humanity-icon-theme
 
 # Issue 590
+python-libsass # (dep mint-themes)
 mint-themes
 mint-x-icons
 mint-y-icons
