@@ -892,9 +892,6 @@ pacdiff-pacman-hook-git
 # Issue 1081
 papirus-icon-theme-git
 
-# Issue 1085
-gtksourceview-git
-
 # Issue 1087
 graphite-cursor-theme-git
 
