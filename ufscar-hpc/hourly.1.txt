@@ -405,9 +405,6 @@ masterpdfeditor
 # Issue 347
 rclone-browser
 
-# Issue 350
-softmaker-office-2021-bin
-
 # Issue 352
 azure-functions-core-tools-bin
 
