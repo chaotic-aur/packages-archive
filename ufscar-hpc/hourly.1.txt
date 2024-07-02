@@ -1479,9 +1479,6 @@ wl-gammactl
 # Issue 2565
 penguins-eggs
 
-# Issue 2575
-chatbox-bin
-
 # Issue 2582
 btdu
 
