@@ -590,12 +590,6 @@ spotify-tray-git
 makemkv
 farbfeld
 
-# Issue 474
-ccrtp # (dep twinkle)
-libzrtpcpp # (dep twinkle)
-twinkle
-ucommon # (dep twinkle)
-
 # Issue 477
 phpstorm-eap:https://aur.archlinux.org/phpstorm-eap.git # (phpstorm-eap phpstorm-eap-jre)
 hopper
