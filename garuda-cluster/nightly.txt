@@ -127,6 +127,9 @@ art-rawconverter:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 libeb # (dep goldendict-webengine-pr-git)
 goldendict-webengine-pr-git
 
+# Issue 1697
+ruffle-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
+
 # Issue 1706
 vdhcoapp
 vdhcoapp-git
