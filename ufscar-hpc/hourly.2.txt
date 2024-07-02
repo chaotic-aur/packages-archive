@@ -1017,10 +1017,7 @@ xmrig-donateless
 nomachine
 
 # Issue 1267
-c++utilities # (dep syncthingtray syncthingtray-qt6)
-qtforkawesome # (dep syncthingtray)
-qtutilities # (dep syncthingtray)
-syncthingtray
+c++utilities # (dep syncthingtray-qt6)
 qtforkawesome-qt6 # (dep syncthingtray-qt6)
 qtutilities-qt6 # (dep syncthingtray-qt6)
 syncthingtray-qt6
