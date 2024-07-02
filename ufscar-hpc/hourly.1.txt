@@ -356,9 +356,6 @@ pod2man # (dep auracle-git)
 trizen-git
 xfce4-panel-compiz
 
-# Issue 326
-powershell
-
 # Issue 327
 ananicy
 boston-icon-theme
