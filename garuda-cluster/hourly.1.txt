@@ -278,9 +278,6 @@ valent-git
 # gaelic on forum
 grass
 
-# oldrocker99 on forum
-aqualung
-
 # waeking on forum
 opensnitch-ebpf-module
 
