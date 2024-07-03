@@ -302,7 +302,6 @@ resources
 
 # Via mail (9th June)
 notepadnext
-schildichat-desktop
 
 
 ### Chaotic-AUR
