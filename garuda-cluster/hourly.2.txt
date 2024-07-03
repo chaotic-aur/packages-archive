@@ -551,9 +551,6 @@ share-preview
 # Issue 1862
 popsicle-git
 
-# Issue 1871
-gdevelop-bin
-
 # Issue 1874
 nordic-theme
 nordic-theme-git
