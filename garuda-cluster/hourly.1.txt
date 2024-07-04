@@ -316,7 +316,6 @@ firetools-git
 fish-git
 forkgram
 git-git
-guayadeque-git
 harmonoid-bin
 huniq-git
 input-leap-git
