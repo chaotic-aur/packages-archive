@@ -1567,9 +1567,6 @@ gnome-encfs-manager-bzr
 gamescope-session-git
 gamescope-session-steam-git
 
-# Issue 3055
-niri-git
-
 # Issue 3060
 ironbar-git
 
