@@ -75,7 +75,6 @@ jdownloader2
 jitsi-meet-desktop
 katawa-shoujo-bin
 mendeleydesktop-bundled
-ms-office-online
 onlyoffice-bin
 python-pypresence # (dep rare)
 rare
