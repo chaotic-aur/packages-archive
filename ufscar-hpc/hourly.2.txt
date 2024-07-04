@@ -95,7 +95,6 @@ iir1 # (dep dosbox-staging)
 jetbrains-toolbox
 koka-bin
 lua-format
-moarvm
 munt # (dep dosbox-staging)
 openxray
 pup
