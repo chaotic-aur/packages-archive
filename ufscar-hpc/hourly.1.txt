@@ -381,7 +381,6 @@ clion
 expressvpn
 intellij-idea-ultimate-edition
 nodejs-nativefier
-pycharm-professional
 trackma-git
 winetricks-git
 
