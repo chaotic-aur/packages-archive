@@ -89,8 +89,6 @@ material-kwin-decoration-git:https://aur.archlinux.org/material-kwin-decoration-
 # RustemB
 bit
 dosbox-staging
-elm-bin
-elm-language-server
 iir1 # (dep dosbox-staging)
 jetbrains-toolbox
 lua-format
