@@ -90,8 +90,6 @@ wps-office
 wps-office-all-dicts-win-languages # (opt wps-office wps-office-cn)
 wps-office-cn
 wps-office-fonts
-wps-office-mime
-wps-office-mime-cn
 zoom
 
 # Garuda network assistant
