@@ -389,9 +389,6 @@ winetricks-git
 # Issue 342
 renamemytvseries-bin
 
-# Issue 343
-wps-office-mui-zh-cn
-
 # Issue 345
 systemd-cron-next-git
 
