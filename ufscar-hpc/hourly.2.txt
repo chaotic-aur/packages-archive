@@ -87,7 +87,6 @@ mangohud-git
 material-kwin-decoration-git:https://aur.archlinux.org/material-kwin-decoration-git.git
 
 # RustemB
-bit
 dosbox-staging
 iir1 # (dep dosbox-staging)
 jetbrains-toolbox
