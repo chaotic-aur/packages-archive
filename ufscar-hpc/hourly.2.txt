@@ -88,7 +88,6 @@ material-kwin-decoration-git:https://aur.archlinux.org/material-kwin-decoration-
 
 # RustemB
 bit
-discord-canary
 dosbox-staging
 elm-bin
 elm-language-server
