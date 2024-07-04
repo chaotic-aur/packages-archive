@@ -97,7 +97,6 @@ koka-bin
 lua-format
 moarvm
 munt # (dep dosbox-staging)
-noti
 openxray
 pup
 smenu
