@@ -249,6 +249,7 @@ xavs2
 
 # proton-ge-custom
 psautohint # (dep afdko)
+python-skia-pathops # (dep python-fonttools-git)
 python-fonttools-git # (dep afdko)
 python-ufonormalizer # (dep afdko)
 afdko # (make proton-ge-custom)
