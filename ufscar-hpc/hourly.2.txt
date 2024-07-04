@@ -93,7 +93,6 @@ elm-bin
 elm-language-server
 iir1 # (dep dosbox-staging)
 jetbrains-toolbox
-koka-bin
 lua-format
 munt # (dep dosbox-staging)
 openxray
