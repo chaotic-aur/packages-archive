@@ -241,8 +241,8 @@ f3
 f3-qt-git
 fast
 fiddler
-gtkglarea # (dep fsv2)
-fsv2
+cglm # (dep fsv3)
+fsv3
 googerteller-git
 grype-bin
 jmencode
