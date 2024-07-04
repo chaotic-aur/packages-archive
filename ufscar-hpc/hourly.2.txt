@@ -98,7 +98,6 @@ lua-format
 moarvm
 munt # (dep dosbox-staging)
 noti
-nqp
 openxray
 pup
 smenu
