@@ -1679,12 +1679,6 @@ nemo-engrampa
 # Issue 3197
 fastcompmgr-git
 
-# Electron
-electron17-bin
-electron18-bin
-electron19-bin
-electron21-bin
-
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
