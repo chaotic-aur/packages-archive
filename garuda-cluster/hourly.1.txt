@@ -340,7 +340,6 @@ python-codegen
 python-gbinder
 python-simplediff
 qemu-git
-qt-installer-framework # (make riseup-vpn)
 quickemu
 riseup-vpn
 rufetch
