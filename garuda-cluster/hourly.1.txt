@@ -135,8 +135,6 @@ mendeleydesktop
 nordpy
 nordvpn-bin
 octopi
-octopi-notifier-frameworks
-octopi-notifier-qt5
 plex-media-player
 popsicle
 pulseeffects-legacy
@@ -307,7 +305,6 @@ notepadnext
 alacritty-git
 alhp-keyring
 alhp-mirrorlist
-alpm_octopi_utils-git
 ananicy-cpp
 ananicy-cpp-git
 ananicy-rules-git # (opt ananicy-cpp-git) (dep ananicy-cpp)
@@ -341,7 +338,6 @@ nextcloud-client-git
 nextdns-unprivileged
 nspawn-git
 ntfs3-dkms
-octopi-git
 onedrivegui-git
 pacman-git
 paru-git:https://github.com/chaotic-aur/pkgbuild-paru-git.git
