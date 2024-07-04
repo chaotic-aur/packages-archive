@@ -101,7 +101,6 @@ noti
 nqp
 openxray
 pup
-shadowsocks-rust-git
 smenu
 vim-language-server
 
