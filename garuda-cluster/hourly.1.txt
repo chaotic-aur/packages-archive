@@ -26,7 +26,6 @@ epsxe
 eruption
 game-devices-udev
 gamehub
-godot-headless-bin # (dep luxtorpeda-git)
 gwe
 heroic-games-launcher-bin
 hypnotix
@@ -36,7 +35,6 @@ keyboard-visualizer-git
 legendary
 libliftoff-git # (dep gamescope-git)
 libretro-stella2014-git
-luxtorpeda-git
 minecraft-launcher
 minigalaxy
 nyrna
