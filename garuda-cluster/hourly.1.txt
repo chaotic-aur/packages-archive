@@ -397,7 +397,6 @@ spotube-bin
 
 ## Technetium1
 acidrip
-android-messages-desktop
 betterdiscordctl-git
 bpytop-git
 cmake-git
