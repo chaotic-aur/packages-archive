@@ -87,7 +87,6 @@ mangohud-git
 material-kwin-decoration-git:https://aur.archlinux.org/material-kwin-decoration-git.git
 
 # RustemB
-aarch64-linux-musl
 bit
 discord-canary
 dosbox-staging
