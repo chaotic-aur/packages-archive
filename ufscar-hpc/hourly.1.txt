@@ -701,7 +701,6 @@ papirus-folders
 
 # Issue 615
 silo-trello
-trello
 trello-cli
 
 # Issue 617
