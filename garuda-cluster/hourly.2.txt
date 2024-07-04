@@ -427,9 +427,6 @@ akira-git
 # Issue 1723
 app-icon-preview
 
-# Issue 1726
-astrofox
-
 # Issue 1728
 authenticator
 
