@@ -101,7 +101,6 @@ noti
 nqp
 openxray
 pup
-rakudo
 shadowsocks-rust-git
 smenu
 tetrio-desktop
