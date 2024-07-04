@@ -103,7 +103,6 @@ openxray
 pup
 shadowsocks-rust-git
 smenu
-tetrio-desktop
 vim-language-server
 zef
 
