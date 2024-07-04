@@ -581,9 +581,6 @@ spotify-tray-git
 makemkv
 farbfeld
 
-# Issue 477
-phpstorm-eap:https://aur.archlinux.org/phpstorm-eap.git # (phpstorm-eap phpstorm-eap-jre)
-
 # Issue 478
 python-enzyme # (dep subliminal-git)
 python-rarfile # (dep subliminal-git)
