@@ -104,7 +104,6 @@ pup
 shadowsocks-rust-git
 smenu
 vim-language-server
-zef
 
 # SolarAquarion
 cmake-extras-git
