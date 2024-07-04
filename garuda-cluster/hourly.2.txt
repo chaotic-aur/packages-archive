@@ -497,9 +497,6 @@ gruvbox-material-theme-git:https://aur.archlinux.org/gruvbox-material-theme-git.
 # Issue 1793
 nasc
 
-# Issue 1803
-pencil
-
 # Issue 1806
 spread-sheet-widget # (dep pspp)
 pspp
