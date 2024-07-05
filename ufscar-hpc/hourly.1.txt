@@ -329,7 +329,6 @@ lightly-git:https://aur.archlinux.org/lightly-git.git # (lightly-kf5-git lightly
 omnisharp-roslyn
 
 # Issue 322
-cantata-git
 eqonomize-git
 hlsdl
 identity
@@ -338,7 +337,6 @@ pyradio-git
 qownnotes
 strawberry-full-git
 strawberry-git
-taglib-extras # (dep cantata-git)
 
 # Issue 324
 alsi
