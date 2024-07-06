@@ -997,9 +997,6 @@ tropy-bin
 # Issue 2929
 gftp
 
-# Issue 2931
-pooi
-
 # Issue 2939
 gnome-shell-extension-logo-menu
 
