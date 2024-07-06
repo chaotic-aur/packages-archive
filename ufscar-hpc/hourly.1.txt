@@ -86,7 +86,6 @@ python3-memoizedb
 python3-xcgf
 python3-xcpf
 dumpasn1
-dieharder
 jbig2enc-git
 correios-git
 
