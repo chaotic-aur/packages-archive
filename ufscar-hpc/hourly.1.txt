@@ -1200,12 +1200,6 @@ geometrize-bin
 # Issue 1899
 sengi-appimage
 
-# Issue 1903
-xcursor-chameleon-anthracite
-xcursor-chameleon-darkskyblue
-xcursor-chameleon-skyblue
-xcursor-chameleon-white
-
 # Issue 1909
 raven-reader-bin
 
