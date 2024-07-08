@@ -874,3 +874,6 @@ mihomo
 
 # Issue 3182
 phonon-qt6-gstreamer-git
+
+# Issue 3219
+fooyin
