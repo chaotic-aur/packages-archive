@@ -1039,7 +1039,7 @@ ausweisapp2
 smartgit
 
 # Issue 1327
-vcpkg
+vcpkg # (dep ladybird)
 
 # Issue 1396
 wld-git # (dep swc-git velox-git)
@@ -1579,3 +1579,6 @@ gqrx
 
 # Issue 3201
 ksysguard6-git
+
+# Issue 3215
+ladybird
