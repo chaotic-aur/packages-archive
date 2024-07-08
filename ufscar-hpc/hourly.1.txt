@@ -1237,9 +1237,6 @@ raider-file-shredder
 # Issue 1984
 syphon-bin
 
-# Issue 2008
-angrysearch
-
 # Issue 2011
 cpu-x
 
