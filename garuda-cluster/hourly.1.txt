@@ -764,10 +764,6 @@ systemd-manager-git
 # Issue 2398
 cyberchef-electron
 
-# Issue 2400
-c-client # (dep php73)
-php73:https://aur.archlinux.org/php73.git
-
 # Issue 2401
 2bwm-git
 
