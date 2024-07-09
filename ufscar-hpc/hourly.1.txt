@@ -424,9 +424,6 @@ ttf-mac-fonts
 ttf-ms-fonts
 rocketchat-desktop
 
-# Issue 374
-quixel-bridge
-
 # Issue 379
 ckb-next
 
