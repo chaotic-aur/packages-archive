@@ -290,6 +290,9 @@ brave-beta-bin
 ebou
 resources
 
+# elite on forum
+superfile
+
 # Via mail (9th June)
 notepadnext
 
