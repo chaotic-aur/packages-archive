@@ -30,6 +30,7 @@ guile1.8 # (dep texmacs)
 gr-limesdr-git
 gr-foo-git
 gr-ieee802-11-git
+python-loudify-git # (dep gr-lora_sdr-git)
 gr-lora_sdr-git
 cty # (dep fldigi)
 flxmlrpc # (dep fldigi)
