@@ -1259,9 +1259,6 @@ pokemon-colorscripts-git
 # Issue 2060
 plex-media-server-plexpass
 
-# Issue 2063
-hd
-
 # Issue 2089
 brother-mfc-l2710dw
 
