@@ -541,7 +541,6 @@ emote
 python-manimpango # (dep emote)
 
 # Issue 460
-libjffi # (dep cryptomator)
 cryptomator
 
 # Issue 461
