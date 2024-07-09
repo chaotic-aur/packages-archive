@@ -422,7 +422,6 @@ oh-my-zsh-git
 spotify-tui
 ttf-mac-fonts
 ttf-ms-fonts
-rocketchat-desktop
 
 # Issue 379
 ckb-next
