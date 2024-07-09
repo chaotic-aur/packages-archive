@@ -854,9 +854,6 @@ google-messages
 # Issue 1070
 atlauncher-bin
 
-# Issue 1072
-grapejuice
-
 # Issue 1074
 gcdemu
 kde-cdemu-manager
