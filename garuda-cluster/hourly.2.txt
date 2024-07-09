@@ -861,6 +861,7 @@ zrepl-git
 # Issue 3155
 libplist-git # (dep libimobiledevice-glue-git)
 libimobiledevice-glue-git # (dep libusbmuxd-git)
+libtatsu-git # (dep libimobiledevice-git)
 libusbmuxd-git # (dep libimobiledevice-git)
 libimobiledevice-git
 usbmuxd-git
