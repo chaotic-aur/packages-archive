@@ -186,10 +186,6 @@ aqemu
 # Issue 1323
 nushell-git
 
-# Issue 1324
-qt-virt-manager
-scrub # (dep qt-virt-manager)
-
 # Issue 1328
 ankama-launcher
 
