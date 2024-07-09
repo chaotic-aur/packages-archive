@@ -720,9 +720,6 @@ gdm-settings-git
 # Issue 971
 premid
 
-# Issue 973
-helvum-git
-
 # Issue 975
 xbanish
 
