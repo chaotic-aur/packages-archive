@@ -567,7 +567,6 @@ freetube
 # Issue 469
 python-sqlalchemy-git # (dep gajim-git)
 gajim-git
-lbry-desktop-bin
 python-nbxmpp-git # (dep gajim-git)
 spotify-tray-git
 
