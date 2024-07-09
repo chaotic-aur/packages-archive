@@ -6,7 +6,7 @@ ungoogled-chromium:https://github.com/ungoogled-software/ungoogled-chromium-arch
 properties-cpp # (dep ayatana-indicator-datetime)
 ayatana-indicator-datetime
 kwaterfoxhelper
-nvm # (dep insomnium)
+nvm
 python-sphinx-automodapi
 tweeny
 vim-colorschemes

@@ -776,9 +776,6 @@ vesktop-git
 # Issue 2952
 compfy
 
-# Issue 2953
-insomnium
-
 # Issue 2961
 vinegar-git
 
