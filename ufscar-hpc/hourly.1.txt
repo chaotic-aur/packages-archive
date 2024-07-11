@@ -965,9 +965,6 @@ konsole-dracula-git
 # Issue 1659
 sidequest-bin
 
-# Issue 1663
-asix-ax88179-dkms
-
 # Issue 1678
 broadcom-bt-firmware-git
 
