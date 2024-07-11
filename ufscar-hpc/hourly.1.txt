@@ -611,10 +611,6 @@ xen:https://aur.archlinux.org/xen.git # (xen xen-docs)
 # Issue 498
 xfdashboard
 
-# Issue 500
-archlinux-java-run
-bluej
-
 # Issue 502
 tree-sitter-git
 libvterm-0.1 # (dep neovim-git)
