@@ -784,9 +784,6 @@ git-credential-manager-core-bin
 # Issue 1008
 firefly-iii
 
-# Issue 1017
-armorpaint-git
-
 # Issue 1018
 flacon
 
