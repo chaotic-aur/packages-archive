@@ -187,6 +187,9 @@ radeon-profile-daemon-git
 # DCSekhara on forum
 appflowy-bin
 
+# elite on forum
+cava-git
+
 # FGD on forum
 plasma-applets-weather-widget-2
 
