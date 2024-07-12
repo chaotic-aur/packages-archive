@@ -48,7 +48,6 @@ elm-format-bin
 elm-platform-bin
 ffmpeg-full
 figma-linux
-foo2zjs-nightly
 google-cloud-cli
 heroku-cli-bin
 hunspell-pt-br
