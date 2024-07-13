@@ -619,9 +619,6 @@ neovim-git
 # Issue 538
 godot-git:https://github.com/chaotic-aur/pkgbuild-godot-git.git
 
-# Issue 585
-exifcleaner-bin
-
 # Issue 586
 motrix-bin
 
