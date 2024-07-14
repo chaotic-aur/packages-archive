@@ -183,9 +183,6 @@ aqemu
 # Issue 1320
 86box
 
-# Issue 1323
-nushell-git
-
 # Issue 1328
 ankama-launcher
 
