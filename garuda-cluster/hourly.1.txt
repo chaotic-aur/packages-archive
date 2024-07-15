@@ -516,9 +516,6 @@ supertuxkart-git
 # Issue 2036
 prismlauncher-git
 
-# Issue 2037
-prismlauncher
-
 # Issue 2045
 ipfs-desktop
 
