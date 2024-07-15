@@ -799,6 +799,9 @@ redlib
 # Issue 3022
 yazi-git
 
+# Issue 3023
+mise
+
 # Issue 3026
 angryoxide
 
@@ -845,9 +848,6 @@ phonon-qt6-mpv
 luau # (dep qsv)
 qsv
 
-# Issue 3023
-mise
-
 # Issue 3141
 zrepl-git
 
@@ -868,3 +868,6 @@ phonon-qt6-gstreamer-git
 
 # Issue 3219
 fooyin
+
+# Issue 3220
+86box-git
