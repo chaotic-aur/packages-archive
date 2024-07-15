@@ -966,9 +966,6 @@ toybox
 # Issue 2815
 rclone-git
 
-# Issue 2829
-nody-greeter
-
 # Issue 2841
 gnome-shell-extension-arc-menu-git
 
