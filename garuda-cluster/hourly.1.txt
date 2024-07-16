@@ -309,7 +309,6 @@ arch-deployer-git
 cfs-zen-tweaks
 chkrootkit
 clamav-unofficial-sigs
-coreutils-git
 coreutils-hybrid-git
 crowdsec
 electronmail-bin
