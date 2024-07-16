@@ -1127,9 +1127,6 @@ fsearch
 # Issue 1657
 battop
 
-# Issue 1664
-uutils-coreutils-git
-
 # Issue 1667
 wl-clipboard-rs
 
