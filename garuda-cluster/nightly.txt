@@ -1,7 +1,12 @@
 ## Garuda
+clang17 # (makdep firedragon)
+compiler-rt17 # (makedep firedragon)
 firedragon
 librewolf:https://aur.archlinux.org/librewolf.git
+lld17 # (makedep firedragon)
+llvm17 # (makedep firedragon)
 skypeforlinux-bin:https://github.com/chaotic-aur/pkgbuild-empty-project.git
+wasi-compiler-rt17 # (makedep firedragon)
 
 # Emulators
 cemu-git
