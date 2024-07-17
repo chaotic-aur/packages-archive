@@ -233,12 +233,15 @@ libjxl-git
 libklvanc-git
 libopenmpt-svn
 opencv2
+quirc
 rockchip-mpp
 shine
 uavs3d-git
 vo-amrwbenc
 xavs
 xavs2
+xevd
+xeve
 
 # proton-ge-custom
 psautohint # (dep afdko)
