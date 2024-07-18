@@ -261,7 +261,6 @@ pdfsam
 qbittorrent-enhanced-git
 remoteplaywhatever
 replay-sorcery-git
-revolt-desktop-git
 shutter-encoder-bin
 solvespace
 # Tartube
