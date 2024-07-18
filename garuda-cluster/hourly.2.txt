@@ -79,7 +79,6 @@ mugshot
 auto-cpufreq
 bluetooth-autoconnect
 btrfs-assistant
-clipit
 clipman
 connman-gtk
 dashbinsh
