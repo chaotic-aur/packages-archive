@@ -398,7 +398,6 @@ das-keyboard-q
 drawio-desktop
 duc-git
 easytether-bin
-jellyfin-media-player-git
 lutris-git
 mullvad-vpn-beta
 pacvis-git
