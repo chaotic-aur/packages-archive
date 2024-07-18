@@ -866,6 +866,30 @@ phonon-qt6-gstreamer-git
 # Issue 3204
 citra-git
 
+# Issue 3217
+cosmic-applets-git # (dep cosmic-session-git)
+cosmic-applibrary-git # (dep cosmic-session-git)
+cosmic-bg-git # (dep cosmic-session-git)
+cosmic-comp-git # (dep cosmic-session-git)
+cosmic-greeter-git # (dep cosmic-session-git)
+cosmic-icons-git # (dep cosmic-session-git)
+cosmic-launcher-git # (dep cosmic-session-git)
+cosmic-notifications-git # (dep cosmic-session-git)
+cosmic-osd-git # (dep cosmic-session-git)
+cosmic-panel-git # (dep cosmic-session-git)
+cosmic-randr-git # (dep cosmic-session-git)
+cosmic-screenshot-git # (dep cosmic-session-git)
+cosmic-settings-daemon-git # (dep cosmic-session-git)
+cosmic-settings-git # (dep cosmic-session-git)
+xdg-desktop-portal-cosmic-git # (dep cosmic-session-git)
+cosmic-edit-git # (opt cosmic-session-git)
+cosmic-files-git # (opt cosmic-session-git)
+cosmic-store-git # (opt cosmic-session-git)
+cosmic-term-git # (opt cosmic-session-git)
+cosmic-wallpapers-git # (opt cosmic-session-git)
+cosmic-workspaces-git # (dep cosmic-session-git)
+cosmic-session-git
+
 # Issue 3219
 fooyin
 
