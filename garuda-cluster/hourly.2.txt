@@ -56,7 +56,6 @@ nwg-drawer
 nwg-launchers
 nwg-menu
 nwg-wrapper
-wob
 
 # Wayfire
 wayfire-plugins-extra
