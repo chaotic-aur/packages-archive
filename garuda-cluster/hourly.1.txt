@@ -335,7 +335,6 @@ networkmanager-iwd
 nextcloud-client-git
 nextdns-unprivileged
 nspawn-git
-ntfs3-dkms
 onedrivegui-git
 pacman-git
 paru-git:https://github.com/chaotic-aur/pkgbuild-paru-git.git
