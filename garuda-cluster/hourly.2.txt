@@ -80,7 +80,6 @@ auto-cpufreq
 bluetooth-autoconnect
 btrfs-assistant
 clipman
-connman-gtk
 dashbinsh
 downgrade
 dracut-hook-uefi
