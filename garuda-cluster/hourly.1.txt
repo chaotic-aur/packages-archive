@@ -721,7 +721,7 @@ python-pympress
 doomrunner
 
 # Issue 2369
-pcem
+pcem-git
 
 # Issue 2374
 perl-crypt-rijndael # (dep asbru-cm-git)
