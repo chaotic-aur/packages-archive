@@ -100,7 +100,6 @@ discord-canary-electron-bin
 gotop
 hsphfpd-git
 irpf
-ktweak-git:https://github.com/tytydraco/KTweak.git
 mpv-full
 mpv-full-git
 obs-backgroundremoval
