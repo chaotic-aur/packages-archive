@@ -777,7 +777,7 @@ gnome-shell-extension-dash-to-dock
 libffi7
 
 # Issue 1006
-git-credential-manager-core-bin
+git-credential-manager-bin
 
 # Issue 1008
 firefly-iii
