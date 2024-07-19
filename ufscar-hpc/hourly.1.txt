@@ -821,7 +821,7 @@ yin-yang-git
 memtest86-efi
 
 # Issue 1489
-handbrake-nvenc
+handbrake-full
 
 # Issue 1496
 include-what-you-use
