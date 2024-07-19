@@ -317,7 +317,6 @@ firejail-pacman-hook
 firetools-git
 fish-git
 forkgram
-git-git
 harmonoid-bin
 huniq-git
 input-leap-git
