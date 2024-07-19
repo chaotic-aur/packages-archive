@@ -56,7 +56,6 @@ qucs-s
 radare2-git
 realvnc-vnc-viewer
 reaver-wps-fork-t6x-git
-hostapd-wpe
 rqlite
 rstudio-desktop
 sdrpp-git
