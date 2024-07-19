@@ -119,11 +119,8 @@ birdtray
 cozy-audiobooks
 dropbox
 fonts-tlwg
-foxitreader
 google-earth-pro
 google-meet-nativefier
-gstreamer0.10 # (dep foxitreader)
-gstreamer0.10-base # (dep foxitreader)
 python-pynput # (dep streamdeck-ui-git)
 mailspring
 mendeleydesktop
