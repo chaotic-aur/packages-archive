@@ -1057,10 +1057,6 @@ nsnake-git
 pika-backup
 python-pyfuse3 # (dep pika-backup)
 
-# Issue 1528
-java-service-wrapper # (dep freenet i2p)
-freenet
-
 # Issue 1537
 btrfs-snapshots-git
 
@@ -1354,6 +1350,7 @@ cassowary
 superbfetch-git
 
 # Issue 2177
+java-service-wrapper # (dep i2p)
 i2p
 
 # Issue 2193
