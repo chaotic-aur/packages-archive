@@ -1142,9 +1142,6 @@ manyverse-bin
 # Issue 1866
 museeks-bin
 
-# Issue 1867
-imaginary-teleprompter-bin
-
 # Issue 1868
 gmsh-bin
 
