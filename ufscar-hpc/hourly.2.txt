@@ -32,6 +32,7 @@ python-hdf5storage  # (dep python-openems-git)
 
 browsh
 uefitool-git
+pdfcpu
 
 # Pedro
 android-sdk-platform-tools
