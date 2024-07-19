@@ -71,7 +71,6 @@ sdl12-compat-git
 shntool # (dep split2flac)
 #spectral-matrix-git
 split2flac
-startgame:https://github.com/chaotic-aur/startgame.git
 unflac
 unionfs-fuse # (dep android-studio-launcher)
 wineasio-git
