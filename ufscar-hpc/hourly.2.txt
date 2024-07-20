@@ -574,9 +574,6 @@ airshipper
 google-webdesigner
 libstdc++5 # (dep google-webdesigner)
 
-# Issue 822
-shortwave-git
-
 # Issue 826
 anope
 
