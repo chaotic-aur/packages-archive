@@ -1012,7 +1012,6 @@ ttf-aller
 ttf-bangers
 ttf-djb-zora-prints
 ttf-geosans-light
-ttf-pacifico
 
 # Issue 1736
 blockout2
