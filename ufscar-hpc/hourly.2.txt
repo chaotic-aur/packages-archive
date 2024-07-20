@@ -1235,9 +1235,6 @@ mcomix-git
 # Issue 1888
 coulr
 
-# Issue 1896
-sylpheed
-
 # Issue 1905
 amber-theme-git
 
