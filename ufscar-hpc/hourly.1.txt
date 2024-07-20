@@ -1282,9 +1282,6 @@ lantern-bin
 # Issue 2215
 fatrat-git
 
-# Issue 2217
-wavesurfer
-
 # Issue 2223
 vscodium-electron
 

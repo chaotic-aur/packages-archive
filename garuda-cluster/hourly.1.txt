@@ -591,7 +591,6 @@ raze
 
 # Issue 2169
 tcllib # (dep tkimg)
-snack # (dep scid wavesurfer)
 tkimg # (dep scid)
 scid
 
