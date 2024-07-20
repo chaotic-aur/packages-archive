@@ -510,9 +510,6 @@ googlemaps # (dep subsurface-git subsurface)
 subsurface-libdc-git # (dep subsurface-git)
 subsurface-git
 
-# Issue 1836
-trilium
-
 # Issue 1843
 vnote
 
