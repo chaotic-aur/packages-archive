@@ -223,9 +223,6 @@ thonny-git
 # Issue 511
 swaylock-effects
 
-# Issue 514
-soundux
-
 # Issue 519
 unityhub
 
