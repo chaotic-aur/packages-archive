@@ -90,9 +90,6 @@ obs-studio-tytan652
 # Issue 1108
 kdenlive-stabledeps-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
-# Issue 1168
-sddm-theme-astronaut
-
 # Issue 1391
 termius:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
