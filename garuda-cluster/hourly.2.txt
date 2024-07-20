@@ -841,6 +841,9 @@ r-quick-share
 # Issue 3106
 phonon-qt6-mpv
 
+# Issue 3118
+wxmaxima
+
 # Issue 3119
 luau # (dep qsv)
 qsv
