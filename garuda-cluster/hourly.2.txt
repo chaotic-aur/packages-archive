@@ -898,3 +898,6 @@ fooyin
 
 # Issue 3228
 borg2
+
+# Issue 3232
+hstr
