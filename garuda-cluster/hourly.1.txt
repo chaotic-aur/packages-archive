@@ -192,8 +192,8 @@ mojave-gtk-theme-git
 mutter-x11-scaling
 nordic-kde-git
 plasma5-theme-qogir-git
-plasma5-themes-layan-git
 plasma5-themes-whitesur-git
+plasma6-themes-layan-git
 pop-launcher-git # (dep gnome-shell-extension-pop-shell-git)
 pop-shell-shortcuts-git # (dep gnome-shell-extension-pop-shell-git)
 qogir-gtk-theme-git
