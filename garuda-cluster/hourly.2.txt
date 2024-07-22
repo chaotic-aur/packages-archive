@@ -901,3 +901,6 @@ borg2
 
 # Issue 3232
 hstr
+
+# Issue 3235
+xiccd
