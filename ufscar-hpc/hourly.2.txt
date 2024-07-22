@@ -407,8 +407,6 @@ gedit-plugin-markdown_preview
 contour-git
 
 # Issue 713
-paq8o # (opt peazip)
-zpaq # (opt peazip)
 peazip
 
 # Issue 716
