@@ -273,7 +273,6 @@ tuc
 ugit
 upscayl-bin
 viddy
-wahay-bin
 wavebox-beta
 webtorrent-desktop-bin
 whalebird
