@@ -276,7 +276,6 @@ viddy
 wavebox-beta
 webtorrent-desktop-bin
 whalebird
-xbindkeys_config-gtk2
 xpra-html5-git
 
 
