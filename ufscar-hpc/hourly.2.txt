@@ -33,6 +33,8 @@ python-hdf5storage  # (dep python-openems-git)
 browsh
 uefitool-git
 pdfcpu
+java-openjfx-bin  # (dep serproid)
+serproid
 
 # Pedro
 android-sdk-platform-tools
