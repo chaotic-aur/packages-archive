@@ -780,11 +780,10 @@ firefly-iii
 flacon
 
 # Issue 1020
-protonup-qt
-python-vdf # (dep protonup-qt)
-python-gevent-eventemitter # (dep python-steam)
 python-inputs # (dep protonup-qt)
-python-steam # (dep protonup-qt)
+python-vdf-solstice # (dep protonup-qt)
+python-steam-solstice # (dep protonup-qt)
+protonup-qt
 
 # Issue 1024
 plymouth-theme-aregression
