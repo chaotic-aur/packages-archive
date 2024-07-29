@@ -470,10 +470,6 @@ hakuneko-desktop-bin
 # Issue 748
 jackett
 
-# Issue 750
-gtuber-git # (dep clapper)
-clapper
-
 # Issue 751
 gerrit
 
