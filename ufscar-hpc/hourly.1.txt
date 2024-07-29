@@ -1627,6 +1627,9 @@ fastcompmgr-git
 # Issue 3214
 plzip
 
+# Issue 3245
+pandoc-bin
+
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
