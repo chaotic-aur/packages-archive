@@ -897,9 +897,6 @@ xfs_undelete-git
 # Issue 2746
 poppler-qt-lcd
 
-# Issue 2749
-mpdscribble
-
 # Issue 2757
 doas-sudo-shim
 
