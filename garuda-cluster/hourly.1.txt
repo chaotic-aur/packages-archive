@@ -73,7 +73,7 @@ gitkraken
 google-chrome
 jdownloader2
 jitsi-meet-desktop
-katawa-shoujo-bin
+katawa-shoujo-reengineered-bin
 mendeleydesktop-bundled
 onlyoffice-bin
 python-pypresence # (dep rare)
