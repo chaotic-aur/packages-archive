@@ -190,7 +190,6 @@ matcha-gtk-theme-git
 mcmojave-circle-icon-theme-git
 mojave-gtk-theme-git
 mutter-x11-scaling
-nordic-kde-git
 plasma5-theme-qogir-git
 plasma5-themes-whitesur-git
 plasma6-themes-layan-git
