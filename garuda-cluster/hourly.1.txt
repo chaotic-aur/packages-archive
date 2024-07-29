@@ -813,9 +813,6 @@ mpvpaper
 # Issue 2563
 nerd-fonts-inter
 
-# Issue 2564
-virtualbox-unattended-templates
-
 # Issue 2567
 nerd-fonts-noto-sans-mono
 
