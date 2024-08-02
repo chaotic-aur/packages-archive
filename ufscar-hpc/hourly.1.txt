@@ -659,13 +659,11 @@ informant
 overdue
 
 # Issue 604
-artha
 dockbarx # (dep xfce4-dockbarx-plugin)
 gromit-mpx
 kazam
 macfanctld
 python-polib # (dep xfce4-dockbarx-plugin dupeguru)
-wordnet:https://aur.archlinux.org/wordnet.git # (dep artha)
 xfce4-dockbarx-plugin
 
 # Issue 607
