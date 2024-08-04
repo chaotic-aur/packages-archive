@@ -159,7 +159,6 @@ lanshare
 mediawriter
 mmsd-git
 modprobed-db
-multibootusb
 neard
 networkmanager-dmenu-git
 ofono
