@@ -1542,3 +1542,6 @@ ksysguard6-git
 
 # Issue 3215
 ladybird
+
+# Issue 3250
+git-extras
