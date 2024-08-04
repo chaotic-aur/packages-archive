@@ -593,9 +593,6 @@ maestral-qt # (opt maestral)
 # Issue 2444
 rustdesk-bin
 
-# Issue 2624
-latencyflex-git
-
 # Issue 2638
 artemis-manual
 
