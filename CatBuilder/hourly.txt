@@ -19,7 +19,6 @@ libreswan
 libva-nvidia-driver-git
 nautilus-open-any-terminal
 oh-my-posh-bin
-openswan
 postman-bin
 python-ite8291r3-ctl-git
 python-nbxmpp-git
