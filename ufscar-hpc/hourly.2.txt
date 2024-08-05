@@ -459,7 +459,6 @@ mpv-vapoursynth-git
 # Issue 743
 python-xvfbwrapper # (dep qtile-git)
 qtile-git
-spacefm-git
 
 # Issue 744
 psst-git
