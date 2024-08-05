@@ -567,6 +567,7 @@ farbfeld
 # Issue 478
 python-enzyme # (dep subliminal-git)
 python-rarfile # (dep subliminal-git)
+python-pysubs2 # (dep subliminal-git)
 subliminal-git
 
 # Issue 480
