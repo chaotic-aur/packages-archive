@@ -501,7 +501,6 @@ ntfs2btrfs-git
 codelite
 
 # Issue 442
-gdb-multiarch
 sourcetrail
 
 # Issue 445
