@@ -66,9 +66,6 @@ openblas-lapack # (python-qiskit)
 # Issue 936
 musikcube
 
-# Issue 949
-kicad-git
-
 # Issue 1189
 linux-xanmod-rt
 
