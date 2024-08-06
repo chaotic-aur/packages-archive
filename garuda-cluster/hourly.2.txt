@@ -889,3 +889,6 @@ hstr
 
 # Issue 3235
 xiccd
+
+# Issue 3247
+libwacom-surface
