@@ -611,7 +611,7 @@ libvterm-0.1 # (dep neovim-git)
 neovim-git
 
 # Issue 538
-godot-git:https://github.com/chaotic-aur/pkgbuild-godot-git.git
+godot-git
 
 # Issue 586
 motrix-bin
