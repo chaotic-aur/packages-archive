@@ -116,7 +116,7 @@ youtube-search-python # (dep ytmdl)
 ytmdl
 
 # Issue 1643
-glibc-dthash:https://gitlab.archlinux.org/archlinux/packaging/packages/glibc.git
+glibc-eac-roco:https://gitlab.archlinux.org/archlinux/packaging/packages/glibc.git
 glibc-eac:https://gitlab.archlinux.org/archlinux/packaging/packages/glibc.git
 
 # Issue 1676
