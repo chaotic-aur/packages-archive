@@ -143,7 +143,6 @@ lib32-llvm-git:https://github.com/chaotic-aur/pkgbuild-lib32-llvm-git
 git-cinnabar
 nspr-hg
 nss-hg
-wasi-sdk-git
 firefox-nightly:https://aur.archlinux.org/firefox-hg.git # interfere
 --
 firefox-wayland-hg
