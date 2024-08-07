@@ -848,6 +848,9 @@ mihomo
 # Issue 3182
 phonon-qt6-gstreamer-git
 
+# Issue 3192
+ffaudioconverter
+
 # Issue 3204
 citra-git
 
