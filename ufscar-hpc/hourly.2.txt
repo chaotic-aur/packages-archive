@@ -548,9 +548,6 @@ nvim-ghost-git
 # Issue 805
 dino-git
 
-# Issue 807
-libtd
-
 # Issue 812
 mobydroid
 
