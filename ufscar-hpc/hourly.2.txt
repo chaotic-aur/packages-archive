@@ -1541,3 +1541,6 @@ ladybird
 
 # Issue 3250
 git-extras
+
+# Issue 3254
+mongodb-compass
