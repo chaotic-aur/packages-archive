@@ -112,6 +112,7 @@ waydroid-script-git
 
 # Other, general use applications
 alpm_octopi_utils # (dep octopi)
+gtkglext # (dep anydesk-bin)
 anydesk-bin
 appimagelauncher
 bauh
