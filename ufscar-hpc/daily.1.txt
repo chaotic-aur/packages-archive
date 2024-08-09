@@ -95,9 +95,6 @@ kodi-stable-git:https://aur.archlinux.org/kodi-stable-git.git
 # Issue 1652
 linux-lqx
 
-# Issue 1662
-linux-xanmod
-
 # Issue 1784
 luckybackup
 
