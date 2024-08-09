@@ -127,6 +127,9 @@ hunspell-uk
 # Issue 2987
 wayland-chromium
 
+# Issue 3237
+linux-xanmod-edge-x64v3:https://aur.archlinux.org/linux-xanmod-edge.git # interfere
+
 --
 
 spirv-headers-git # (dep llvm-git) # Issue 2698
