@@ -27,6 +27,7 @@ dfl-utils # (dep greetd-qtgreet)
 dfl-wayqt # (dep greetd-qtgreet)
 greetd-gtkgreet-git
 greetd-qtgreet
+aquamarine-git # (dep hyprland-git grimblast-git)
 hyprcursor-git
 hyprland-git
 hyprlang-git
