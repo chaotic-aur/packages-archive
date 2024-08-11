@@ -25,7 +25,7 @@ scummvm-git
 
 # Issue 331
 linux-mainline:https://aur.archlinux.org/linux-mainline.git
-linux-mainline-v3:https://aur.archlinux.org/linux-mainline.git # interfere
+linux-mainline-x64v3:https://aur.archlinux.org/linux-mainline.git # interfere
 
 # Issue 394
 icecat
