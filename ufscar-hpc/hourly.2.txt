@@ -1544,3 +1544,7 @@ git-extras
 
 # Issue 3254
 mongodb-compass
+
+# Issue 3263
+sidplay2-libs # (dep moc-pulse)
+moc-pulse
