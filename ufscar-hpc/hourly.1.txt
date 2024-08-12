@@ -1626,6 +1626,9 @@ pandoc-bin
 # Issue 3259
 intel-npu-driver-bin
 
+# Issue 3262
+steamcmd
+
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
