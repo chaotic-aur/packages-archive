@@ -189,9 +189,6 @@ spicetify-cli
 # Issue 1334
 steam-boilr-gui
 
-# Issue 1349
-marktext-bin
-
 # Issue 1350
 hardinfo2-git
 
