@@ -42,7 +42,7 @@ rpcs3-git
 
 # Issue 729
 linux-vfio
-linux-vfio-v3:https://aur.archlinux.org/linux-vfio.git
+linux-vfio-x64v3:https://aur.archlinux.org/linux-vfio.git
 
 # Issue 774
 freecad-git
