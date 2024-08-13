@@ -35,6 +35,7 @@ uefitool-git
 pdfcpu
 java-openjfx-bin  # (dep serproid)
 serproid
+serpro-signer
 
 # Pedro
 android-sdk-platform-tools
