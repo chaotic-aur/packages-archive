@@ -310,6 +310,10 @@ tenacity-git
 # Issue 1549
 dwarfs
 
+# Issue 1552
+nodejs-cross-env # (dep steam-rom-manager-git)
+steam-rom-manager-git
+
 # Issue 1590
 ipscan
 
