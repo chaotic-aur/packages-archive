@@ -497,9 +497,6 @@ keymapper-git
 # Issue 438
 ntfs2btrfs-git
 
-# Issue 439
-codelite
-
 # Issue 442
 sourcetrail
 
