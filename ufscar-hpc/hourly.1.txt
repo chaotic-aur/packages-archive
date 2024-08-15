@@ -702,7 +702,7 @@ river-git
 transset-df
 
 # Issue 1027
-zenmap
+zenmap:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Issue 1179
 gnome-shell-extension-dash-to-panel-git
