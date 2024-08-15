@@ -708,18 +708,6 @@ gnome-shell-extension-dash-to-panel-git
 dee # (dep libunity webwatcher-git)
 libunity # (dep webwatcher-git)
 
-# Issue 1342
-otf-manjari
-ttf-malayalam-font-anjalioldlipi
-ttf-malayalam-font-chilanka
-ttf-malayalam-font-dyuthi
-ttf-malayalam-font-keraleeyam
-ttf-malayalam-font-meera
-ttf-malayalam-font-rachana
-ttf-malayalam-font-raghumalayalamsans
-ttf-malayalam-font-suruma
-ttf-malayalam-fonts-meta
-
 # Issue 1362
 libplacebo-git # (dep mpv-full-git)
 
