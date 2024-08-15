@@ -1176,7 +1176,7 @@ audiorelay
 
 # Issue 1924
 thorium-reader
-thorium-reader-git:https://aur.archlinux.org/thorium-reader.git # interfere
+thorium-reader-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Issue 1928
 icaclient
