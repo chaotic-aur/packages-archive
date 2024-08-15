@@ -741,9 +741,6 @@ ddnet
 vesktop
 vesktop-git
 
-# Issue 2952
-compfy
-
 # Issue 2961
 vinegar-git
 
