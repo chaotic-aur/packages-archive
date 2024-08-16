@@ -1281,9 +1281,6 @@ rmg
 # Issue 2321
 flux-bin
 
-# Issue 2322
-curl-http3
-
 # Issue 2323
 jdanimatedimageeditor
 
