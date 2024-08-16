@@ -100,7 +100,6 @@ gotop
 hsphfpd-git
 irpf
 mpv-full
-mpv-full-git
 obs-backgroundremoval
 obs-rtspserver
 obs-vkcapture-git
@@ -111,14 +110,12 @@ python-hwdata # (make tuxclocker)
 r8125-dkms
 repoctl
 slack-electron
-spirv-cross # (dep mpv-full-git)
 spotify-qt
 subtitleedit
 ttf-borg-sans-mono
 ttf-font-awesome-4
 tuxclocker
 ums
-vapoursynth-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git # (dep mpv-full-git)
 waybar-git
 wayfire-git
 waynergy-git
@@ -707,9 +704,6 @@ gnome-shell-extension-dash-to-panel-git
 # Issue 1339
 dee # (dep libunity webwatcher-git)
 libunity # (dep webwatcher-git)
-
-# Issue 1362
-libplacebo-git # (dep mpv-full-git)
 
 # Issue 1365
 notparadoxlauncher
