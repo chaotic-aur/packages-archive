@@ -677,15 +677,6 @@ element-desktop-nightly-bin
 # Issue 621
 komorebi
 
-# Issue 623
-intel-gmmlib-git # (dep intel-media-driver-git)
-libva-git # (dep intel-media-driver-git
-intel-media-driver-git
-# --
-ffnvcodec-headers-git # (dep ffmpeg-git)
-vmaf-git # (dep ffmpeg-git)
-ffmpeg-git
-
 # Issue 726
 godot-mono
 
