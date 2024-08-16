@@ -455,6 +455,7 @@ gtg
 basilisk-bin
 
 # Issue 741
+libplacebo-git # (dep mpv-vapoursynth-git)
 mpv-vapoursynth-git
 
 # Issue 743
