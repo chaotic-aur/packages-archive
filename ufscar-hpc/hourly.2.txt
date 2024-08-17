@@ -274,6 +274,7 @@ nginx-mainline-mod-njs
 flat-remix-gnome
 
 # Issue 546
+archlinux-java-run # (dep audiorelay mindustry simpleitk)
 mindustry:https://aur.archlinux.org/mindustry.git # (mindustry, mindustry-server)
 
 # Issue 551
