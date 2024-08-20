@@ -286,6 +286,7 @@ brave-beta-bin
 
 # houssem.kochat9 on forum
 ebou
+papers
 ptyxis
 resources
 
