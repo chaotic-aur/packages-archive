@@ -283,9 +283,6 @@ xpra-html5-git
 autojump
 binder_linux-dkms
 
-# BluishHumility on forum
-nwg-hello
-
 # Dustin on forum
 rtl88x2bu-cilynx-dkms-git
 
