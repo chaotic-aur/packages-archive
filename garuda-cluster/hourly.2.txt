@@ -35,7 +35,6 @@ hyprwayland-scanner-git
 wlr-randr-git
 
 # i3
-azote
 flashfocus-git
 kvantum-theme-qogir-git
 lightdm-settings
