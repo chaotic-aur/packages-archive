@@ -175,7 +175,6 @@ tlpui
 webapp-manager-git
 
 # Theming & Customization
-autotiling
 candy-icons-git
 flat-remix
 flat-remix-gtk
