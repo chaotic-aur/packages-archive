@@ -858,9 +858,6 @@ graphite-cursor-theme-git
 # Issue 1101
 sayonara-player-git
 
-# Issue 1104
-pcloudcc-git
-
 # Issue 1107
 libpamac-flatpak
 pamac-flatpak
