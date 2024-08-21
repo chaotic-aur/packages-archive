@@ -795,17 +795,6 @@ hyprpaper-git
 # Issue 2544
 geticons-git
 
-# Issue 2545
-gtk-session-lock # (dep gtklock)
-gtklock # (dep gtklock-playerctl-module gtklock-powerbar-module gtklock-userinfo-module)
-gtklock-playerctl-module
-
-# Issue 2546
-gtklock-powerbar-module
-
-# Issue 2547
-gtklock-userinfo-module
-
 # Issue 2559
 eww
 
