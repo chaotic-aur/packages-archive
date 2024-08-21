@@ -390,7 +390,6 @@ bpytop-git
 cmake-git
 croc-git
 das-keyboard-q
-drawio-desktop
 duc-git
 easytether-bin
 lutris-git
