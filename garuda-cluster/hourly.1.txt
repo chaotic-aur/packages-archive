@@ -371,7 +371,6 @@ gnome-icon-theme # (dep gnome-shell-extension-vitals-git)
 gnome-icon-theme-symbolic # (dep gnome-icon-theme la-capitaine-icon-theme gnome-shell-extension-vitals-git)
 libcgroup
 lockdown-ms
-nwg-dock-hyprland
 pacseek
 python-pid # (dep refind-btrfs)
 python-transitions # (dep refind-btrfs)

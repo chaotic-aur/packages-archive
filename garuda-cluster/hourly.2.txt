@@ -49,12 +49,7 @@ mate-menu
 mate-tweak
 
 # Sway
-nwg-bar
-nwg-displays
-nwg-dock
-nwg-drawer
 nwg-launchers
-nwg-menu
 nwg-wrapper
 
 # Wayfire
