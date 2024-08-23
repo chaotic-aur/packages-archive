@@ -744,9 +744,6 @@ mise
 # Issue 3026
 angryoxide
 
-# Issue 3027
-termusic
-
 # Issue 3038
 lib32-nvidia-utils-beta # (lib32-nvidia-utils-beta, lib32-opencl-nvidia-beta)
 nvidia-utils-beta # (nvidia-utils-beta, nvidia-settings-beta, opencl-nvidia-beta)
