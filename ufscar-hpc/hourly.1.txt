@@ -9,6 +9,7 @@ tk-itk   # I don't have any use for this, but since we have its old version...
 bluespec-contrib-git
 --
 bluespec-bdw-git
+surfer-waveform-git
 airspy-git
 airspyhf-git
 soapysdr-git
