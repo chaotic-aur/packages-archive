@@ -66,7 +66,7 @@ scx-scheds-git # for linux-cachyos
 
 ## Chaotic
 # Issue 311
-wine-stable
+wine-stable:https://gitlab.archlinux.org/archlinux/packaging/packages/wine.git
 
 # Issue 558
 dotnet-sdk-bin:https://aur.archlinux.org/dotnet-core-bin.git # (make ryujinx)
