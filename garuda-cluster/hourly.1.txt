@@ -9,7 +9,6 @@ kega-fusion
 lib32-libexif # (opt crossover)
 lib32-nss-mdns # (opt crossover)
 mednaffe
-pcsxr
 pegasus-frontend-git
 play-emu-git
 python-pysdl2 # (dep m64py tauon-music-box)
