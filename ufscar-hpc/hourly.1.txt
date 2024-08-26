@@ -1591,6 +1591,9 @@ intel-npu-driver-bin
 # Issue 3262
 steamcmd
 
+# Issue 3282
+tio
+
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
