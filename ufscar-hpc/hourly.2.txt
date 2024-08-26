@@ -435,7 +435,6 @@ qogir-gtk-theme
 
 # Issue 725
 dialect
-python-googletrans-git
 python-gtts
 
 # Issue 730
