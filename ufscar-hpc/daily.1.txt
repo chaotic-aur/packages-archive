@@ -14,11 +14,11 @@ vim-colorschemes
 
 ## User requests
 # (forum) Austin
-linux-amd
+linux-znver1:https://gitlab.archlinux.org/archlinux/packaging/packages/linux.git
 
 # (forum) FGD
-linux-amd-znver2
-linux-amd-znver3
+linux-znver2:https://gitlab.archlinux.org/archlinux/packaging/packages/linux.git
+linux-znver3:https://gitlab.archlinux.org/archlinux/packaging/packages/linux.git
 
 # Issue 316
 scummvm-git
