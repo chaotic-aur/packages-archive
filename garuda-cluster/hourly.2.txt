@@ -858,3 +858,6 @@ satty
 
 # Issue 3264
 fjordlauncher
+
+# Issue 3283
+quake3e-git
