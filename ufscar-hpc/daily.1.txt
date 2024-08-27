@@ -14,7 +14,7 @@ vim-colorschemes
 
 ## User requests
 # (forum) Austin
-linux-znver1:https://gitlab.archlinux.org/archlinux/packaging/packages/linux.git
+linux-znver4:https://gitlab.archlinux.org/archlinux/packaging/packages/linux.git
 
 # (forum) FGD
 linux-znver2:https://gitlab.archlinux.org/archlinux/packaging/packages/linux.git
