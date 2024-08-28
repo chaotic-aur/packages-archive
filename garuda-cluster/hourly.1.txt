@@ -623,7 +623,6 @@ geph4-client
 agg-2.6-git
 
 # Issue 2233
-discord-rpc-git # (dep srb2kart)
 srb2kart-data # (dep srb2kart)
 srb2kart
 
