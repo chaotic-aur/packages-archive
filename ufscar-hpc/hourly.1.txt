@@ -89,6 +89,7 @@ python3-xcpf
 dumpasn1
 jbig2enc-git
 correios-git
+wstunnel
 
 ## Pedro
 #scrcpy-git (broken)
