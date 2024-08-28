@@ -1540,3 +1540,6 @@ mongodb-compass
 # Issue 3263
 sidplay2-libs # (dep moc-pulse)
 moc-pulse
+
+# Issue 3288
+eyedropper
