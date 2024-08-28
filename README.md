@@ -69,7 +69,7 @@ This is a list of packages that we will reject for good reasons:
 
 - **linux-ck**: Other kernels contain the same optimizations, and official pre-built binaries are available from [repo-ck](https://wiki.archlinux.org/title/Unofficial_user_repositories#repo-ck).
 
-- Packages that use EOL, non-standard, or modified versions of Electron.  The consecutive cluster of Electron versions available from the `extra` repository are acceptable.
+- Packages that use EOL, non-standard, or modified versions of Electron.  Packages that use Electron as a web browser.  The consecutive cluster of Electron versions available from the `extra` repository are acceptable.
 
 - Dependencies without any dependents: Such packages are useless by themselves.  Maintaining them wastes effort that is better spent elsewhere.
 
