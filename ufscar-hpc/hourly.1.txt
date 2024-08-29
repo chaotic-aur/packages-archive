@@ -394,7 +394,6 @@ deadd-notification-center-git
 
 # Issue 356
 filebot
-windscribe-cli
 
 # Issue 357
 cheese-git
