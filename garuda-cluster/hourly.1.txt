@@ -734,9 +734,6 @@ gnome-shell-extension-blur-my-shell
 gnome-shell-extension-gsconnect
 gnome-shell-extension-gsconnect-git
 
-# Issue 2396
-systemd-manager-git
-
 # Issue 2398
 cyberchef-electron
 
