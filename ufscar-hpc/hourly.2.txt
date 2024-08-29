@@ -741,16 +741,6 @@ megacli
 # Issue 1000 - Party time
 storcli
 
-# Issue 1001
-adcli # (dep realmd)
-oddjob-selinux # (dep python-ipaclient freeipa)
-authselect # (dep freeipa-client freeipa)
-autofs # (dep freeipa-client freeipa)
-certmonger # (dep freeipa-client freeipa)
-yp-tools # (dep freeipa-client freeipa)
-freeipa:https://aur.archlinux.org/freeipa.git # (freeipa-client, freeipa-client-common, freeipa-common, python-ipaclient, python-ipalib)
-realmd
-
 # Issue 1002
 gnome-shell-extension-dash-to-dock
 
