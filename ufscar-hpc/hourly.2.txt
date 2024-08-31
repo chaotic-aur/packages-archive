@@ -758,8 +758,8 @@ flacon
 
 # Issue 1020
 python-inputs # (dep protonup-qt)
-python-vdf-solstice # (dep protonup-qt)
-python-steam-solstice # (dep protonup-qt)
+python-steam # (dep protonup-qt)
+python-vdf # (dep protonup-qt)
 protonup-qt
 
 # Issue 1024
