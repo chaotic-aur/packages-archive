@@ -1590,6 +1590,10 @@ steamcmd
 # Issue 3282
 tio
 
+# Issue 3291
+libtsm # (dep kmscon)
+kmscon
+
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
