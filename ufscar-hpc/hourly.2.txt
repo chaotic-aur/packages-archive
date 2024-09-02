@@ -1536,3 +1536,6 @@ moc-pulse
 
 # Issue 3288
 eyedropper
+
+# Issue 2393
+kmonad-git
