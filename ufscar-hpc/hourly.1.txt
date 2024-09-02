@@ -561,7 +561,7 @@ python-pysubs2 # (dep subliminal-git)
 subliminal-git
 
 # Issue 480
-fluffychat
+fluffychat:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 
 # Issue 482
 mcmojave-cursors-git
