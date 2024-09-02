@@ -667,9 +667,6 @@ trello-cli
 # Issue 621
 komorebi
 
-# Issue 726
-godot-mono
-
 # Issue 937
 river-git
 
