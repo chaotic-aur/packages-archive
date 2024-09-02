@@ -885,6 +885,9 @@ emulsion
 # Issue 1147
 moonlight-qt
 
+# Issue 1149
+sunshine
+
 # Issue 1151
 gnome-shell-extension-rounded-window-corners
 kwin-effect-rounded-corners-git
