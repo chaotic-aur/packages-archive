@@ -256,7 +256,6 @@ pdf-xchange
 pdfquirk
 qbittorrent-enhanced-git
 remoteplaywhatever
-replay-sorcery-git
 shutter-encoder-bin
 solvespace
 # Tartube
