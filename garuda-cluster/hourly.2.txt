@@ -31,6 +31,7 @@ aquamarine-git # (dep hyprland-git grimblast-git)
 hyprcursor-git
 hyprland-git
 hyprlang-git
+hyprutils-git # (dep aquamarine-git hyprcursor-git hyprland-git hyprlock-git hypridle-git)
 hyprwayland-scanner-git
 wlr-randr-git
 
