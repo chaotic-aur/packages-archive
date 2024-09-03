@@ -1590,6 +1590,9 @@ tio
 libtsm # (dep kmscon)
 kmscon
 
+# Issue 3294
+pcloudcc-lneely
+
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
