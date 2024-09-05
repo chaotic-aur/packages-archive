@@ -853,3 +853,6 @@ fjordlauncher
 
 # Issue 3283
 quake3e-git
+
+# Issue 3299
+volta
