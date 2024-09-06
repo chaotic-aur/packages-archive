@@ -194,6 +194,7 @@ mutter-x11-scaling
 plasma5-theme-qogir-git
 plasma6-themes-layan-git
 pop-launcher-git # (dep gnome-shell-extension-pop-shell-git)
+pop-icon-theme-git # (dep cosmic-icons-git pop-gtk-theme-git pop-launcher-git)
 pop-shell-shortcuts-git # (dep gnome-shell-extension-pop-shell-git)
 qogir-gtk-theme-git
 qogir-icon-theme-git
