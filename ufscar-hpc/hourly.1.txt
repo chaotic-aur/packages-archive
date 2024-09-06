@@ -615,7 +615,6 @@ mint-y-icons
 biglybt
 
 # Issue 593
-gigolo
 iso-flag-png # (dep mintlocale)
 mintlocale
 xfce4-docklike-plugin
