@@ -1592,6 +1592,9 @@ kmscon
 # Issue 3294
 pcloudcc-lneely
 
+# Issue 3300
+xmcl-launcher
+
 # Issue 3305
 sddm-astronaut-theme
 
