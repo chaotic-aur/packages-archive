@@ -854,6 +854,9 @@ fjordlauncher
 # Issue 3283
 quake3e-git
 
+# Issue 3289
+hplip-minimal
+
 # Issue 3299
 volta
 
