@@ -300,6 +300,7 @@ gyroflow-git
 shadowsocks-gtk-rs
 
 # Issue 1549
+parallel-hashmap # (make dwarfs)
 dwarfs
 
 # Issue 1552
