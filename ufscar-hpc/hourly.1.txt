@@ -1031,10 +1031,6 @@ riftshare
 # Issue 1828
 stilo-themes-git
 
-# Issue 1834
-tiddlywiki # (dep tiddlydesktop)
-tiddlydesktop
-
 # Issue 1835
 tixati
 
