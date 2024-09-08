@@ -526,11 +526,6 @@ vim-slime-git
 # Issue 791
 vim-vimwiki
 
-# Issue 798
-silos
-silo-netflix
-silo-primevideo
-
 # Issue 800
 gtk-gnutella-git
 

@@ -660,7 +660,6 @@ touche
 papirus-folders
 
 # Issue 615
-silo-trello
 trello-cli
 
 # Issue 621
