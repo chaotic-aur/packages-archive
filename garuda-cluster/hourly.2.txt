@@ -618,7 +618,8 @@ mtkclient-git
 neovim-gtk
 
 # Issue 2777
-nurl
+nurl # (dep nix-init)
+spdx-license-list-data # (make nix-init)
 nix-init
 
 # Issue 2784
