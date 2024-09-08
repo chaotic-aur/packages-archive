@@ -856,3 +856,6 @@ quake3e-git
 
 # Issue 3299
 volta
+
+# Issue 3303
+swayosd-git
