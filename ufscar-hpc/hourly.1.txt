@@ -1592,6 +1592,9 @@ kmscon
 # Issue 3294
 pcloudcc-lneely
 
+# Issue 3305
+sddm-astronaut-theme
+
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
