@@ -1244,9 +1244,6 @@ chatgpt-desktop-bin
 micromamba
 termcolor # (dep micromamba)
 
-# Issue 2283
-binance
-
 # Issue 2288
 xcursor-breeze
 
