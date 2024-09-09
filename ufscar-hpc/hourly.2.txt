@@ -1334,9 +1334,6 @@ orbada
 # Issue 2280
 epson-inkjet-printer-escpr
 
-# Issue 2286
-gdm-plymouth-prime
-
 # Issue 2292
 ucon64
 
