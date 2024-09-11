@@ -336,9 +336,6 @@ quickdocs
 # Issue 636
 pikaur-git
 
-# Issue 641
-fractal-git
-
 # Issue 642
 picom-git
 
