@@ -865,3 +865,6 @@ volta
 
 # Issue 3303
 swayosd-git
+
+# Issue 3308
+simp
