@@ -1002,7 +1002,6 @@ noisetorch-git
 spice-guest-tools-windows
 
 # Issue 1500
-python-pyasyncore # (dep playonlinux)
 playonlinux
 
 # Issue 1505
