@@ -306,9 +306,6 @@ zeal-git
 # Issue 576
 freerdp-git
 
-# Issue 577
-remmina-git
-
 # Issue 581
 python-rustworkx # (dep python-qiskit)
 muparserx # (dep python-qiskit-aer)
