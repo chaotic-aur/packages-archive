@@ -1587,6 +1587,9 @@ xmcl-launcher
 # Issue 3305
 sddm-astronaut-theme
 
+# Issue 3314
+bochs
+
 # FroggingFamily
 mesa-tkg-git:https://github.com/Frogging-Family/mesa-git.git
 
