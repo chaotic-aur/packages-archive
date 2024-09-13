@@ -1290,7 +1290,7 @@ asus-fan-dkms-git
 
 # Issue 2109
 gnome-shell-extension-arch-update
-gnome-shell-extension-tiling-assistant-git
+gnome-shell-extension-tiling-assistant
 extension-manager
 
 # Issue 2124
