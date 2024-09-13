@@ -868,3 +868,6 @@ swayosd-git
 
 # Issue 3308
 simp
+
+# Issue 3318
+strain
