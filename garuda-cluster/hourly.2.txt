@@ -864,6 +864,9 @@ quake3e-git
 # Issue 3289
 hplip-minimal
 
+# Issue 3290
+zen-browser-bin
+
 # Issue 3299
 volta
 
