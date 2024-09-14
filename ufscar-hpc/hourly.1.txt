@@ -236,7 +236,6 @@ extundelete
 f3
 f3-qt-git
 fast
-fiddler
 cglm # (dep fsv3)
 fsv3
 googerteller-git
