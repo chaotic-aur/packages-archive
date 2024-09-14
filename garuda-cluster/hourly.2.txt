@@ -503,6 +503,7 @@ vpaint-git
 carla-git # (dep zrythm)
 gtk4-git # (dep zrythm)
 libaudec # (dep zrythm)
+libbacktrace-git # (dep zrythm)
 libcyaml # (dep zrythm)
 lsp-dsp-lib # (dep zrythm)
 reproc # (dep zrythm)

@@ -924,11 +924,6 @@ stumpwm-contrib-git
 # Issue 1199
 dynamic-wallpaper-editor
 
-# Issue 1200
-extension-manager-git
-libbacktrace-git # (dep extension-manager-git extension-manager zrythm)
-text-engine # (dep extension-manager-git extension-manager)
-
 # Issue 1204
 sirula-git
 
@@ -1286,9 +1281,10 @@ cura-bin
 asus-fan-dkms-git
 
 # Issue 2109
+text-engine # (dep extension-manager)
+extension-manager
 gnome-shell-extension-arch-update
 gnome-shell-extension-tiling-assistant
-extension-manager
 
 # Issue 2124
 scenefx
