@@ -986,9 +986,6 @@ ausweisapp2
 # Issue 1321
 smartgit
 
-# Issue 1327
-vcpkg # (dep ladybird)
-
 # Issue 1396
 wld-git # (dep swc-git velox-git)
 swc-git # (dep velox-git)
