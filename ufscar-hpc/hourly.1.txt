@@ -980,6 +980,7 @@ dust3d
 friendiqa
 
 # Issue 1767
+openssl-1.0 # (dep fontfinder)
 fontfinder
 
 # Issue 1768

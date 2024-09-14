@@ -21,7 +21,6 @@ athenaeum-git
 boxtron
 cachyos-ananicy-rules-git
 circle-flags # (dep hypnotix)
-epsxe
 eruption
 game-devices-udev
 gamehub
@@ -42,7 +41,6 @@ openrgb-plugin-e131-receiver-git
 openrgb-plugin-effects-git
 openrgb-plugin-hardware-sync-git
 openrgb-plugin-visual-map-git
-openssl-1.0 # (dep epsxe)
 oversteer
 play.it
 protontricks-git
