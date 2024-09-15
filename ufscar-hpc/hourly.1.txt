@@ -910,7 +910,6 @@ libjodycode # (dep jdupes)
 
 # Issue 1685
 anime4k-git
-anime4k
 
 # Issue 1687
 pngnq-s9
