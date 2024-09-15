@@ -827,9 +827,6 @@ schedtoold
 # Issue 2594
 keystore-explorer
 
-# Issue 2596
-deltachat-desktop-git
-
 # Issue 2597
 figlet-fonts
 
