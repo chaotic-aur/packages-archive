@@ -498,7 +498,6 @@ imagemagick-full-git
 libopenglrecorder # (dep supertuxkart-git)
 mindustry-git
 openttd-git
-simutrans-extended-git
 supertuxkart-git
 
 # Issue 2036
