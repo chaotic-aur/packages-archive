@@ -843,9 +843,6 @@ borg2
 # Issue 3232
 hstr
 
-# Issue 3235
-xiccd
-
 # Issue 3247
 libwacom-surface
 
