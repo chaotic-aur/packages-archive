@@ -674,7 +674,7 @@ easy-installer
 mission-center
 
 # Issue 2915
-# gdcm # (dep insight-toolkit)
+gdcm # (dep insight-toolkit)
 insight-toolkit # (dep simpleitk)
 simpleitk:https://aur.archlinux.org/simpleitk.git # (simpleitk python-simpleitk)
 python-lazy-loader # (dep python-scikit-image)
