@@ -77,7 +77,6 @@ jitsi-meet-desktop
 katawa-shoujo-reengineered-bin
 mendeleydesktop-bundled
 onlyoffice-bin
-python-pypresence # (dep rare)
 rare
 reflector-simple
 spotify
