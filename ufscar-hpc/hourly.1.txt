@@ -249,6 +249,7 @@ mrtg
 mystiq
 ocenaudio-bin
 ocrmypdf
+odilia
 orjail
 parsec-bin
 pdf-xchange
