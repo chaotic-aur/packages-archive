@@ -15,8 +15,7 @@ This is the right place to submit package requests, bug reports, or outdated pac
   - [Mainline](https://aur.archlinux.org/packages/linux-mainline),
   - [AMD](https://aur.archlinux.org/packages/linux-amd) / [AMD Znver2](https://aur.archlinux.org/packages/linux-amd-znver2) / [AMD Znver3](https://aur.archlinux.org/packages/linux-amd-znver3),
   - [LQX](https://aur.archlinux.org/packages/linux-lqx)
-  - and a few architecture-specific variants of the previously mentioned kernels.
-- A complete [KDE-git stack](https://invent.kde.org/explore/groups?sort=name_asc) in a [separate repo](https://forum.garudalinux.org/t/kde-6-repository-testing/31442)
+  - and a few architecture-specific variants of the previously mentioned kernels
 - Emulators and gaming utilities
 - A lot of browsers like
     [Firedragon](https://github.com/dr460nf1r3/firedragon-browser),
