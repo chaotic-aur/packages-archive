@@ -75,7 +75,6 @@ google-chrome
 jdownloader2
 jitsi-meet-desktop
 katawa-shoujo-reengineered-bin
-mendeleydesktop-bundled
 onlyoffice-bin
 rare
 reflector-simple
