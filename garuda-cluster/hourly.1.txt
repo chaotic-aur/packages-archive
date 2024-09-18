@@ -966,6 +966,9 @@ advcpmv
 flutter-bin
 fvm-git
 
+# Issue 3107
+tautulli
+
 # Issue 3117
 python-dataclasses-json # (dep sublime-music-git)
 sublime-music-git
