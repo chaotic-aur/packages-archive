@@ -846,9 +846,6 @@ hstr
 # Issue 3247
 libwacom-surface
 
-# Issue 3255
-satty
-
 # Issue 3264
 fjordlauncher
 
