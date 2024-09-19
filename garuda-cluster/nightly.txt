@@ -9,10 +9,10 @@ skypeforlinux-bin:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 wasi-compiler-rt17 # (makedep firedragon)
 
 # Emulators
-spirv-cross # (dep dolphin-emu, duckstation, ppsspp)
+spirv-cross # (dep dolphin-emu, ppsspp)
 cemu-git:https://github.com/chaotic-aur/pkgbuild-empty-project.git
 decaf-emu-git
-duckstation-git:https://aur.archlinux.org/duckstation.git # interfere
+duckstation
 nestopia-git
 
 # obs-studio with cef browser
