@@ -1222,7 +1222,6 @@ obs-vaapi
 # Issue 1961
 python-srt # (dep simple64)
 discord-game-sdk # (dep simple64)
-vosk-api:https://aur.archlinux.org/vosk-api.git # (optdep simple64)
 simple64
 
 # Issue 1981
