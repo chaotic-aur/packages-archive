@@ -831,9 +831,6 @@ cosmic-wallpapers-git # (opt cosmic-session-git)
 cosmic-workspaces-git # (dep cosmic-session-git)
 cosmic-session-git
 
-# Issue 3219
-fooyin
-
 # Issue 3220
 86box-git
 
@@ -851,6 +848,9 @@ fjordlauncher
 
 # Issue 3268
 clipboard-manager-git
+
+# Issue 3276
+fooyin-git
 
 # Issue 3283
 quake3e-git
