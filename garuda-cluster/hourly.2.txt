@@ -721,9 +721,6 @@ beaver-notes
 # Issue 2988
 openresty
 
-# Issue 2997
-delfin
-
 # Issue 3011
 scc
 
