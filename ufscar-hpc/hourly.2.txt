@@ -1220,7 +1220,6 @@ hardinfo2
 obs-vaapi
 
 # Issue 1961
-python-srt # (dep simple64)
 discord-game-sdk # (dep simple64)
 simple64
 
