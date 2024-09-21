@@ -585,9 +585,6 @@ xfce4-panel-profiles
 # Issue 494
 python-deezer-py
 
-# Issue 498
-xfdashboard
-
 # Issue 502
 tree-sitter-git
 libvterm-0.1 # (dep neovim-git)
