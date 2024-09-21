@@ -579,9 +579,6 @@ libsearpc # (dep seafile)
 seafile
 seafile-client
 
-# Issue 492
-xfce4-panel-profiles
-
 # Issue 494
 python-deezer-py
 
