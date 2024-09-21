@@ -273,7 +273,6 @@ vinegar
 
 # Twilight on forum
 xfce4-hotcorner-plugin-git
-xfce4-places-plugin
 adbmanager
 
 # jpierce.coder on forum
