@@ -939,9 +939,6 @@ xcursor-arch-cursor-complete
 # Issue 1729
 azpainter
 
-# Issue 1730
-orage
-
 # Issue 1732
 audiowide-font
 fonts-kalam
