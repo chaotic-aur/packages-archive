@@ -422,9 +422,6 @@ nchat-git
 # Issue 1935
 lightspark-git
 
-# Issue 1945
-thunar-shares-plugin
-
 # Issue 1948
 minetest-git
 
