@@ -3,7 +3,6 @@ amdctl
 android-studio-canary
 arrpc
 darling-bin
-decibels
 epson-inkjet-printer-escpr2
 gamepad-tool-bin
 google-chrome-beta
