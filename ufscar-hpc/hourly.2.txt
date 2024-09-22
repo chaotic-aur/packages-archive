@@ -226,9 +226,6 @@ swaylock-effects
 # Issue 519
 unityhub
 
-# Issue 521
-grimshot
-
 # Issue 524
 python-clickgen # (make bibata-cursor-theme)
 python-clickgen1 # (make bibata-extra-cursor-theme bibata-rainbow-cursor-theme)
