@@ -974,3 +974,6 @@ searxng-git
 
 # Issue 3181
 reboot-arch-btw
+
+# Issue 3332
+cheat
