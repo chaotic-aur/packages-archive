@@ -318,7 +318,6 @@ omnisharp-roslyn
 # Issue 322
 eqonomize-git
 hlsdl
-identity
 nheko-git
 pyradio-git
 qownnotes
