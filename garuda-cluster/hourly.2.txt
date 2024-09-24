@@ -241,9 +241,6 @@ jdk:https://aur.archlinux.org/jdk.git
 # Issue 1407
 jellyfin-git # (also builds jellyfin-{server,web}-git
 
-# Issue 1408
-adguardhome
-
 # Issue 1409
 amberol
 
