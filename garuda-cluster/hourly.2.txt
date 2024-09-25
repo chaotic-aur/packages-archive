@@ -473,7 +473,6 @@ quaternion
 quaternion-git
 
 # Issue 1823
-criterion # (chkdep siril-git)
 siril-git
 
 # Issue 1825
