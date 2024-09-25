@@ -928,9 +928,6 @@ sioyek-git
 python-poetry-core-git # (dep python-peotry-git)
 python-poetry-git
 
-# Issue 1244
-video-trimmer
-
 # Issue 1249
 xmrig-donateless
 
