@@ -428,9 +428,6 @@ python-gtts
 # Issue 730
 git-fixup-git
 
-# Issue 734
-solanum
-
 # Issue 735
 python-restructuredtext_lint # (dep python-x-wr-timezone)
 python-x-wr-timezone # (dep python-caldav)
