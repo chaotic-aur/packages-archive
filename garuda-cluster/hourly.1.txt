@@ -457,9 +457,6 @@ python-kiss-headers # (dep cobang)
 python-single-version # (dep cobang)
 cobang
 
-# Issue 1979
-decoder
-
 # Issue 1990
 mold-git
 
