@@ -1506,8 +1506,5 @@ mongodb-compass
 sidplay2-libs # (dep moc-pulse)
 moc-pulse
 
-# Issue 3288
-eyedropper
-
 # Issue 3293
 kmonad-git
