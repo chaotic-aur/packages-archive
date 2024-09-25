@@ -476,7 +476,6 @@ wpspin
 
 # Issue 423
 aws2-wrap
-tflint
 
 # Issue 426
 tlp-git
