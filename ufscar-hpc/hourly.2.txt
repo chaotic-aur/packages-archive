@@ -1487,9 +1487,6 @@ popcorntime-bin
 # Issue 3176
 nixpacks
 
-# Issue 3198
-gqrx
-
 # Issue 3201
 ksysguard6-git
 
