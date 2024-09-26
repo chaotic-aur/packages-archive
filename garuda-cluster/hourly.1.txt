@@ -132,7 +132,6 @@ popsicle
 pulseeffects-legacy
 qt-sudo # (dep octopi)
 qtscrcpy
-shortwave
 slack-desktop
 snapper-tools
 streamlink-twitch-gui-bin
