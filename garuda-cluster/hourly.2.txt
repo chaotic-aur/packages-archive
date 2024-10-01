@@ -353,9 +353,6 @@ podman-desktop
 # Issue 1656
 yacy-git
 
-# Issue 1660
-resp-app
-
 # Issue 1669
 joshuto-git
 
