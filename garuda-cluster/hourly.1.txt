@@ -281,7 +281,6 @@ brave-beta-bin
 ebou
 papers
 ptyxis
-resources
 
 # elite on forum
 superfile
