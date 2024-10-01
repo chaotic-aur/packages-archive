@@ -945,6 +945,7 @@ libuvc # (dep webcamoid)
 webcamoid
 
 # Issue 1283
+libsfdo # (dep labwc-git)
 labwc
 labwc-git
 
