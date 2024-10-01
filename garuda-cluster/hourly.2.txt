@@ -500,9 +500,6 @@ reproc # (dep zrythm)
 yyjson-git # (dep zrythm)
 zrythm
 
-# Issue 1859
-share-preview
-
 # Issue 1862
 popsicle-git
 
