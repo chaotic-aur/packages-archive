@@ -994,10 +994,6 @@ qt6gtk2:https://aur.archlinux.org/qt6gtk2.git
 # Issue 1507
 nsnake-git
 
-# Issue 1514
-pika-backup
-python-pyfuse3 # (dep pika-backup)
-
 # Issue 1537
 btrfs-snapshots-git
 
