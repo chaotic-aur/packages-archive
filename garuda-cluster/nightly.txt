@@ -33,6 +33,7 @@ ccd2cue
 commissioner-font:https://aur.archlinux.org/commissioner-font.git
 discimagecreator-git
 dolphin-tabopts:https://aur.archlinux.org/dolphin-tabopts.git
+dotnet-sdk-bin:https://aur.archlinux.org/dotnet-core-bin.git
 fanficfare-git
 geany-plugin-preview-git
 geeqie-git
@@ -66,10 +67,6 @@ scx-scheds-git # for linux-cachyos
 ## Chaotic
 # Issue 311
 wine-stable:https://gitlab.archlinux.org/archlinux/packaging/packages/wine.git
-
-# Issue 558
-dotnet-sdk-bin:https://aur.archlinux.org/dotnet-core-bin.git # (make ryujinx)
-ryujinx:https://aur.archlinux.org/ryujinx.git
 
 # Issue 666
 bluemail:https://github.com/chaotic-aur/pkgbuild-empty-project.git
