@@ -36,10 +36,6 @@ linux-xanmod-lts
 # Issue 640
 rpcs3-git
 
-# Issue 708
-#emacs-ng
-#emacs-ng-git
-
 # Issue 729
 linux-vfio
 linux-vfio-x64v3:https://aur.archlinux.org/linux-vfio.git
