@@ -582,7 +582,6 @@ wired
 bcachefs-tools-git
 
 # Issue 885
-svgo # (make ttf-twemoji-color-git)
 ttf-twemoji
 ttf-twemoji-git
 
