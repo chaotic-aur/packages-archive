@@ -1167,9 +1167,6 @@ pleroma-bin
 # Issue 2093
 notesnook-bin
 
-# Issue 2102
-xkcdpass
-
 # Issue 2104
 ttf-heuristica
 ttf-impallari-cantora
