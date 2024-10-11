@@ -5,7 +5,7 @@ capnproto-java
 icestorm-git
 nextpnr-git
 python-crc # (dep prjapicula)
-prjapicula
+#prjapicula # (dep nextpnr-git)
 prjoxide-git
 prjtrellis-db-git
 prjtrellis-git
