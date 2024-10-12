@@ -241,6 +241,14 @@ jdk:https://aur.archlinux.org/jdk.git
 # Issue 1407
 jellyfin-git # (also builds jellyfin-{server,web}-git
 
+# Issue 1412
+libticables # (dep libticalcs)
+libticonv # (dep libtifiles)
+libtifiles # (dep libticalcs)
+libticalcs # (dep tiemu)
+libglade # (dep tiemu)
+tiemu
+
 # Issue 1415
 portainer-bin
 
