@@ -396,9 +396,6 @@ skeuos-gtk
 vala-panel
 vala-panel-appmenu:https://aur.archlinux.org/vala-panel-appmenu.git # (vala-panel-appmenu vala-panel-appmenu-common vala-panel-appmenu-registrar vala-panel-appmenu-mate vala-panel-appmenu-xfce vala-panel-appmenu-valapanel vala-panel-appmenu-budgie)
 
-# Issue 1707
-warp
-
 # Issue 1719
 akira
 akira-git
