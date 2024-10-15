@@ -311,7 +311,6 @@ fish-git
 forkgram
 harmonoid-bin
 huniq-git
-input-leap-git
 ipman
 jamesdsp-git
 kvantum-git
@@ -968,3 +967,6 @@ reboot-arch-btw
 
 # Issue 3332
 cheat
+
+# Issue 3352
+input-leap
