@@ -1493,5 +1493,10 @@ mongodb-compass
 sidplay2-libs # (dep moc-pulse)
 moc-pulse
 
+# Issue 3269
+xr-hardware # (dep envision-xr-git)
+envision-xr-git
+wlx-overlay-s-git
+
 # Issue 3293
 kmonad-git
